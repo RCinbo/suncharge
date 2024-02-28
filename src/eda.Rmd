@@ -1,0 +1,14 @@
+---
+title: 'Suncharge case: Data exploration'
+author: "Raïsa Carmen (s0204278, group 7)"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+In this report, we explore the data for the Suncharge case which can be found in this repository [](). The script for the data exploration can be found [here](https://github.com/RCinbo/suncharge).
