@@ -2,13 +2,142 @@
 title: 'Suncharge case: Data exploration'
 author: "Raïsa Carmen (s0204278, group 7)"
 date: "`r Sys.Date()`"
-output: pdf_document
+output:
+  pdf_document:
+      toc: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(rprojroot)
+datafolder <- rprojroot::find_root_file("data",
+                                        criterion = has_file("suncharge.Rproj"))
 ```
 
 # Introduction
 
-In this report, we explore the data for the Suncharge case which can be found in this repository [](). The script for the data exploration can be found [here](https://github.com/RCinbo/suncharge).
+In this report, we explore the data for the Suncharge case which can be found in [$\text{\underline{this repository}}$](https://github.com/JannesPeeters/suncharge). The script for the data exploration can be found [$\text{\underline{here}}$](https://github.com/RCinbo/suncharge/blob/raisa_eda/src/eda.Rmd). All data analysis and visualization was performed in R.
+ 
+# Data exploration
+
+```{r read-files}
+bom <- read_csv( # the bill of materials
+  file = paste0(datafolder, "/BOM.csv")) %>%
+  rename("rownb" = "...1",
+         "material" = "Material",
+         "component" = "Component",
+         "product_category" = "Product Category",
+         "finished_product" = "Finished Product")
+cpr <- read_csv(
+  file = paste0(datafolder, "/CustomerPlantRelation.csv")) %>%
+  rename("rownb" = "...1",
+         "customer_country" = "CustomerCountry",
+         "plantkey" = "PlantKey")
+customers <- read_csv(
+  file = paste0(datafolder, "/Customers.csv")) %>%
+  rename("rownb" = "...1",
+         "customerkey" = "CustomerKey",
+         "customer_name" = "CustomerName",
+         "customer_country" = "CustomerCountry",
+         "customer_city" = "CustomerCity",
+         "customer_postalcode" = "CustomerPostalCode",
+         "customer_street" = "CustomerStreet",
+         "plantkey" = "PlantKey")
+forecast <- read_csv(
+  file = paste0(datafolder, "/Forecast.csv")) %>%
+  rename("rownb" = "...1",
+         "requested_delivery_month" = "RequestedDeliveryMonth",
+         "materialkey" = "MaterialKey",
+         "plantkey" = "PlantKey",
+         "quantity" = "Quantity",
+         "materialplantkey" = "MaterialPlantKey")
+inventory <- read_csv(
+  file = paste0(datafolder, "/Inventory.csv")) %>%
+  rename("rownb" = "...1",
+         "materialkey" = "MaterialKey",
+         "plantkey" = "PlantKey",
+         "materialplantkey" = "MaterialPlantKey",
+         "snapshot_date" = "SnapshotDate",
+         "gross_inventory_quantity" = "GrossInventoryQuantity",
+         "onshelf_inventory_quantity" = "OnShelfInventoryQuantity",
+         "intransit_quantity" = "InTransitQuantity")
+mpr <- read_csv(
+  file = paste0(datafolder, "/MaterialPlantRelation.csv")) %>%
+  rename("rownb" = "...1",
+         "materialkey" = "MaterialKey",
+         "plantkey" = "PlantKey",
+         "materialplantkey" = "MaterialPlantKey",
+         "vendorkey" = "VendorKey",
+         "standard_cost" = "StandardCost",
+         "currency" = "Currency",
+         "production_time" = "ProductionTime",
+         "inbound_transportation_time" = "InboundTransportationTime",
+         "good_receipt_processing_time" = "GoodReceiptProcessingTime",
+         "total_inbound_lead_time" = "TotalInboundLeadTime",
+         "safety_stock_qty" = "SafetyStockQty")
+materials <- read_csv(
+  file = paste0(datafolder, "/Materials.csv")) %>%
+  rename("rownb" = "...1",
+         "material" = "Material",
+         "materialkey" = "MaterialKey",
+         "material_type" = "MaterialType",
+         "material_description" = "MaterialDescription",
+         "product_category" = "Product Category",
+         "component" = "Component")
+plants <- read_csv(
+  file = paste0(datafolder, "/Plants.csv")) %>%
+  rename("rownb" = "...1",
+         "plantkey" = "PlantKey",
+         "plant" = "Plant",
+         "plant_type" = "PlantType",
+         "plant_name" = "PlantName",
+         "plant_city" = "PlantCity",
+         "plant_postal_code" = "PlantPostalCode",
+         "plant_street" = "PlantStreet")
+purchases <- read_csv(
+  file = paste0(datafolder, "/Purchases.csv")) %>%
+  rename("rownb" = "...1",
+         "purchase_order" = "PurchaseOrder",
+         "purchase_order_creation_date" = "PurchaseOrderCreationDate",
+         "vendorkey" = "VendorKey",
+         "plantkey" = "PlantKey",
+         "materialkey" = "MaterialKey",
+         "materialplantkey" = "MaterialPlantKey",
+         "purchase_order_quantity" = "PurchaseOrderQuantity",
+         "planned_goods_receipt_date" = "PlannedGoodsReceiptDate",
+         "actual_goods_receipt_date" = "ActualGoodsReceiptDate",
+         "planned_arrival_date_yard" = "PlannedArrivalDateYard",
+         "actual_arrival_date_yard" = "ActualArrivalDateYard",
+         "planned_vendor_shipment_date" = "PlannedVendorShipmentDate",
+         "actual_vendor_shipment_date" = "ActualVendorShipmentDate")
+sales <- read_csv(
+  file = paste0(datafolder, "/Sales.csv")) %>%
+  rename("rownb" = "...1",
+         "sales_order" = "SalesOrder",
+         "sales_order_item" = "SalesOrderItem",
+         "sales_order_creation_date" = "SalesOrderCreationDate",
+         "customerkey" = "CustomerKey",
+         "material_key" = "MaterialKey",
+         "order_quantity" = "OrderQuantity",
+         "plantkey" = "PlantKey",
+         "materialplantkey" = "MaterialPlantKey",
+         "sales_doc_type" = "SalesDocType",
+         "requested_delivery_date" = "RequestedDeliveryDate",
+         "delivery_date" = "DeliveryDate",
+         "high_order_qty_flag" = "HighOrderQtyFlag")
+vendors <- read_csv(
+  file = paste0(datafolder, "/Vendors.csv")) %>%
+  rename("rownb" = "...1",
+         "VendorKey" = "VendorKey",
+         "VendorTier" = "VendorTier",
+         "VendorName" = "VendorName",
+         "VendorCountry" = "VendorCountry",
+         "VendorCity" = "VendorCity",
+         "VendorPostalCode" = "VendorPostalCode",
+         "VendorStreet" = "VendorStreet")
+bom <- read_csv(
+  file = paste0(datafolder, "/BOM.csv")) %>%
+  rename("rownb" = "...1",)
+```
+
