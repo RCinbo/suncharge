@@ -8,11 +8,21 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE,
+                      warning = FALSE,
+                      message = FALSE)
 library(tidyverse)
 library(rprojroot)
+library(tidygeocoder)
+library(GGally)
+library(furrr) #parallel address to coordinates
+library(tictoc)
+library(git2rdata)
+library(sf)
+library(rnaturalearth)
 datafolder <- rprojroot::find_root_file("data",
                                         criterion = has_file("suncharge.Rproj"))
+
 ```
 
 # Introduction
@@ -118,7 +128,7 @@ sales <- read_csv(
          "sales_order_item" = "SalesOrderItem",
          "sales_order_creation_date" = "SalesOrderCreationDate",
          "customerkey" = "CustomerKey",
-         "material_key" = "MaterialKey",
+         "materialkey" = "MaterialKey",
          "order_quantity" = "OrderQuantity",
          "plantkey" = "PlantKey",
          "materialplantkey" = "MaterialPlantKey",
@@ -129,15 +139,265 @@ sales <- read_csv(
 vendors <- read_csv(
   file = paste0(datafolder, "/Vendors.csv")) %>%
   rename("rownb" = "...1",
-         "VendorKey" = "VendorKey",
-         "VendorTier" = "VendorTier",
-         "VendorName" = "VendorName",
-         "VendorCountry" = "VendorCountry",
-         "VendorCity" = "VendorCity",
-         "VendorPostalCode" = "VendorPostalCode",
-         "VendorStreet" = "VendorStreet")
-bom <- read_csv(
-  file = paste0(datafolder, "/BOM.csv")) %>%
-  rename("rownb" = "...1",)
+         "vendorkey" = "VendorKey",
+         "vendor_tier" = "VendorTier",
+         "vendor_name" = "VendorName",
+         "vendor_country" = "VendorCountry",
+         "vendor_city" = "VendorCity",
+         "vendor_postal_code" = "VendorPostalCode",
+         "vendor_street" = "VendorStreet")
 ```
+
+```{r tidygeocoder, echo = FALSE, message = FALSE, eval = !file.exists(paste0(datafolder, "/customers.tsv"))}
+# use tidegeocoder to get coordinates for all adresses:
+address_list <- vendors %>%
+  mutate(full_address = paste(vendor_street, vendor_postal_code, vendor_city,
+                              vendor_country)) %>%
+  mutate(full_address = str_remove_all(full_address, "NA")) %>%
+  dplyr::pull(full_address) %>%
+  unique() %>%
+  as.list()
+plan(strategy = "multisession", workers = availableCores() - 1)
+tic()
+address_geodata <-
+  future_map(.x = address_list,
+             ~ geo(address = .x, method = 'bing', lat = latitude,
+                   long = longitude)) %>% 
+  # puts the lists back together into a dataframe/tibble
+  bind_rows()
+toc()
+vendors <- vendors %>%
+  mutate(full_address = paste(vendor_street, vendor_postal_code, vendor_city,
+                              vendor_country)) %>%
+  mutate(full_address = str_remove_all(full_address, "NA"))%>%
+  left_join(address_geodata, by = join_by("full_address" == "address"))
+write_vc(vendors, file = "vendors",
+         root = datafolder, sorting = "rownb")
+#plants coordinates
+address_list <- plants %>%
+  mutate(full_address = paste(plant_street, plant_postal_code, plant_city)) %>%
+  mutate(full_address = str_remove_all(full_address, "NA")) %>%
+  dplyr::pull(full_address) %>%
+  unique() %>%
+  as.list()
+plan(strategy = "multisession", workers = availableCores() - 1)
+tic()
+address_geodata <-
+  future_map(.x = address_list,
+             ~ geo(address = .x, method = 'bing', lat = latitude,
+                   long = longitude)) %>%
+  bind_rows()
+toc()
+plants <- plants %>%
+  mutate(full_address = paste(plant_street, plant_postal_code, plant_city)) %>%
+  mutate(full_address = str_remove_all(full_address, "NA"))%>%
+  left_join(address_geodata, by = join_by("full_address" == "address"))
+write_vc(plants, file = "plants",
+         root = datafolder, sorting = "rownb")
+
+#customer coordinates
+address_list <- customers %>%
+  mutate(full_address = paste(customer_street, customer_postalcode, customer_city,
+                              customer_country)) %>%
+  mutate(full_address = str_remove_all(full_address, "NA")) %>%
+  dplyr::pull(full_address) %>%
+  unique() %>%
+  as.list()
+plan(strategy = "multisession", workers = availableCores() - 1)
+tic()
+address_geodata <-
+  future_map(.x = address_list,
+             ~ geo(address = .x, method = 'bing', lat = latitude,
+                   long = longitude)) %>%
+  bind_rows()
+toc()
+address_geodata2 <- address_geodata
+address_list <- address_list[which(is.na(address_geodata$latitude))]
+plan(strategy = "multisession", workers = availableCores() - 1)
+tic()
+address_geodata <-
+  future_map(.x = address_list,
+             ~ geo(address = .x, method = 'bing', lat = latitude,
+                   long = longitude)) %>%
+  bind_rows()
+toc()
+address_geodata2 <- address_geodata2 %>%
+  full_join(address_geodata, by = join_by(address)) %>%
+  mutate(latitude = ifelse(!is.na(latitude.x),
+                           latitude.x, latitude.y),
+         longitude = ifelse(!is.na(longitude.x),
+                           longitude.x, longitude.y)) %>%
+  dplyr::select(-contains("."))
+address_list <- address_list[which(is.na(address_geodata$latitude))]
+plan(strategy = "multisession", workers = availableCores() - 1)
+tic()
+address_geodata <-
+  future_map(.x = address_list,
+             ~ geo(address = .x, method = 'bing', lat = latitude,
+                   long = longitude)) %>%
+  bind_rows()
+toc()
+address_geodata2 <- address_geodata2 %>%
+  full_join(address_geodata, by = join_by(address)) %>%
+  mutate(latitude = ifelse(!is.na(latitude.x),
+                           latitude.x, latitude.y),
+         longitude = ifelse(!is.na(longitude.x),
+                           longitude.x, longitude.y)) %>%
+  dplyr::select(-contains("."))
+address_list <- address_list[which(is.na(address_geodata$latitude))]
+plan(strategy = "multisession", workers = availableCores() - 1)
+tic()
+address_geodata <-
+  future_map(.x = address_list,
+             ~ geo(address = .x, method = 'bing', lat = latitude,
+                   long = longitude)) %>%
+  bind_rows()
+toc()
+address_geodata2 <- address_geodata2 %>%
+  full_join(address_geodata, by = join_by(address)) %>%
+  mutate(latitude = ifelse(!is.na(latitude.x),
+                           latitude.x, latitude.y),
+         longitude = ifelse(!is.na(longitude.x),
+                           longitude.x, longitude.y)) %>%
+  dplyr::select(-contains("."))
+
+customers <- customers %>%
+  mutate(full_address = paste(customer_street, customer_postalcode, customer_city,
+                              customer_country)) %>%
+  mutate(full_address = str_remove_all(full_address, "NA")) %>%
+  left_join(address_geodata2, by = join_by("full_address" == "address"))
+write_vc(customers, file = "customers",
+         root = datafolder, sorting = "rownb")
+```
+```{r load-tidygeocoder, echo = FALSE, message = FALSE, eval = file.exists(paste0(datafolder, "/customers.tsv"))}
+customers <- read_vc(file = "customers",
+         root = datafolder)
+vendors <- read_vc(file = "vendors",
+         root = datafolder)
+plants <- read_vc(file = "plants",
+         root = datafolder)
+```
+
+## Features and correlations
+
+In addition to the next subsection which shows a geographical overview of the plants, vendors, and customers, we briefly explore some of the following features in the data:
+
+- Quantity of products forecasted: The forecasts are known for each product that is shipped from each distribution center, for each month starting from Janury 2022 to December 2025 (48 months).
+- Quantity of products sold: For each sale, it is know which product was sold, how much of the product was sold, to which customer it was sold, when it was ordered, requested, and delivered and from which distribution center.
+- Quantity of raw materials purchased: To make the end product, raw materials need to be purchased. For each purchase order, we know the vendors, the plant to which it is shipped, the type and quantity of the material, and the date when the shipment is (planned to be) shipped or arrived at the yard.
+- Quantity of products in inventory: At the end of each month (December 2022 - January 2024), the inventory in each plant is checked: the current inventory of each product in each plant is noted (*on shelf inventory*). Additionally, one takes account of the number of materials that are in transit to obtain the *gross inventory* quantity.
+
+We sum all sales and purchases per material and per plant over each month. In that way, we get, for each month, plant, and material, the total quantity forecasted, sold, purchased, and the total gross inventory, onshelf inventory, and intransit inventory. Figure \@ref(fig:corrs) shows the link between all those variables and their distribution.
+
+```{r histograms, fig.cap = "Gross (black), on shelf(green), and in transit (red) inventory in each plant. The transparent lines show the inventory of material 1 and 2 separetly while the full lines show the average of the two products."}
+inv_avg <- inventory %>%
+  group_by(plantkey, snapshot_date) %>%
+  summarize(avg_gross = mean(gross_inventory_quantity),
+            avg_onshelf = mean(onshelf_inventory_quantity),
+            avg_intransit = mean(intransit_quantity)) %>%
+  ungroup()
+
+inventory %>% ggplot() +
+  geom_line(aes(x = snapshot_date, y = gross_inventory_quantity,
+                group = materialkey),
+            alpha = 0.5, color = "black") +
+  geom_line(data = inv_avg, aes(x = snapshot_date, y = avg_gross),
+            color = "black") +
+  geom_line(aes(x = snapshot_date, y = onshelf_inventory_quantity,
+                group = materialkey),
+            alpha = 0.5, color = "forestgreen") +
+  geom_line(data = inv_avg, aes(x = snapshot_date, y = avg_onshelf),
+            color = "forestgreen") +
+  geom_line(aes(x = snapshot_date, y = intransit_quantity,
+                group = materialkey),
+            alpha = 0.5, color = "red") +
+  geom_line(data = inv_avg, aes(x = snapshot_date, y = avg_intransit),
+            color = "red") +
+  facet_grid(cols = vars(plantkey)) +
+  theme_bw() + 
+  ylab("Inventory") +
+  xlab("Date") + 
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+```{r corrs, fig.cap = "summary histogram and correlation between inventories, forecasts, sales and purchases."}
+allfeatures <-
+  inventory %>%
+  mutate(year = year(snapshot_date),
+         month = month(snapshot_date)) %>%
+  dplyr::select(year, month, materialkey, plantkey, gross_inventory_quantity, onshelf_inventory_quantity, intransit_quantity) %>%
+  full_join(forecast %>%
+              mutate(year = year(requested_delivery_month),
+                     month = month(requested_delivery_month),
+                     forecast_quantity = quantity) %>%
+              dplyr::select(year, month, materialkey, plantkey,
+                            forecast_quantity)) %>%
+  full_join(purchases %>%
+              mutate(year = year(purchase_order_creation_date),
+                     month = month(purchase_order_creation_date)) %>%
+              group_by(year, month, materialkey, plantkey) %>%
+              summarize(purchase_quantity = sum(purchase_order_quantity)) %>%
+              ungroup()) %>%
+  full_join(sales %>%
+              mutate(year = year(sales_order_creation_date),
+                     month = month(sales_order_creation_date)) %>%
+              group_by(year, month, materialkey, plantkey) %>%
+              summarize(sales_quantity = sum(order_quantity)) %>%
+              ungroup()) %>%
+  rename("gross_inv" = "gross_inventory_quantity",
+         "onshelf_inv" = "onshelf_inventory_quantity",
+         "intransit" = "intransit_quantity",
+         "forecast_qty" = "forecast_quantity",
+         "purchase_qty" = "purchase_quantity",
+         "sales_qty" = "sales_quantity")
+ggpairs(allfeatures %>% dplyr::select(5:10),
+        labeller = label_wrap_gen(15)) +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+
+
+## Geographical overview
+
+An address is supplied for all vendors, plants, and customers. Using the R package *tidygeocoder*,  we can find the coordinates for each of the addresses. We can visualise these on a map. Figure \@ref{fig:map-cust} shows all vendors in red and plants in green. Figure \@ref{fig:map-vp} shows all customers. Most are located in Europe but there are also customers in Africa, the US and Asia.
+
+```{r map-vp, echo = FALSE, message = FALSE, fig.cap = "Vendors in red and plants in green"}
+world <- ne_countries(scale = "medium", returnclass = "sf")
+world_filter <- world[which(world$continent %in% c("Europe", "North America", "Asia")),]
+vendors_sf <- vendors %>%
+  filter(!is.na(longitude)) %>%
+  st_as_sf(coords = c("longitude", "latitude"),
+                          crs = "EPGS:4326") %>%
+  sf::st_set_crs(4326)
+plants_sf <- plants %>%
+  filter(!is.na(longitude)) %>%
+  st_as_sf(coords = c("longitude", "latitude"),
+                          crs = "EPGS:4326") %>%
+  sf::st_set_crs(4326)
+ggplot(world) + geom_sf() +
+  geom_sf(data = vendors_sf, color = "red", alpha = 0.5) +
+  geom_sf(data = plants_sf, color = "green", alpha = 0.5) +
+  coord_sf(xlim = c(-80,125), ylim = c(20,70), expand = FALSE)
+```
+
+```{r map-cust, echo = FALSE, message = FALSE, fig.cap = "Suncharge customer locations."}
+customers_sf <- customers %>%
+  filter(!is.na(longitude)) %>%
+  st_as_sf(coords = c("longitude", "latitude"),
+                          crs = "EPGS:4326") %>%
+  sf::st_set_crs(4326)
+ggplot(world) + geom_sf() +
+  geom_sf(data = customers_sf, color = "red", alpha = 0.2) +
+  coord_sf(xlim = c(-125,160), ylim = c(-40,70), expand = FALSE)
+```
+
+It would be interesting to put all of these on a dynamic map  where details for each customer, vendor and plant can be consulted by hovering over the location. Additionally, One could visualise the flow between vendors and plants or customers and plants using lines between them. The thickness of the line may represents the number of products or the monetary value of the products that are shipped between them (based on the sales or purchases datasets).
+
+
+<!-- ## Supply chain overview -->
+
+<!-- ### Purchases and vendors -->
+
+<!-- The supply chain starts where the raw materials for the EV Car Batteries and Home Batteries are bought from the vendors and shipped to the production plants. There are three production plants: `r plants %>% filter(plant_type == "Production") %>% dplyr::pull(plant_name) %>% cat(sep = ", ")`.  -->
 
