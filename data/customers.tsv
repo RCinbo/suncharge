@@ -1,0 +1,1228 @@
+rownb	customerkey	customer_name	customer_country	customer_city	customer_postalcode	customer_street	plantkey	full_address	latitude	longitude
+1	1	O'Hara-MacGyver	Germany	Hamburg	22041	36 Westport Court	4	36 Westport Court 22041 Hamburg Germany	53.580526	10.063393
+2	2	Smitham, Lind and Lindgren	Germany	München	81679	934 Shelley Lane	4	934 Shelley Lane 81679 München Germany	40.60404074	-77.20138827
+3	3	Becker-Heller	Germany	Halle	6116	7576 Browning Terrace	4	7576 Browning Terrace 6116 Halle Germany	39.22053868	-83.38632051
+4	4	Runolfsdottir Inc	Germany	Essen	45141	862 Gateway Center	4	862 Gateway Center 45141 Essen Germany	51.4472383	7.00125525
+5	5	Hoppe Group	Germany	Hamburg Sankt Pauli	20459	69815 Ridgeview Center	4	69815 Ridgeview Center 20459 Hamburg Sankt Pauli Germany	53.54625695	9.95990965
+6	6	Pouros-Reinger	Germany	Wuppertal	42285	29 Bowman Point	4	29 Bowman Point 42285 Wuppertal Germany	51.2761	7.202683
+7	7	Schaden-Kessler	Germany	Dresden	1189	54135 Lake View Parkway	4	54135 Lake View Parkway 1189 Dresden Germany	39.9981812	-82.02292213
+8	8	Barrows-Volkman	Belgium	Ninove	9404	78761 Hintze Point	4	78761 Hintze Point 9404 Ninove Belgium	50.84870455	4.32078645
+9	9	Schulist, Green and Kessler	Germany	Dresden	1462	15723 Bartillon Lane	4	15723 Bartillon Lane 1462 Dresden Germany	51.05099106	13.73363304
+10	10	Windler-Daniel	Germany	Köln	51149	4719 Sycamore Hill	4	4719 Sycamore Hill 51149 Köln Germany	40.15269871	-74.97142616
+11	11	Champlin and Sons	Germany	Hamburg	20249	74595 Kinsman Point	4	74595 Kinsman Point 20249 Hamburg Germany	53.58962631	9.98966408
+12	12	Quitzon, Walter and Kessler	Germany	München	80337	6608 Brickson Park Street	4	6608 Brickson Park Street 80337 München Germany	48.12700272	11.5596571
+13	13	Murray, Bahringer and Armstrong	Germany	Cottbus	3055	437 Packers Park	4	437 Packers Park 3055 Cottbus Germany	51.56302125	13.892538
+14	14	Gutkowski, White and Beatty	Germany	Freiburg im Breisgau	79106	22 Melvin Trail	4	22 Melvin Trail 79106 Freiburg im Breisgau Germany	47.9991	7.839344
+15	15	Monahan-Rau	Germany	Hamburg Sankt Pauli	20459	6 Becker Point	4	6 Becker Point 20459 Hamburg Sankt Pauli Germany	53.547362	9.977899
+16	16	Kunze-Nikolaus	Germany	Hannover	30453	79 Nevada Trail	4	79 Nevada Trail 30453 Hannover Germany	52.409473	9.666428
+17	17	Veum, Mante and Will	Belgium	Namur	5100	95 Coolidge Court	4	95 Coolidge Court 5100 Namur Belgium	50.4224499	4.8677507
+18	18	Jast-West	Germany	München	80995	370 7th Parkway	4	370 7th Parkway 80995 München Germany	48.211619	11.529123
+19	19	Quigley, Schamberger and O'Keefe	Germany	Lübeck	23568	94466 Menomonie Plaza	4	94466 Menomonie Plaza 23568 Lübeck Germany	53.88766098	10.79603767
+20	20	Dooley Group	Germany	Kassel	34132	87424 Bunker Hill Place	4	87424 Bunker Hill Place 34132 Kassel Germany	40.4692639	-76.91121312
+21	21	Kris-Deckow	Germany	Hannover	30167	87 6th Pass	4	87 6th Pass 30167 Hannover Germany	52.393027	9.709749
+22	22	Sawayn-Langosh	Germany	Stuttgart	70374	8274 Badeau Court	4	8274 Badeau Court 70374 Stuttgart Germany	48.81684494	9.25130081
+23	23	Lockman, Anderson and Aufderhar	Belgium	Bouillon	6834	815 Lotheville Park	4	815 Lotheville Park 6834 Bouillon Belgium	49.83944321	5.11235952
+24	24	Dach-Hauck	Germany	Frankfurt am Main	60325	43077 North Terrace	4	43077 North Terrace 60325 Frankfurt am Main Germany	50.11549377	8.65886974
+25	25	Crooks and Sons	Germany	Halle	6116	94402 Longview Place	4	94402 Longview Place 6116 Halle Germany	51.48216629	11.96579552
+26	26	Harber Group	Germany	Münster	48161	6 Porter Hill	4	6 Porter Hill 48161 Münster Germany	51.96902	7.605221
+27	27	Little-Ankunding	Germany	Frankfurt am Main	60325	5 Banding Pass	4	5 Banding Pass 60325 Frankfurt am Main Germany	50.098347	8.690307
+28	28	Hahn, Torp and Welch	Germany	Neuss	41468	873 Aberg Pass	4	873 Aberg Pass 41468 Neuss Germany	51.17936325	6.74318409
+29	29	Johnson, Legros and Rosenbaum	Germany	Stuttgart	70567	68 Homewood Court	4	68 Homewood Court 70567 Stuttgart Germany	48.746749	9.156685
+30	30	Shields, Harber and Goldner	Germany	Halle	6126	80 Novick Parkway	4	80 Novick Parkway 6126 Halle Germany	51.521677	11.909501
+31	31	Legros, Crona and Rippin	Germany	Hamburg Harvestehude	20249	48499 Drewry Hill	4	48499 Drewry Hill 20249 Hamburg Harvestehude Germany	53.57766724	9.98895168
+32	32	Carter, Willms and Schneider	Germany	München	81373	6778 Truax Parkway	4	6778 Truax Parkway 81373 München Germany	48.11749649	11.51846504
+33	33	Terry, Carroll and Gottlieb	Germany	München	80995	6911 Onsgard Street	4	6911 Onsgard Street 80995 München Germany	48.21487427	11.53372288
+34	34	Ortiz, Stamm and Abshire	Belgium	Charleroi	6042	33 Warrior Crossing	4	33 Warrior Crossing 6042 Charleroi Belgium	50.4284235	4.4491348
+35	35	Walker-Deckow	Germany	Kiel	24109	9 Meadow Valley Pass	4	9 Meadow Valley Pass 24109 Kiel Germany	48.63624922	-93.82827162
+36	36	Fadel, Trantow and Kohler	Germany	Dillenburg	35687	69991 Manley Street	4	69991 Manley Street 35687 Dillenburg Germany	50.72128677	8.30685329
+37	37	Ruecker-Leannon	Belgium	Péruwelz	7604	0369 Golf Course Pass	4	0369 Golf Course Pass 7604 Péruwelz Belgium	50.55483627	3.53454208
+38	38	Shields, Mitchell and Breitenberg	Germany	Düsseldorf	40489	79 Melvin Crossing	4	79 Melvin Crossing 40489 Düsseldorf Germany	51.25512	6.760632
+39	39	Hermiston Group	Germany	Heilbronn	74080	19283 Holmberg Place	4	19283 Holmberg Place 74080 Heilbronn Germany	49.13300323	9.15668488
+40	40	Carroll-Feest	Germany	Berlin	14199	993 Graedel Avenue	4	993 Graedel Avenue 14199 Berlin Germany	52.48902401	13.4146613
+41	41	Koelpin LLC	Germany	Köln	50674	3836 Bunting Center	4	3836 Bunting Center 50674 Köln Germany	46.91148243	-94.48210783
+42	42	Auer, Price and Jerde	Germany	Berlin	14109	8 Pleasure Court	4	8 Pleasure Court 14109 Berlin Germany	52.431211	13.21653
+43	43	Rogahn LLC	Germany	Hamburg	20249	539 Little Fleur Place	4	539 Little Fleur Place 20249 Hamburg Germany	35.0311402	-83.25771333
+44	44	O'Reilly-Rempel	Germany	Augsburg	86156	666 Hanson Avenue	4	666 Hanson Avenue 86156 Augsburg Germany	48.35537004	10.86211493
+45	45	McClure, Emard and Streich	Germany	Chemnitz	9116	5 Florence Alley	4	5 Florence Alley 9116 Chemnitz Germany	50.892428	12.767705
+46	46	Boyle-O'Reilly	Germany	Wetzlar	35581	01 Dennis Circle	4	01 Dennis Circle 35581 Wetzlar Germany	50.548866	8.570943
+47	47	Connelly-Glover	Germany	Hamburg	22453	2 Lunder Hill	4	2 Lunder Hill 22453 Hamburg Germany	53.595914	9.869496
+48	48	Larson, Reichert and Pfannerstill	Germany	Ludwigshafen am Rhein	67067	09 Ryan Park	4	09 Ryan Park 67067 Ludwigshafen am Rhein Germany	49.446598	8.4160375
+49	49	Heathcote-Romaguera	Belgium	Bruxelles	1170	8844 Almo Parkway	4	8844 Almo Parkway 1170 Bruxelles Belgium	50.80943298	4.40366602
+50	50	Quigley-Hodkiewicz	Belgium	Antwerpen	2170	39 High Crossing Terrace	4	39 High Crossing Terrace 2170 Antwerpen Belgium	43.14736	-76.3495987
+51	51	Padberg Inc	Germany	Mülheim an der Ruhr	45473	0 Heath Center	4	0 Heath Center 45473 Mülheim an der Ruhr Germany	51.4318349	6.87630674
+52	52	Bergnaum LLC	Germany	Lübeck	23568	192 Petterle Crossing	4	192 Petterle Crossing 23568 Lübeck Germany	53.889264	10.781424
+53	53	Bailey Group	Germany	Hamburg Bramfeld	22179	75 Grayhawk Court	4	75 Grayhawk Court 22179 Hamburg Bramfeld Germany	53.630244	10.103413
+54	54	Buckridge, Abshire and Koss	Germany	Witzenhausen	37217	193 Morning Park	4	193 Morning Park 37217 Witzenhausen Germany	38.74461235	-85.80129011
+55	55	McClure, Blick and Schultz	Germany	Bremen	28239	75 North Lane	4	75 North Lane 28239 Bremen Germany	53.113853	8.798319
+56	56	Batz Group	Germany	Köln	51107	0170 Glendale Court	4	0170 Glendale Court 51107 Köln Germany	50.92986679	7.04415607
+57	57	Runte-Vandervort	Germany	Magdeburg	39130	938 Harbort Way	4	938 Harbort Way 39130 Magdeburg Germany	38.70768338	-83.03122163
+58	58	Emard-Cronin	Germany	Hamburg Bramfeld	22179	97243 Karstens Lane	4	97243 Karstens Lane 22179 Hamburg Bramfeld Germany	53.61378735	10.02289428
+59	59	Douglas, Murazik and Zieme	Germany	Halle	6116	0 Walton Avenue	4	0 Walton Avenue 6116 Halle Germany	51.46043786	11.12295278
+60	60	Bradtke, Jakubowski and Nicolas	Germany	Hamburg	22453	7 Larry Crossing	4	7 Larry Crossing 22453 Hamburg Germany	53.581632	9.97813
+61	61	Walker, Stracke and Bechtelar	Germany	Berlin	12683	652 International Alley	4	652 International Alley 12683 Berlin Germany	52.600865	13.228406
+62	62	Rempel, Purdy and Deckow	Germany	Berlin	10823	83 Westridge Point	4	83 Westridge Point 10823 Berlin Germany	52.48997	13.355279
+63	63	Littel LLC	Germany	Berlin	13088	55688 Sundown Alley	4	55688 Sundown Alley 13088 Berlin Germany	52.55501938	13.46980095
+64	64	Schowalter and Sons	Belgium	Mons	7032	12458 Burrows Park	4	12458 Burrows Park 7032 Mons Belgium	-26.72950521	153.07333355
+65	65	Aufderhar Group	Germany	München	81679	01 Cottonwood Alley	4	01 Cottonwood Alley 81679 München Germany	48.141114	11.605323
+66	66	Jacobson LLC	Germany	Dortmund	44369	992 Eagan Alley	4	992 Eagan Alley 44369 Dortmund Germany	51.53128433	7.41382313
+67	67	Stanton-Nienow	Germany	Bremen	28239	95 Bonner Pass	4	95 Bonner Pass 28239 Bremen Germany	53.07720897	8.9317177
+68	68	Denesik-Lesch	Germany	Köln	50935	92 Spohn Avenue	4	92 Spohn Avenue 50935 Köln Germany	50.952055	6.924188
+69	69	McClure-Wolf	Germany	Dortmund	44143	4 Morning Alley	4	4 Morning Alley 44143 Dortmund Germany	51.494091	7.548752
+70	70	Walker-Oberbrunner	Germany	Berlin	10587	68 Hintze Avenue	4	68 Hintze Avenue 10587 Berlin Germany	52.51068	13.297447
+71	71	Smitham-Ernser	Germany	Stuttgart	70567	1394 Golf Course Lane	4	1394 Golf Course Lane 70567 Stuttgart Germany	38.86361133	-99.35873029
+72	72	Towne-Weber	Germany	Wiesbaden	65191	0 Hallows Way	4	0 Hallows Way 65191 Wiesbaden Germany	50.08382034	8.28393841
+73	73	VonRueden LLC	Germany	Berlin	10409	7286 Forest Hill	4	7286 Forest Hill 10409 Berlin Germany	41.01221726	-80.6114678
+74	74	Balistreri, Koelpin and Mayert	Germany	Berlin	12559	7 Corry Alley	4	7 Corry Alley 12559 Berlin Germany	52.391438	13.579359
+75	75	Rath and Sons	Germany	Bielefeld	33619	4804 Golden Leaf Lane	4	4804 Golden Leaf Lane 33619 Bielefeld Germany	34.14276536	-83.95296317
+76	76	Nicolas and Sons	Germany	Hanau	63456	96667 Onsgard Circle	4	96667 Onsgard Circle 63456 Hanau Germany	50.12176953	8.92975693
+77	77	Bashirian, Herman and McDermott	Germany	Hannover	30629	00 Harbort Junction	4	00 Harbort Junction 30629 Hannover Germany	52.37788037	9.70629381
+78	78	Mann, Borer and Cormier	Belgium	Bouillon	6834	5 Moulton Lane	4	5 Moulton Lane 6834 Bouillon Belgium	49.8372657	5.1105584
+79	79	Dooley, Legros and Fritsch	Germany	Frankfurt am Main	60325	8 Canary Pass	4	8 Canary Pass 60325 Frankfurt am Main Germany	34.39368111	-84.27775326
+80	80	Strosin LLC	Germany	Berlin	12169	983 Dennis Hill	4	983 Dennis Hill 12169 Berlin Germany	39.96405922	-77.06045088
+81	81	Bruen and Sons	Germany	Stuttgart Stuttgart-Mitte	70180	847 Oakridge Center	4	847 Oakridge Center 70180 Stuttgart Stuttgart-Mitte Germany	48.77456284	9.17989254
+82	82	Hartmann and Sons	Germany	Hamburg Winterhude	22303	38427 Elgar Street	4	38427 Elgar Street 22303 Hamburg Winterhude Germany	53.59390248	9.99328545
+83	83	Oberbrunner-Predovic	Germany	Essen	45141	76 Clemons Hill	4	76 Clemons Hill 45141 Essen Germany	51.493526	6.934547
+84	84	Volkman-Hessel	Germany	Solingen	42659	7922 Warner Road	4	7922 Warner Road 42659 Solingen Germany	51.1805465	7.0752825
+85	85	Rosenbaum, Kris and Bailey	Germany	Augsburg	86156	92177 Leroy Pass	4	92177 Leroy Pass 86156 Augsburg Germany	40.0408813	-75.23367039
+86	86	Hickle, Wehner and Schuster	Belgium	Bruxelles	1050	2 Welch Drive	4	2 Welch Drive 1050 Bruxelles Belgium	50.8364366	4.3718038
+87	87	Friesen and Sons	Germany	Dortmund	44143	8213 Green Junction	4	8213 Green Junction 44143 Dortmund Germany	40.4577433	-76.2889833
+88	88	Murray, Dach and Koch	Germany	Hamburg	22041	86371 Tomscot Plaza	4	86371 Tomscot Plaza 22041 Hamburg Germany	53.57559586	10.08070755
+89	89	Hansen, Zboncak and McCullough	Germany	Wuppertal	42349	7 Sage Trail	4	7 Sage Trail 42349 Wuppertal Germany	51.207418	7.142747
+90	90	Borer, Gibson and Reynolds	Germany	Mülheim an der Ruhr	45473	41 David Lane	4	41 David Lane 45473 Mülheim an der Ruhr Germany	51.445812	6.88884
+91	91	Cremin-Breitenberg	Germany	Berlin	12103	00483 Heffernan Park	4	00483 Heffernan Park 12103 Berlin Germany	52.46269153	13.38136668
+92	92	Mueller Inc	Germany	Wiesbaden	65191	203 Birchwood Trail	4	203 Birchwood Trail 65191 Wiesbaden Germany	39.52713224	-79.41944521
+93	93	Cartwright Inc	Germany	Berlin	13509	68856 Bay Circle	4	68856 Bay Circle 13509 Berlin Germany	41.48365784	-99.76553345
+94	94	Wilkinson Inc	Germany	Dresden	1189	6 Starling Drive	4	6 Starling Drive 1189 Dresden Germany	51.025031	13.760543
+95	95	Schuppe Inc	Germany	Hamburg	22559	001 Judy Court	4	001 Judy Court 22559 Hamburg Germany	53.586888	9.757696
+96	96	Ondricka-Carroll	Germany	Hannover	30453	25309 Burrows Way	4	25309 Burrows Way 30453 Hannover Germany	52.3497467	9.68751812
+97	97	Wisozk Group	Belgium	Bruxelles	1170	09 Village Green Plaza	4	09 Village Green Plaza 1170 Bruxelles Belgium	43.13839425	-76.31062715
+98	98	McKenzie and Sons	Germany	Heilbronn	74080	37 Nancy Pass	4	37 Nancy Pass 74080 Heilbronn Germany	40.15142323	-75.01996863
+99	99	Baumbach, Nolan and Barrows	Belgium	Ninove	9404	88222 Arapahoe Center	4	88222 Arapahoe Center 9404 Ninove Belgium	50.84156418	3.95568705
+100	100	Kunze, Emmerich and Sporer	Belgium	Gent	9052	251 Atwood Road	4	251 Atwood Road 9052 Gent Belgium	40.07856765	-87.6185763
+101	101	Jakubowski-Greenfelder	Germany	Würzburg	97078	3 Rieder Lane	4	3 Rieder Lane 97078 Würzburg Germany	49.822429	9.961161
+102	102	Monahan LLC	Germany	Wiesbaden	65191	7 Eagan Avenue	4	7 Eagan Avenue 65191 Wiesbaden Germany	50.0722815	8.2510402
+103	103	Stracke-Dare	Germany	Hamburg Sankt Pauli	20459	42698 Del Mar Point	4	42698 Del Mar Point 20459 Hamburg Sankt Pauli Germany	53.54606282	9.96918885
+104	104	Mohr and Sons	Germany	Leipzig	4288	5858 Bobwhite Crossing	4	5858 Bobwhite Crossing 4288 Leipzig Germany	34.31196698	-84.15881837
+105	105	Heathcote Inc	Germany	Düsseldorf	40215	03073 Mayer Hill	4	03073 Mayer Hill 40215 Düsseldorf Germany	51.1868795	6.8126955
+106	106	Pacocha LLC	Germany	Düsseldorf	40225	130 Continental Point	4	130 Continental Point 40225 Düsseldorf Germany	51.214105	6.774807
+107	107	Brekke and Sons	Germany	Hamburg	22769	5 Meadow Ridge Trail	4	5 Meadow Ridge Trail 22769 Hamburg Germany	41.148111	-74.599555
+108	108	Hickle LLC	Belgium	Mons	7032	6548 Prairieview Street	4	6548 Prairieview Street 7032 Mons Belgium	43.16870526	-88.13442961
+109	109	Kemmer-Smith	Germany	Dresden	1462	37258 Iowa Trail	4	37258 Iowa Trail 1462 Dresden Germany	41.67975701	-91.49312477
+110	110	Reichel Inc	Germany	Hamburg	22559	2 Logan Lane	4	2 Logan Lane 22559 Hamburg Germany	53.575866	9.79525
+111	111	Jaskolski, Wiegand and Dickens	Germany	Düsseldorf	40225	842 Fisk Junction	4	842 Fisk Junction 40225 Düsseldorf Germany	40.31831993	-78.93414417
+112	112	Davis Inc	Germany	Frankfurt am Main	60325	013 Hovde Parkway	4	013 Hovde Parkway 60325 Frankfurt am Main Germany	50.112456	8.659677
+113	113	Hayes Group	Germany	Stuttgart	70190	30131 Briar Crest Place	4	30131 Briar Crest Place 70190 Stuttgart Germany	48.79003525	9.20581722
+114	114	Streich Group	Germany	Freiburg im Breisgau	79114	70 Myrtle Crossing	4	70 Myrtle Crossing 79114 Freiburg im Breisgau Germany	47.993813	7.813197
+115	115	McCullough-Kihn	Germany	Berlin	10179	656 Longview Court	4	656 Longview Court 10179 Berlin Germany	52.601408	13.228715
+116	116	Vandervort Inc	Germany	Remscheid	42897	390 Petterle Alley	4	390 Petterle Alley 42897 Remscheid Germany	51.2431	7.168712
+117	117	Lubowitz Group	Germany	Wiesbaden	65191	0962 Autumn Leaf Point	4	0962 Autumn Leaf Point 65191 Wiesbaden Germany	50.08382034	8.28393841
+118	118	Sanford Inc	Germany	Nürnberg	90411	8378 Cherokee Point	4	8378 Cherokee Point 90411 Nürnberg Germany	40.0636697	-75.21627494
+119	119	Brekke-Fritsch	Germany	Dortmund	44143	7 Autumn Leaf Crossing	4	7 Autumn Leaf Crossing 44143 Dortmund Germany	34.50395535	-83.33718461
+120	120	Hilpert LLC	Belgium	Momignies	6594	13462 Carey Road	4	13462 Carey Road 6594 Momignies Belgium	50.01554108	4.156569
+121	121	Gleason Group	Germany	Hannover	30453	3060 Elmside Alley	4	3060 Elmside Alley 30453 Hannover Germany	34.151862	-84.101898
+122	122	Kihn, Larkin and Fadel	Germany	München	80337	46 Amoth Alley	4	46 Amoth Alley 80337 München Germany	48.0983995	11.5413376
+123	123	Wuckert-Cormier	Germany	Halle	6126	313 Declaration Avenue	4	313 Declaration Avenue 6126 Halle Germany	44.83199601	-93.56880029
+124	124	Legros Group	Belgium	Ninove	9404	4560 Cody Way	4	4560 Cody Way 9404 Ninove Belgium	42.96217606	-75.69697968
+125	125	Ward Group	Germany	Hamburg	20359	712 Sullivan Way	4	712 Sullivan Way 20359 Hamburg Germany	38.5656537	-90.00186211
+126	126	Fahey and Sons	Germany	Wuppertal	42285	65884 Vermont Court	4	65884 Vermont Court 42285 Wuppertal Germany	51.2575798	7.1683383
+127	127	Wunsch LLC	Belgium	Gent	9052	05461 Riverside Circle	4	05461 Riverside Circle 9052 Gent Belgium	33.0819971	-96.73651389
+128	128	Wiegand and Sons	Germany	München	80686	6 Bultman Parkway	4	6 Bultman Parkway 80686 München Germany	48.101611	11.523303
+129	129	Reichel-Beatty	Germany	Berlin	10587	30281 Eggendart Park	4	30281 Eggendart Park 10587 Berlin Germany	52.48611352	13.59142763
+130	130	Turcotte, Bruen and Jenkins	Germany	Dortmund	44369	05 Raven Center	4	05 Raven Center 44369 Dortmund Germany	51.5305808	7.4157925
+131	131	Christiansen, Kuphal and Hermiston	Germany	Freiburg im Breisgau	79106	4 Lukken Circle	4	4 Lukken Circle 79106 Freiburg im Breisgau Germany	47.993585	7.842026
+132	132	Fadel, Klein and Rowe	Germany	Münster	48161	2 Nevada Alley	4	2 Nevada Alley 48161 Münster Germany	51.950141	7.538823
+133	133	Schmitt Inc	Germany	Braunschweig	38106	615 Alpine Street	4	615 Alpine Street 38106 Braunschweig Germany	34.97807609	-83.33227227
+134	134	Erdman, Waters and Towne	Germany	Dortmund	44369	06 Iowa Park	4	06 Iowa Park 44369 Dortmund Germany	51.551972	7.365227
+135	135	Runolfsdottir, Erdman and Wintheiser	Germany	Hamburg Bramfeld	22179	7282 6th Circle	4	7282 6th Circle 22179 Hamburg Bramfeld Germany	53.609333	10.087815
+136	136	Gutmann, Schaefer and Morissette	Germany	Braunschweig	38126	85 Merrick Place	4	85 Merrick Place 38126 Braunschweig Germany	52.232532	10.532537
+137	137	Parisian LLC	Germany	Chemnitz	9116	005 Vermont Court	4	005 Vermont Court 9116 Chemnitz Germany	51.568702	-0.0765676
+138	138	Leuschke-Mills	Belgium	Péruwelz	7604	9 Lotheville Terrace	4	9 Lotheville Terrace 7604 Péruwelz Belgium	50.5291436	3.5162236
+139	139	Bernhard-Bartell	Germany	Augsburg	86156	33 Morning Parkway	4	33 Morning Parkway 86156 Augsburg Germany	48.375779	10.892131
+140	140	Casper, McCullough and Price	Germany	Hamburg Sankt Pauli	20459	27060 Barnett Place	4	27060 Barnett Place 20459 Hamburg Sankt Pauli Germany	53.54644452	9.96453884
+141	141	Bayer-Nienow	Germany	Remscheid	42897	81491 Hanover Road	4	81491 Hanover Road 42897 Remscheid Germany	51.18015289	7.28494072
+142	142	Boehm, Parker and Glover	Germany	Hamburg	22559	54 Bobwhite Lane	4	54 Bobwhite Lane 22559 Hamburg Germany	53.574446	9.812448
+143	143	Macejkovic-Wilkinson	Belgium	Namur	5100	0476 Mayer Trail	4	0476 Mayer Trail 5100 Namur Belgium	49.7740878	4.7140228
+144	144	Smith, King and Dach	Germany	Dortmund	44269	9336 Melrose Hill	4	9336 Melrose Hill 44269 Dortmund Germany	40.04666829	-74.99188467
+145	145	Ebert, Stroman and Cummerata	Germany	Berlin	12307	4861 Pawling Court	4	4861 Pawling Court 12307 Berlin Germany	52.38780212	13.39301777
+146	146	Ferry and Sons	Germany	Augsburg	86156	101 Evergreen Lane	4	101 Evergreen Lane 86156 Augsburg Germany	48.393926	10.846486
+147	147	Quitzon, Sanford and Nienow	Belgium	Bouillon	6834	609 Forest Court	4	609 Forest Court 6834 Bouillon Belgium	43.02561944	-88.13278838
+148	148	Brekke Group	Germany	Hamburg	22769	18708 Porter Crossing	4	18708 Porter Crossing 22769 Hamburg Germany	53.59622943	9.96880399
+149	149	McLaughlin-Stiedemann	Germany	München	80686	54973 Daystar Junction	4	54973 Daystar Junction 80686 München Germany	48.13212585	11.51738644
+150	150	Runte Group	Germany	Würzburg	97078	94538 Summit Terrace	4	94538 Summit Terrace 97078 Würzburg Germany	49.8207016	9.96065044
+151	151	Connelly, Bins and Huel	Belgium	Bouillon	6834	232 Stephen Place	4	232 Stephen Place 6834 Bouillon Belgium	43.13397342	-76.10935209
+152	152	Buckridge-Murazik	Germany	Berlin	10409	816 Jana Trail	4	816 Jana Trail 10409 Berlin Germany	52.42157	13.295926
+153	153	Hodkiewicz LLC	Germany	Wuppertal	42349	3885 Eagan Trail	4	3885 Eagan Trail 42349 Wuppertal Germany	44.816528	-93.212847
+154	154	Lynch-Goyette	Germany	Dortmund	44369	3166 Bashford Terrace	4	3166 Bashford Terrace 44369 Dortmund Germany	38.27478642	-85.69238284
+155	155	Wolff, Friesen and Daugherty	Germany	Münster	48161	48 Evergreen Avenue	4	48 Evergreen Avenue 48161 Münster Germany	42.10160891	-76.05708791
+156	156	Pacocha and Sons	Germany	München	80337	169 Hansons Court	4	169 Hansons Court 80337 München Germany	48.123521	11.547625
+157	157	Koepp LLC	Germany	München	80686	459 Nobel Terrace	4	459 Nobel Terrace 80686 München Germany	48.23023403	11.4816638
+158	158	Kutch LLC	Germany	Gelsenkirchen	45886	4 Jay Street	4	4 Jay Street 45886 Gelsenkirchen Germany	51.529036	7.107332
+159	159	Hamill, Paucek and Emmerich	Germany	Berlin	12045	9 Havey Alley	4	9 Havey Alley 12045 Berlin Germany	52.55509865	13.33971135
+160	160	Kulas, Wisozk and Wiegand	Germany	Freiburg im Breisgau	79106	7898 Dovetail Point	4	7898 Dovetail Point 79106 Freiburg im Breisgau Germany	34.5295032	-83.87802479
+161	161	Kessler, Dickinson and Rohan	Germany	Braunschweig	38126	6127 Westport Junction	4	6127 Westport Junction 38126 Braunschweig Germany	52.23303223	10.55326557
+162	162	Boehm Group	Belgium	Tournai	7504	833 Dakota Court	4	833 Dakota Court 7504 Tournai Belgium	43.30012558	-88.36636607
+163	163	Lueilwitz, Hoppe and Bogan	Germany	Offenbach	63073	10556 Elka Plaza	4	10556 Elka Plaza 63073 Offenbach Germany	50.08890152	8.80680752
+164	164	Boyer Inc	Germany	Berlin	10587	46 Eggendart Pass	4	46 Eggendart Pass 10587 Berlin Germany	53.887492	10.539506
+165	165	Hyatt LLC	Germany	Braunschweig	38126	3703 Kinsman Crossing	4	3703 Kinsman Crossing 38126 Braunschweig Germany	39.8362665	-84.2008115
+166	166	Becker, Schmeler and Johns	Germany	Hamburg	20359	7 Ryan Avenue	4	7 Ryan Avenue 20359 Hamburg Germany	53.550164	9.967171
+167	167	Moore LLC	Germany	Düsseldorf	40591	3266 Delladonna Parkway	4	3266 Delladonna Parkway 40591 Düsseldorf Germany	51.19216919	6.82133818
+168	168	Kozey Group	Germany	Köln	50935	02330 Schurz Way	4	02330 Schurz Way 50935 Köln Germany	50.92397835	6.9001151
+169	169	Rohan, Heathcote and Harber	Germany	Köln	51149	680 Glendale Park	4	680 Glendale Park 51149 Köln Germany	50.49146306	6.43705487
+170	170	Nolan, Carter and Upton	Germany	Dortmund	44269	6216 Prairieview Way	4	6216 Prairieview Way 44269 Dortmund Germany	39.53573801	-84.14338521
+171	171	Howell-Kautzer	Germany	Nürnberg	90411	59 Hauk Street	4	59 Hauk Street 90411 Nürnberg Germany	49.483267	11.108558
+172	172	Parker-Renner	Germany	Witzenhausen	37217	9760 Talisman Park	4	9760 Talisman Park 37217 Witzenhausen Germany	51.35485478	9.82105293
+173	173	Daugherty, Schuppe and Boyer	Germany	Berlin	10823	30478 Rusk Terrace	4	30478 Rusk Terrace 10823 Berlin Germany	52.48617554	13.35069656
+174	174	Strosin, Boyle and Smitham	Germany	Bremerhaven	27576	04 Chinook Place	4	04 Chinook Place 27576 Bremerhaven Germany	53.55705	8.582202
+175	175	Crooks, Satterfield and Anderson	Germany	Frankfurt am Main	60549	18 Nancy Park	4	18 Nancy Park 60549 Frankfurt am Main Germany	50.041071	8.463891
+176	176	Kuvalis, Hauck and Ortiz	Germany	Hannover	30453	7 Kedzie Plaza	4	7 Kedzie Plaza 30453 Hannover Germany	52.362041	9.692112
+177	177	Berge-Brown	Germany	München	81373	486 Center Place	4	486 Center Place 81373 München Germany	40.85190234	-73.97813086
+178	178	Weber-Jacobi	Germany	Würzburg	97078	499 Oak Valley Junction	4	499 Oak Valley Junction 97078 Würzburg Germany	34.56804546	-83.28593923
+179	179	DuBuque and Sons	Germany	Dortmund	44143	4 Hoffman Court	4	4 Hoffman Court 44143 Dortmund Germany	51.530078	7.552842
+180	180	Roberts LLC	Germany	Münster	48161	15432 Corry Circle	4	15432 Corry Circle 48161 Münster Germany	51.96206284	7.58657932
+181	181	Rowe-Treutel	Germany	Hamburg	20359	69 5th Lane	4	69 5th Lane 20359 Hamburg Germany	53.554935	9.955125
+182	182	Braun LLC	Germany	Berlin	10823	5336 Alpine Park	4	5336 Alpine Park 10823 Berlin Germany	39.84417481	-76.64017928
+183	183	Goldner, Murray and McGlynn	Germany	Dortmund	44269	480 6th Parkway	4	480 6th Parkway 44269 Dortmund Germany	51.49347	7.532589
+184	184	Wyman, Connelly and Bradtke	Belgium	Antwerpen	2170	11102 La Follette Hill	4	11102 La Follette Hill 2170 Antwerpen Belgium	43.25083096	-88.54931405
+185	185	Jerde Group	Germany	München	80337	09 Miller Junction	4	09 Miller Junction 80337 München Germany	48.14494112	11.57432641
+186	186	Runte LLC	Belgium	Bruxelles	1170	0 Division Place	4	0 Division Place 1170 Bruxelles Belgium	50.80943298	4.40366602
+187	187	Torphy, Smitham and Gaylord	Belgium	Antwerpen	2170	321 Towne Pass	4	321 Towne Pass 2170 Antwerpen Belgium	33.663665	-84.946034
+188	188	Schumm-Reinger	Germany	Würzburg	97078	69757 Bluejay Park	4	69757 Bluejay Park 97078 Würzburg Germany	49.7978059	10.02352178
+189	189	Thiel, Metz and Ernser	Germany	Hamburg	22111	60249 South Lane	4	60249 South Lane 22111 Hamburg Germany	53.54899597	10.08458042
+190	190	Langosh Group	Germany	Hannover	30629	5 Novick Alley	4	5 Novick Alley 30629 Hannover Germany	52.365965	9.813482
+191	191	O'Reilly Inc	Germany	Ludwigshafen am Rhein	67067	5 New Castle Lane	4	5 New Castle Lane 67067 Ludwigshafen am Rhein Germany	49.437267	7.725593
+192	192	Wisoky-Fahey	Belgium	Tournai	7536	787 Vera Lane	4	787 Vera Lane 7536 Tournai Belgium	40.58011816	-80.5884992
+193	193	Sawayn, Muller and O'Kon	Germany	Offenbach	63073	5 Daystar Parkway	4	5 Daystar Parkway 63073 Offenbach Germany	50.087392	8.812054
+194	194	Miller, Weimann and Schowalter	Germany	Bremen	28239	00801 Cherokee Lane	4	00801 Cherokee Lane 28239 Bremen Germany	33.73284105	-85.13330785
+195	195	McCullough LLC	Germany	Augsburg	86156	28815 Farragut Crossing	4	28815 Farragut Crossing 86156 Augsburg Germany	48.39466858	10.85702229
+196	196	Schneider, Green and Green	Germany	Bremerhaven	27576	21 Scott Alley	4	21 Scott Alley 27576 Bremerhaven Germany	53.522296	8.638363
+197	197	Marks, Nicolas and Swaniawski	Germany	Leipzig	4317	90 Kings Street	4	90 Kings Street 4317 Leipzig Germany	39.43311535	-79.35644541
+198	198	Mueller, Koepp and Haag	Germany	Kiel	24118	8638 Sutteridge Lane	4	8638 Sutteridge Lane 24118 Kiel Germany	54.33857727	10.12615299
+199	199	Fritsch-Harber	Germany	Freiburg im Breisgau	79106	74 Pawling Park	4	74 Pawling Park 79106 Freiburg im Breisgau Germany	48.05407341	7.77893362
+200	200	Lindgren and Sons	Germany	Berlin	13509	49 Pankratz Point	4	49 Pankratz Point 13509 Berlin Germany	52.566965	13.316791
+201	201	Kautzer Inc	Belgium	Antwerpen	2170	86 Norway Maple Pass	4	86 Norway Maple Pass 2170 Antwerpen Belgium	43.02089004	-88.36420886
+202	202	Willms Group	Germany	Hamburg Harvestehude	20249	60206 Gale Terrace	4	60206 Gale Terrace 20249 Hamburg Harvestehude Germany	53.5732101	9.99940445
+203	203	Trantow-Lemke	Belgium	Namur	5100	15 Jenna Circle	4	15 Jenna Circle 5100 Namur Belgium	50.4619296	4.8779542
+204	204	Durgan-Gleichner	Germany	Nürnberg	90451	72584 Schurz Crossing	4	72584 Schurz Crossing 90451 Nürnberg Germany	49.47917974	11.10758195
+205	205	Glover, Hamill and Hammes	Germany	München	80686	8 Badeau Circle	4	8 Badeau Circle 80686 München Germany	48.123699	11.53624
+206	206	Jenkins, Langworth and Mitchell	Germany	München	81543	3454 Lukken Hill	4	3454 Lukken Hill 81543 München Germany	48.10874176	11.56555939
+207	207	Kessler, McClure and Pfannerstill	Germany	Stuttgart	70374	176 Vernon Road	4	176 Vernon Road 70374 Stuttgart Germany	48.773004	9.275671
+208	208	Spinka Group	Germany	Berlin	10823	8563 Melody Lane	4	8563 Melody Lane 10823 Berlin Germany	52.48617554	13.35069656
+209	209	Torphy, Dicki and Bahringer	Germany	Würzburg	97078	2 Stang Terrace	4	2 Stang Terrace 97078 Würzburg Germany	49.822354	9.960908
+210	210	Johns-Donnelly	Belgium	Momignies	6594	6082 Forest Run Trail	4	6082 Forest Run Trail 6594 Momignies Belgium	43.06422864	-88.51871968
+211	211	Wiza LLC	Germany	Heilbronn	74080	14 Pearson Parkway	4	14 Pearson Parkway 74080 Heilbronn Germany	49.131641	9.193518
+212	212	Gibson and Sons	Germany	Köln	51107	67 Dunning Avenue	4	67 Dunning Avenue 51107 Köln Germany	50.924515	7.095493
+213	213	Kiehn, Monahan and Hilll	Germany	München	80995	108 Shasta Drive	4	108 Shasta Drive 80995 München Germany	48.2158589	11.534264
+214	214	Ratke-Hackett	Belgium	Péruwelz	7604	36271 Derek Trail	4	36271 Derek Trail 7604 Péruwelz Belgium	33.79369354	-86.02088165
+215	215	Morissette-Runolfsdottir	Germany	Köln	50935	917 Shasta Way	4	917 Shasta Way 50935 Köln Germany	40.24427092	-76.96999486
+216	216	Auer LLC	Germany	Hannover	30453	703 Marquette Terrace	4	703 Marquette Terrace 30453 Hannover Germany	32.27519314	-90.01649916
+217	217	Moore-Hammes	Germany	Berlin	10409	4980 Johnson Street	4	4980 Johnson Street 10409 Berlin Germany	42.77227909	-87.85482717
+218	218	Kshlerin Inc	Germany	Hamburg	21037	711 Cottonwood Drive	4	711 Cottonwood Drive 21037 Hamburg Germany	53.606608	9.90662
+219	219	Wunsch, Wiza and Stiedemann	Germany	Berlin	10823	95 Morning Way	4	95 Morning Way 10823 Berlin Germany	38.36940144	-75.14487259
+220	220	Davis-Zemlak	Germany	Kiel	24118	94093 Hagan Crossing	4	94093 Hagan Crossing 24118 Kiel Germany	54.33857727	10.12615299
+221	221	Ruecker, Cruickshank and Kerluke	Belgium	Tournai	7536	830 Sullivan Point	4	830 Sullivan Point 7536 Tournai Belgium	43.16708005	-76.30089311
+222	222	Renner and Sons	Germany	Solingen	42659	61416 Bunting Crossing	4	61416 Bunting Crossing 42659 Solingen Germany	51.13834381	7.15325212
+223	223	Kertzmann Inc	Germany	Hannover	30629	312 Westridge Street	4	312 Westridge Street 30629 Hannover Germany	52.39297867	9.84748173
+224	224	Metz-O'Kon	Germany	Frankfurt am Main	60435	704 Graedel Drive	4	704 Graedel Drive 60435 Frankfurt am Main Germany	38.48563627	-85.53053055
+225	225	Leannon LLC	Germany	Nürnberg	90411	9 Buena Vista Terrace	4	9 Buena Vista Terrace 90411 Nürnberg Germany	42.45579501	-75.08603376
+226	226	Hettinger LLC	Germany	Hamburg Sankt Pauli	20459	427 3rd Pass	4	427 3rd Pass 20459 Hamburg Sankt Pauli Germany	53.5454726	9.9721596
+227	227	Grant-Raynor	Germany	Hamburg	21037	7 Londonderry Trail	4	7 Londonderry Trail 21037 Hamburg Germany	53.478152	10.191785
+228	228	Considine-Conroy	Belgium	Bruxelles	1050	15 Redwing Avenue	4	15 Redwing Avenue 1050 Bruxelles Belgium	50.834563	4.35634434
+229	229	Walsh-Schiller	Germany	Leipzig	4317	0 Derek Crossing	4	0 Derek Crossing 4317 Leipzig Germany	51.33969116	12.37135601
+230	230	Weber, Carroll and Kris	Germany	Hamburg	22453	0385 Lakewood Gardens Crossing	4	0385 Lakewood Gardens Crossing 22453 Hamburg Germany	53.61359406	9.9824667
+231	231	O'Conner-Stokes	Germany	Münster	48161	1117 Walton Trail	4	1117 Walton Trail 48161 Münster Germany	27.01335682	-82.08284486
+232	232	Buckridge Group	Germany	Wuppertal	42349	310 Blue Bill Park Terrace	4	310 Blue Bill Park Terrace 42349 Wuppertal Germany	34.77423096	-84.26206167
+233	233	O'Connell-Rosenbaum	Germany	Stuttgart	70374	428 Lerdahl Road	4	428 Lerdahl Road 70374 Stuttgart Germany	48.777789	9.255374
+234	234	Lynch-McDermott	Belgium	Gent	9052	67168 Columbus Plaza	4	67168 Columbus Plaza 9052 Gent Belgium	51.00054932	3.71635151
+235	235	Graham Inc	Germany	Stuttgart	70567	3173 Ridgeview Park	4	3173 Ridgeview Park 70567 Stuttgart Germany	39.86209255	-76.66138009
+236	236	Keeling, Windler and Kohler	Belgium	Ninove	9404	1 Waxwing Avenue	4	1 Waxwing Avenue 9404 Ninove Belgium	50.8395897	3.9584571
+237	237	Thompson and Sons	Germany	Berlin	10179	3783 Chinook Plaza	4	3783 Chinook Plaza 10179 Berlin Germany	52.51205826	13.41633606
+238	238	Rutherford and Sons	Germany	Wetzlar	35581	37 Johnson Crossing	4	37 Johnson Crossing 35581 Wetzlar Germany	50.557297	8.495803
+239	239	Daniel-Runolfsdottir	Belgium	Péruwelz	7604	68 Garrison Center	4	68 Garrison Center 7604 Péruwelz Belgium	40.1303996	-87.70647535
+240	240	Feeney-Miller	Germany	Ludwigshafen am Rhein	67067	7459 Acker Lane	4	7459 Acker Lane 67067 Ludwigshafen am Rhein Germany	49.4593521	8.41353055
+241	241	Kuhn-Davis	Germany	Duisburg	47139	7 Fuller Park	4	7 Fuller Park 47139 Duisburg Germany	51.455603	6.698392
+242	242	Rosenbaum Inc	Germany	Offenbach	63073	6 Longview Road	4	6 Longview Road 63073 Offenbach Germany	50.088593	8.8235
+243	243	Klocko-Runte	Germany	Hamburg Harvestehude	20249	2373 Erie Road	4	2373 Erie Road 20249 Hamburg Harvestehude Germany	53.57766724	9.98895168
+244	244	Considine-Haley	Germany	Bochum	44869	40 Manufacturers Hill	4	40 Manufacturers Hill 44869 Bochum Germany	-29.81671197	30.85952659
+245	245	Abernathy and Sons	Germany	Essen	45356	87178 Sloan Terrace	4	87178 Sloan Terrace 45356 Essen Germany	51.49108505	6.9715085
+246	246	Schmitt LLC	Germany	Hamburg	20359	9209 Killdeer Drive	4	9209 Killdeer Drive 20359 Hamburg Germany	53.55580902	9.96449471
+247	247	Hand, Walker and Buckridge	Germany	Hamburg Bramfeld	22179	5361 Reindahl Road	4	5361 Reindahl Road 22179 Hamburg Bramfeld Germany	53.608181	10.07211876
+248	248	Bechtelar-Grady	Germany	Frankfurt am Main	60549	2299 New Castle Junction	4	2299 New Castle Junction 60549 Frankfurt am Main Germany	38.58634057	-82.6805408
+249	249	Schoen Group	Germany	Stuttgart	70374	141 Sutherland Park	4	141 Sutherland Park 70374 Stuttgart Germany	49.355442	9.879235
+250	250	Steuber, Terry and Okuneva	Germany	Nürnberg	90451	64 Kingsford Junction	4	64 Kingsford Junction 90451 Nürnberg Germany	49.400645	11.086162
+251	251	Grady, Rodriguez and Schmidt	Germany	Dresden	1462	76 Messerschmidt Plaza	4	76 Messerschmidt Plaza 1462 Dresden Germany	51.012536	13.78055
+252	252	Murphy-Fay	Germany	Essen	45141	712 Luster Park	4	712 Luster Park 45141 Essen Germany	52.45852709	8.37982919
+253	253	Jacobson Group	Germany	Hamburg	22041	7 Bartelt Junction	4	7 Bartelt Junction 22041 Hamburg Germany	53.587156	10.064259
+254	254	Welch-Lindgren	Belgium	Tournai	7536	6977 American Lane	4	6977 American Lane 7536 Tournai Belgium	50.57034908	3.52482649
+255	255	Frami, Blick and Goodwin	Belgium	Bouillon	6834	09273 Stuart Parkway	4	09273 Stuart Parkway 6834 Bouillon Belgium	49.83944321	5.11235952
+256	256	Kris and Sons	Germany	Neuss	41468	831 Sugar Parkway	4	831 Sugar Parkway 41468 Neuss Germany	40.37095631	-79.02785066
+257	257	Lang Inc	Germany	Osnabrück	49082	7284 Graceland Terrace	4	7284 Graceland Terrace 49082 Osnabrück Germany	52.24473953	8.05034447
+258	258	Spencer, Stroman and Walsh	Germany	Hamburg	22041	94 Commercial Way	4	94 Commercial Way 22041 Hamburg Germany	53.570386	10.041739
+259	259	Bartell, Turcotte and Braun	Germany	Frankfurt am Main	60325	15 Barnett Terrace	4	15 Barnett Terrace 60325 Frankfurt am Main Germany	50.101253	8.637984
+260	260	Greenholt-O'Kon	Belgium	Charleroi	6042	17 Ridge Oak Parkway	4	17 Ridge Oak Parkway 6042 Charleroi Belgium	43.163921	-76.345844
+261	261	Boehm-Bayer	Belgium	Antwerpen	2170	6 Crowley Place	4	6 Crowley Place 2170 Antwerpen Belgium	51.2396293	4.4381805
+262	262	Green-Muller	Germany	Bremen	28355	9 Alpine Hill	4	9 Alpine Hill 28355 Bremen Germany	53.073524	8.831232
+263	263	Dare and Sons	Germany	Stuttgart	70374	4 Corscot Lane	4	4 Corscot Lane 70374 Stuttgart Germany	48.79908	9.224458
+264	264	Ruecker-Tillman	Germany	Berlin	12683	66928 Mcbride Terrace	4	66928 Mcbride Terrace 12683 Berlin Germany	52.50899506	13.5531559
+265	265	Gislason LLC	Germany	Hamburg Harvestehude	20249	26 Becker Terrace	4	26 Becker Terrace 20249 Hamburg Harvestehude Germany	53.586996	9.97969
+266	266	Spencer and Sons	Belgium	Bouillon	6834	370 Sachs Terrace	4	370 Sachs Terrace 6834 Bouillon Belgium	50.444085	3.463422
+267	267	Johnson Inc	Germany	München	80804	47903 Alpine Place	4	47903 Alpine Place 80804 München Germany	48.11809137	11.58131789
+268	268	Prohaska Group	Germany	Dortmund	44369	2899 Hoard Street	4	2899 Hoard Street 44369 Dortmund Germany	51.53128433	7.41382313
+269	269	Koch, Hackett and Skiles	Germany	Hanau	63456	34049 Rusk Plaza	4	34049 Rusk Plaza 63456 Hanau Germany	50.1125946	8.90823078
+270	270	Hirthe-McClure	Germany	Frankfurt am Main	60325	505 Maryland Place	4	505 Maryland Place 60325 Frankfurt am Main Germany	50.151244	8.679425
+271	271	Koepp, Schuster and Von	Germany	Hannover	30453	49 Judy Drive	4	49 Judy Drive 30453 Hannover Germany	52.377474	9.689855
+272	272	Nitzsche LLC	Belgium	Péruwelz	7604	23348 Gina Road	4	23348 Gina Road 7604 Péruwelz Belgium	50.55483627	3.53454208
+273	273	Bednar, Rau and Frami	Germany	Leipzig	4109	89 Grover Park	4	89 Grover Park 4109 Leipzig Germany	51.33389795	12.48014835
+274	274	King, Kulas and Tillman	Germany	Remscheid	42897	931 Muir Parkway	4	931 Muir Parkway 42897 Remscheid Germany	40.28707504	-79.16890654
+275	275	Hauck, Breitenberg and Crooks	Germany	Hamburg	22769	545 East Crossing	4	545 East Crossing 22769 Hamburg Germany	53.670738	10.001968
+276	276	Becker and Sons	Germany	Freiburg im Breisgau	79114	64138 Menomonie Circle	4	64138 Menomonie Circle 79114 Freiburg im Breisgau Germany	47.99278828	7.84182057
+277	277	Luettgen-Kuhlman	Germany	Bremerhaven	27576	570 Memorial Circle	4	570 Memorial Circle 27576 Bremerhaven Germany	34.30994466	-83.82394037
+278	278	Gibson LLC	Germany	Hamburg	22453	76998 Summit Park	4	76998 Summit Park 22453 Hamburg Germany	53.55360705	9.8810702
+279	279	Predovic, Yundt and Halvorson	Germany	Mannheim	68239	53 Hoffman Street	4	53 Hoffman Street 68239 Mannheim Germany	49.441219	8.583651
+280	280	Herzog Group	Germany	Leipzig	4317	62965 Judy Plaza	4	62965 Judy Plaza 4317 Leipzig Germany	51.33969116	12.37135601
+281	281	Huel, Smitham and Schumm	Germany	Essen	45141	537 Crownhardt Terrace	4	537 Crownhardt Terrace 45141 Essen Germany	51.4496602	7.0671494
+282	282	Lowe and Sons	Germany	Kiel	24109	2 Lien Way	4	2 Lien Way 24109 Kiel Germany	54.355495	10.086922
+283	283	Auer, Witting and Schmidt	Germany	Hamburg	20359	8943 Roxbury Trail	4	8943 Roxbury Trail 20359 Hamburg Germany	39.54299347	-82.86425256
+284	284	McKenzie LLC	Germany	Hamburg	22339	7 Barby Pass	4	7 Barby Pass 22339 Hamburg Germany	53.611006	10.508554
+285	285	Ferry-Green	Germany	Kassel	34132	9473 Lighthouse Bay Point	4	9473 Lighthouse Bay Point 34132 Kassel Germany	39.60645445	-84.17356661
+286	286	Beahan Group	Germany	Hanau	63456	1 Jay Junction	4	1 Jay Junction 63456 Hanau Germany	50.131548	8.915878
+287	287	Lowe, Moen and Schmeler	Germany	Augsburg	86156	76 Mariners Cove Way	4	76 Mariners Cove Way 86156 Augsburg Germany	40.82603707	-73.97231147
+288	288	Parker Group	Germany	Braunschweig	38126	5 Garrison Avenue	4	5 Garrison Avenue 38126 Braunschweig Germany	52.2798136	10.5662186
+289	289	Williamson LLC	Germany	Bremen	28239	5 Meadow Valley Crossing	4	5 Meadow Valley Crossing 28239 Bremen Germany	33.77695918	-85.0532461
+290	290	Blanda, Abernathy and Veum	Germany	Osnabrück	49082	3 Ruskin Hill	4	3 Ruskin Hill 49082 Osnabrück Germany	52.24473953	8.05034447
+291	291	Koss Group	Germany	Hamburg	22111	4 Muir Place	4	4 Muir Place 22111 Hamburg Germany	53.569066	10.068025
+292	292	Klocko Inc	Germany	Wuppertal	42349	11 High Crossing Court	4	11 High Crossing Court 42349 Wuppertal Germany	34.80227523	-83.89799123
+293	293	Ritchie Group	Germany	Bremen	28355	87 3rd Terrace	4	87 3rd Terrace 28355 Bremen Germany	53.083137	8.939634
+294	294	Prohaska LLC	Germany	Berlin	10715	7010 Prentice Circle	4	7010 Prentice Circle 10715 Berlin Germany	42.24345608	-76.18922716
+295	295	Quitzon LLC	Germany	Leipzig	4109	45 Eagle Crest Court	4	45 Eagle Crest Court 4109 Leipzig Germany	34.6547631	-84.54934832
+296	296	Sauer-Romaguera	Germany	Bremen	28239	7 Susan Trail	4	7 Susan Trail 28239 Bremen Germany	53.114543	8.756158
+297	297	Nikolaus-Nicolas	Germany	Offenbach	63073	1 Truax Parkway	4	1 Truax Parkway 63073 Offenbach Germany	50.090869	8.80179
+298	298	Schmeler-Feil	Germany	Berlin	10715	2401 Iowa Road	4	2401 Iowa Road 10715 Berlin Germany	39.125196	-84.500811
+299	299	Stracke, Lesch and Sawayn	Germany	Mainz	55124	870 Towne Park	4	870 Towne Park 55124 Mainz Germany	40.07122195	-76.72460206
+300	300	Cormier, Lind and Turner	Belgium	Bruxelles	1170	9875 Schlimgen Junction	4	9875 Schlimgen Junction 1170 Bruxelles Belgium	50.82085015	4.35191936
+301	301	Jacobs LLC	Germany	Hamburg	20359	4127 Carpenter Lane	4	4127 Carpenter Lane 20359 Hamburg Germany	42.48973455	-83.86584003
+302	302	Tillman, Smitham and Lesch	Germany	Heilbronn	74080	31971 Dryden Way	4	31971 Dryden Way 74080 Heilbronn Germany	49.13300323	9.15668488
+303	303	Bayer, Walsh and Leuschke	Germany	Berlin	13599	1 Division Circle	4	1 Division Circle 13599 Berlin Germany	44.18481123	-72.49657421
+304	304	Mertz-O'Hara	Germany	Mönchengladbach	41199	788 Kedzie Street	4	788 Kedzie Street 41199 Mönchengladbach Germany	51.14900589	6.43956947
+305	305	Murazik, Emard and Rogahn	Belgium	Ath	7823	80 Annamark Plaza	4	80 Annamark Plaza 7823 Ath Belgium	50.6243624	3.7741053
+306	306	Schuppe, Wilkinson and Trantow	Germany	Berlin	12307	172 Mayer Plaza	4	172 Mayer Plaza 12307 Berlin Germany	52.500913	13.397752
+307	307	Wunsch Inc	Germany	Nürnberg	90451	79988 Buena Vista Drive	4	79988 Buena Vista Drive 90451 Nürnberg Germany	34.52098519	-83.31203448
+308	308	Kilback-Bins	Germany	Berlin	13409	0 Meadow Ridge Terrace	4	0 Meadow Ridge Terrace 13409 Berlin Germany	43.01441774	-88.09260229
+309	309	Buckridge and Sons	Belgium	Bruxelles	1170	76 Sycamore Circle	4	76 Sycamore Circle 1170 Bruxelles Belgium	39.26963744	-80.2485884
+310	310	Kris, Hand and Bogan	Germany	Berlin	10587	98 Wayridge Point	4	98 Wayridge Point 10587 Berlin Germany	39.9469526	-77.03196235
+311	311	Ernser, Purdy and Donnelly	Germany	Köln	51107	800 Twin Pines Point	4	800 Twin Pines Point 51107 Köln Germany	39.92531119	-75.27875257
+312	312	Ullrich Group	Germany	Wuppertal	42285	9719 Larry Point	4	9719 Larry Point 42285 Wuppertal Germany	38.79913045	-83.5379581
+313	313	Ryan-Lesch	Germany	Duisburg	47239	79449 Almo Lane	4	79449 Almo Lane 47239 Duisburg Germany	51.39496231	6.65674353
+314	314	O'Kon, Streich and Jacobs	Germany	Dresden	1189	80 Eggendart Road	4	80 Eggendart Road 1189 Dresden Germany	51.007963	13.779988
+315	315	Bergnaum, Jenkins and Kessler	Germany	Würzburg	97078	96592 Linden Avenue	4	96592 Linden Avenue 97078 Würzburg Germany	49.5164455	9.97866585
+316	316	Stroman LLC	Germany	Berlin	10179	3 Kennedy Center	4	3 Kennedy Center 10179 Berlin Germany	52.5042723	13.33676285
+317	317	Greenholt Group	Germany	Hamburg	20249	0952 Starling Avenue	4	0952 Starling Avenue 20249 Hamburg Germany	53.56137505	10.04763465
+318	318	Anderson-Spinka	Germany	Wuppertal	42349	32 Sherman Avenue	4	32 Sherman Avenue 42349 Wuppertal Germany	51.254833	7.139392
+319	319	Crona, Howell and Bogan	Germany	Berlin	14199	50503 Warbler Center	4	50503 Warbler Center 14199 Berlin Germany	52.47579575	13.29004765
+320	320	Russel-Weber	Germany	Wiesbaden	65191	0 Namekagon Hill	4	0 Namekagon Hill 65191 Wiesbaden Germany	50.08382034	8.28393841
+321	321	Predovic-Leuschke	Belgium	Momignies	6594	37 Parkside Plaza	4	37 Parkside Plaza 6594 Momignies Belgium	50.0225219	4.1691932
+322	322	McGlynn Inc	Germany	Würzburg	97078	06100 Buell Drive	4	06100 Buell Drive 97078 Würzburg Germany	49.8207016	9.96065044
+323	323	Dibbert-Kshlerin	Germany	Berlin	10587	4 Arizona Place	4	4 Arizona Place 10587 Berlin Germany	52.496858	13.337289
+324	324	Denesik-Monahan	Germany	Mainz	55124	16 Oakridge Trail	4	16 Oakridge Trail 55124 Mainz Germany	50.009208	8.228336
+325	325	Nader, Rempel and Kuhlman	Germany	Aachen	52080	71 Dawn Drive	4	71 Dawn Drive 52080 Aachen Germany	50.779775	6.099504
+326	326	Jacobson-Strosin	Germany	Gelsenkirchen	45886	07 Messerschmidt Point	4	07 Messerschmidt Point 45886 Gelsenkirchen Germany	51.500389	7.109923
+327	327	Mann-Lowe	Germany	Berlin	12169	404 Jay Point	4	404 Jay Point 12169 Berlin Germany	52.571066	13.568631
+328	328	Pollich-Boyle	Germany	Nürnberg	90451	2 Burrows Alley	4	2 Burrows Alley 90451 Nürnberg Germany	49.40093	11.08557
+329	329	Auer, Mills and Hagenes	Germany	Münster	48161	35183 Elmside Terrace	4	35183 Elmside Terrace 48161 Münster Germany	51.96206284	7.58657932
+330	330	Jast Inc	Belgium	Ath	7823	94258 Morrow Street	4	94258 Morrow Street 7823 Ath Belgium	50.63850784	3.88788533
+331	331	Gislason Group	Germany	Remscheid	42897	26070 Schurz Street	4	26070 Schurz Street 42897 Remscheid Germany	51.19488647	7.27712132
+332	332	Schamberger-Schmidt	Germany	Kiel	24109	3 Hermina Road	4	3 Hermina Road 24109 Kiel Germany	54.322144	10.120126
+333	333	Ledner-Cummings	Germany	Hamburg	21037	25118 Menomonie Center	4	25118 Menomonie Center 21037 Hamburg Germany	53.41978073	10.20156193
+334	334	Kozey, Rice and Cummerata	Germany	Hamburg	22041	52976 Green Place	4	52976 Green Place 22041 Hamburg Germany	53.57559586	10.08070755
+335	335	Borer LLC	Germany	Berlin	13509	96473 Russell Center	4	96473 Russell Center 13509 Berlin Germany	52.58387375	13.30917835
+336	336	Jakubowski Inc	Germany	Berlin	12169	2538 Northridge Drive	4	2538 Northridge Drive 12169 Berlin Germany	43.0643089	-88.0651954
+337	337	Hansen Group	Germany	Aachen	52080	7 Clyde Gallagher Road	4	7 Clyde Gallagher Road 52080 Aachen Germany	50.79872894	6.12752104
+338	338	Hahn, Hamill and Jaskolski	Belgium	Bouillon	6834	85134 Trailsway Point	4	85134 Trailsway Point 6834 Bouillon Belgium	49.78362285	5.0747421
+339	339	Prohaska-Batz	Germany	Stuttgart	70190	01 Commercial Crossing	4	01 Commercial Crossing 70190 Stuttgart Germany	48.791056	9.210625
+340	340	Conroy, Leannon and Padberg	Germany	Saarbrücken	66119	2 Tomscot Avenue	4	2 Tomscot Avenue 66119 Saarbrücken Germany	49.226472	7.041531
+341	341	Blanda-Dicki	Germany	Köln	51107	688 Nobel Road	4	688 Nobel Road 51107 Köln Germany	51.0026578	6.9329192
+342	342	Russel, Maggio and Rogahn	Germany	Chemnitz	9123	22392 Memorial Alley	4	22392 Memorial Alley 9123 Chemnitz Germany	50.83256531	12.92461395
+343	343	Terry, Brakus and Satterfield	Germany	Berlin	13347	60788 Fremont Center	4	60788 Fremont Center 13347 Berlin Germany	52.5477562	13.36335182
+344	344	Bruen-Smitham	Germany	Kassel	34132	8 Moose Way	4	8 Moose Way 34132 Kassel Germany	51.291116	9.472431
+345	345	Borer Inc	Germany	Leipzig	4317	77387 Del Mar Parkway	4	77387 Del Mar Parkway 4317 Leipzig Germany	51.32523161	12.2708277
+346	346	Fisher, Hegmann and Hackett	Belgium	Gent	9052	1417 Nelson Avenue	4	1417 Nelson Avenue 9052 Gent Belgium	51.0209119	3.7126925
+347	347	Veum, Gusikowski and Thiel	Germany	Berlin	13347	3 Doe Crossing Trail	4	3 Doe Crossing Trail 13347 Berlin Germany	34.86699459	-83.53747128
+348	348	Daniel-Mueller	Germany	Dortmund	44369	0 Clyde Gallagher Trail	4	0 Clyde Gallagher Trail 44369 Dortmund Germany	51.53128433	7.41382313
+349	349	Wisoky, Walter and Purdy	Germany	Halle	6126	979 Pepper Wood Avenue	4	979 Pepper Wood Avenue 6126 Halle Germany	38.70336368	-82.36685733
+350	350	Hudson-Robel	Germany	München	80337	9565 Little Fleur Circle	4	9565 Little Fleur Circle 80337 München Germany	48.19167089	11.59071435
+351	351	Waters LLC	Germany	Hamburg Winterhude	22303	3026 Golf View Street	4	3026 Golf View Street 22303 Hamburg Winterhude Germany	44.875438	-93.457621
+352	352	Schimmel-Nikolaus	Germany	Mannheim	68239	42707 Cottonwood Park	4	42707 Cottonwood Park 68239 Mannheim Germany	49.48682329	8.45573647
+353	353	Kerluke Inc	Germany	Berlin	10409	268 Emmet Court	4	268 Emmet Court 10409 Berlin Germany	52.410574	13.543563
+354	354	Kunde, Blanda and Metz	Belgium	Momignies	6594	0401 Ridgeway Pass	4	0401 Ridgeway Pass 6594 Momignies Belgium	42.95354388	-88.43107228
+355	355	Stanton-Wisozk	Germany	Berlin	10823	3 Schmedeman Center	4	3 Schmedeman Center 10823 Berlin Germany	52.50462442	13.33685357
+356	356	Monahan and Sons	Germany	Münster	48161	4324 Cascade Circle	4	4324 Cascade Circle 48161 Münster Germany	32.87241898	-97.30546539
+357	357	Rippin, Hartmann and Carroll	Germany	Halle	6116	400 Milwaukee Drive	4	400 Milwaukee Drive 6116 Halle Germany	44.92396583	-93.39704933
+358	358	Kovacek, Renner and Gibson	Germany	Köln	50935	5932 Novick Drive	4	5932 Novick Drive 50935 Köln Germany	39.79972033	-84.05675857
+359	359	Friesen, Barton and Runolfsdottir	Germany	Dresden	1156	9883 Shelley Junction	4	9883 Shelley Junction 1156 Dresden Germany	51.05099106	13.73363304
+360	360	Grimes Inc	Germany	Düsseldorf	40225	60 Beilfuss Plaza	4	60 Beilfuss Plaza 40225 Düsseldorf Germany	51.21363	6.778837
+361	361	Konopelski LLC	Germany	Ludwigshafen am Rhein	67067	06838 Thompson Court	4	06838 Thompson Court 67067 Ludwigshafen am Rhein Germany	49.4452095	8.41831207
+362	362	Turner LLC	Belgium	Tournai	7504	87048 Jana Trail	4	87048 Jana Trail 7504 Tournai Belgium	35.23230362	-106.62153625
+363	363	Erdman-Dibbert	Germany	Hanau	63456	78273 Delaware Lane	4	78273 Delaware Lane 63456 Hanau Germany	50.1125946	8.90823078
+364	364	Hane, Lynch and Yundt	Germany	Dresden	1189	8304 Towne Drive	4	8304 Towne Drive 1189 Dresden Germany	41.29686342	-88.26643706
+365	365	Harvey, Walker and Fadel	Germany	Cottbus	3055	1589 Kingsford Place	4	1589 Kingsford Place 3055 Cottbus Germany	44.0764737	-77.3031024
+366	366	Lebsack, Adams and Conroy	Germany	Hamburg Sankt Pauli	20459	7428 Bowman Trail	4	7428 Bowman Trail 20459 Hamburg Sankt Pauli Germany	53.54535845	9.96654225
+367	367	Raynor, Bailey and Lebsack	Germany	Essen	45356	4149 Vernon Pass	4	4149 Vernon Pass 45356 Essen Germany	40.026939	-75.213665
+368	368	Nikolaus, McCullough and Schimmel	Germany	Remscheid	42897	73 Waxwing Parkway	4	73 Waxwing Parkway 42897 Remscheid Germany	51.178719	7.154711
+369	369	Schmeler, Miller and Barrows	Germany	Essen	45149	9913 Randy Terrace	4	9913 Randy Terrace 45149 Essen Germany	51.42762756	6.96242285
+370	370	Hegmann, Upton and Batz	Germany	Wuppertal	42349	22774 Logan Park	4	22774 Logan Park 42349 Wuppertal Germany	51.2357477	7.21216217
+371	371	Gutmann-Braun	Belgium	Ath	7823	88875 Nevada Court	4	88875 Nevada Court 7823 Ath Belgium	50.63850784	3.88788533
+372	372	Dooley-Klein	Belgium	Bruxelles	1170	807 Dapin Hill	4	807 Dapin Hill 1170 Bruxelles Belgium	50.8277189	4.46506105
+373	373	Sipes-Grimes	Germany	Düsseldorf	40591	4243 Esker Terrace	4	4243 Esker Terrace 40591 Düsseldorf Germany	51.19216919	6.82133818
+374	374	Raynor Group	Belgium	Mons	7032	96 Monica Alley	4	96 Monica Alley 7032 Mons Belgium	50.4463052	3.9899069
+375	375	Kreiger Group	Germany	Nürnberg	90451	636 Kings Parkway	4	636 Kings Parkway 90451 Nürnberg Germany	49.489043	10.913106
+376	376	Paucek-Ebert	Germany	Leipzig	4317	198 Macpherson Plaza	4	198 Macpherson Plaza 4317 Leipzig Germany	51.325641	12.449888
+377	377	Russel and Sons	Germany	München	80686	7730 Del Sol Park	4	7730 Del Sol Park 80686 München Germany	34.289948	-84.195957
+378	378	Simonis, Ziemann and Kulas	Germany	Wuppertal	42349	373 Moulton Crossing	4	373 Moulton Crossing 42349 Wuppertal Germany	51.414619	6.994304
+379	379	Skiles, Lockman and Schuppe	Germany	Wiesbaden	65191	1 Village Junction	4	1 Village Junction 65191 Wiesbaden Germany	50.095013	8.233705
+380	380	Grant-Willms	Germany	München	81543	3 Kim Junction	4	3 Kim Junction 81543 München Germany	48.18295834	11.5540814
+381	381	Bins, Reichel and Stracke	Germany	Köln	50733	83 Thierer Hill	4	83 Thierer Hill 50733 Köln Germany	51.12794475	6.2118352
+382	382	Heaney LLC	Germany	Mannheim	68239	6902 Hintze Terrace	4	6902 Hintze Terrace 68239 Mannheim Germany	49.45798378	8.5633335
+383	383	Schoen-Hamill	Germany	Hamburg	20359	5 Oakridge Crossing	4	5 Oakridge Crossing 20359 Hamburg Germany	53.546666	9.99371
+384	384	Schumm Inc	Germany	Köln	51107	93031 Old Gate Center	4	93031 Old Gate Center 51107 Köln Germany	50.86202194	6.0661722
+385	385	Skiles, Lehner and Weissnat	Germany	Berlin	10823	4 Waxwing Avenue	4	4 Waxwing Avenue 10823 Berlin Germany	52.611317	13.316887
+386	386	Bosco LLC	Germany	Berlin	13409	77116 Hermina Pass	4	77116 Hermina Pass 13409 Berlin Germany	52.50122004	13.61611594
+387	387	Corwin, Dickens and Klein	Germany	Duisburg	47139	11145 Sheridan Terrace	4	11145 Sheridan Terrace 47139 Duisburg Germany	51.47611237	6.69981861
+388	388	Braun-Powlowski	Germany	Augsburg	86156	85 Rigney Park	4	85 Rigney Park 86156 Augsburg Germany	48.72914761	10.79047331
+389	389	Dooley Inc	Germany	Aachen	52080	89096 John Wall Way	4	89096 John Wall Way 52080 Aachen Germany	50.76838705	6.087444
+390	390	Bahringer-Ernser	Germany	Berlin	13409	4754 Washington Drive	4	4754 Washington Drive 13409 Berlin Germany	42.959013	-88.101393
+391	391	O'Keefe-Schneider	Germany	Essen	45356	2451 Ridge Oak Road	4	2451 Ridge Oak Road 45356 Essen Germany	44.957983	-93.402565
+392	392	Hansen, Zboncak and Hermiston	Germany	Hamburg Harvestehude	20249	31 Bay Drive	4	31 Bay Drive 20249 Hamburg Harvestehude Germany	53.574055	9.958727
+393	393	Hauck, Kovacek and Schuster	Germany	Cottbus	3055	7 Mayer Parkway	4	7 Mayer Parkway 3055 Cottbus Germany	48.342069	8.949373
+394	394	Blick, Rodriguez and Boyle	Germany	Nürnberg	90451	73840 Ruskin Junction	4	73840 Ruskin Junction 90451 Nürnberg Germany	39.93745552	-75.24534414
+395	395	Maggio and Sons	Germany	Hamburg	22559	86949 Warrior Lane	4	86949 Warrior Lane 22559 Hamburg Germany	38.27706401	-85.66596448
+396	396	Ankunding Inc	Germany	Dresden	1462	86 Sunfield Court	4	86 Sunfield Court 1462 Dresden Germany	50.987659	13.830179
+397	397	Baumbach-Schaefer	Germany	Wuppertal	42349	06 Loftsgordon Drive	4	06 Loftsgordon Drive 42349 Wuppertal Germany	51.207295	7.142719
+398	398	Vandervort, Kilback and Koepp	Germany	Bielefeld	33619	0 Schmedeman Hill	4	0 Schmedeman Hill 33619 Bielefeld Germany	52.0492363	8.45298576
+399	399	Rodriguez, Wolff and Lubowitz	Germany	Aachen	52080	90 Killdeer Hill	4	90 Killdeer Hill 52080 Aachen Germany	39.70477	-79.1499167
+400	400	Dibbert Inc	Belgium	Charleroi	6042	2 Algoma Plaza	4	2 Algoma Plaza 6042 Charleroi Belgium	50.4259606	4.4437068
+401	401	Kling-Walker	Germany	Berlin	14109	516 Boyd Lane	4	516 Boyd Lane 14109 Berlin Germany	52.456724	13.628762
+402	402	Stracke-Abshire	Germany	Hannover	30453	8048 Roxbury Drive	4	8048 Roxbury Drive 30453 Hannover Germany	40.274807	-76.7460295
+403	403	Ledner-Hilpert	Germany	Berlin	13409	32 Doe Crossing Crossing	4	32 Doe Crossing Crossing 13409 Berlin Germany	41.91084675	-72.32266576
+404	404	Watsica Inc	Germany	Witzenhausen	37217	775 Hagan Court	4	775 Hagan Court 37217 Witzenhausen Germany	31.3128031	-95.44362535
+405	405	Streich, Shanahan and Paucek	Germany	Hamburg Sankt Pauli	20459	120 Muir Crossing	4	120 Muir Crossing 20459 Hamburg Sankt Pauli Germany	53.546524	9.9602658
+406	406	Prohaska-Lemke	Germany	Hamburg	20249	22 Stuart Center	4	22 Stuart Center 20249 Hamburg Germany	53.579502	9.972506
+407	407	Gottlieb-Ratke	Germany	Düsseldorf	40489	49 Amoth Trail	4	49 Amoth Trail 40489 Düsseldorf Germany	51.284095	6.790242
+408	408	Waters, Kihn and Keeling	Germany	Aachen	52080	66 Caliangt Court	4	66 Caliangt Court 52080 Aachen Germany	50.751052	6.172249
+409	409	Mosciski Group	Germany	Mönchengladbach	41199	4454 Sunnyside Lane	4	4454 Sunnyside Lane 41199 Mönchengladbach Germany	44.91877071	-93.34174708
+410	410	Klocko and Sons	Germany	Leipzig	4109	0 Brown Plaza	4	0 Brown Plaza 4109 Leipzig Germany	51.33969116	12.37135601
+411	411	Schoen-Dicki	Belgium	Bruxelles	1170	68659 Redwing Hill	4	68659 Redwing Hill 1170 Bruxelles Belgium	43.22677821	-88.54785229
+412	412	Kuhic Inc	Germany	Düsseldorf	40489	59 Dunning Point	4	59 Dunning Point 40489 Düsseldorf Germany	51.283635	6.790273
+413	413	Toy-Grant	Germany	Rostock	18147	20287 Havey Street	4	20287 Havey Street 18147 Rostock Germany	54.13519669	12.11890793
+414	414	Ortiz, O'Conner and Pfannerstill	Germany	Hannover	30629	66094 Dayton Street	4	66094 Dayton Street 30629 Hannover Germany	52.39297867	9.84748173
+415	415	Berge LLC	Germany	München	80804	0286 Sommers Way	4	0286 Sommers Way 80804 München Germany	48.11806546	11.57014656
+416	416	Homenick, Lakin and Klocko	Germany	Bonn	53129	09 Grim Center	4	09 Grim Center 53129 Bonn Germany	50.73611856	7.10098674
+417	417	McLaughlin-Schuster	Belgium	Tournai	7536	26 Montana Circle	4	26 Montana Circle 7536 Tournai Belgium	50.5918352	3.4250449
+418	418	Welch-Goldner	Germany	Köln	51107	95 Grasskamp Way	4	95 Grasskamp Way 51107 Köln Germany	50.91866	7.073293
+419	419	Zieme-Hartmann	Germany	Wiesbaden	65191	2498 Golden Leaf Center	4	2498 Golden Leaf Center 65191 Wiesbaden Germany	50.08382034	8.28393841
+420	420	O'Hara and Sons	Germany	Remscheid	42897	2 Sundown Park	4	2 Sundown Park 42897 Remscheid Germany	51.188437	7.188178
+421	421	Monahan-Dickinson	Germany	Dortmund	44269	21 Carberry Circle	4	21 Carberry Circle 44269 Dortmund Germany	51.4963152	7.5349875
+422	422	Fadel, Welch and Maggio	Germany	Hamburg	22041	8 Judy Crossing	4	8 Judy Crossing 22041 Hamburg Germany	53.580889	10.051731
+423	423	Hessel, Shields and Bailey	Germany	Dortmund	44269	2987 Mayer Way	4	2987 Mayer Way 44269 Dortmund Germany	51.49259316	7.40873519
+424	424	Schuster-Hilll	Germany	Gelsenkirchen	45886	27 Kropf Circle	4	27 Kropf Circle 45886 Gelsenkirchen Germany	51.521275	7.10597
+425	425	Harvey Group	Germany	Wuppertal	42349	9481 Declaration Plaza	4	9481 Declaration Plaza 42349 Wuppertal Germany	44.83208801	-93.56874482
+426	426	Ward, Sauer and Conn	Germany	Dresden	1189	1 Banding Circle	4	1 Banding Circle 1189 Dresden Germany	50.987252	13.80646
+427	427	Abbott, Hickle and Schroeder	Germany	Rostock	18147	278 Garrison Avenue	4	278 Garrison Avenue 18147 Rostock Germany	38.607787	-83.173209
+428	428	Bahringer, Zulauf and Will	Germany	Mainz	55124	7 West Avenue	4	7 West Avenue 55124 Mainz Germany	50.0166098	8.218134
+429	429	Moen-Zboncak	Germany	München	80686	526 Fremont Alley	4	526 Fremont Alley 80686 München Germany	39.7022302	-78.17824125
+430	430	Schmidt, Klocko and Block	Germany	Hamburg	21037	4215 Kennedy Court	4	4215 Kennedy Court 21037 Hamburg Germany	40.77904824	-74.02696974
+431	431	Beatty, Lockman and Smitham	Germany	Halle	6126	26140 Dunning Street	4	26140 Dunning Street 6126 Halle Germany	51.48216629	11.96579552
+432	432	Hackett, Bosco and McGlynn	Germany	Würzburg	97078	6 Moulton Trail	4	6 Moulton Trail 97078 Würzburg Germany	49.822789	9.961555
+433	433	Wunsch-Sipes	Germany	Heilbronn	74080	8 Melvin Crossing	4	8 Melvin Crossing 74080 Heilbronn Germany	34.11947006	-83.60026634
+434	434	Schulist-Smitham	Germany	Kassel	34132	96531 Utah Pass	4	96531 Utah Pass 34132 Kassel Germany	51.27565765	9.44962788
+435	435	Turcotte-Rolfson	Germany	Kiel	24109	19868 5th Place	4	19868 5th Place 24109 Kiel Germany	54.311064	10.050862
+436	436	Boyle-Kunze	Belgium	Péruwelz	7604	6 Bluestem Road	4	6 Bluestem Road 7604 Péruwelz Belgium	50.530337	3.528393
+437	437	Barton Group	Germany	München	81679	5246 Melby Point	4	5246 Melby Point 81679 München Germany	48.14812851	11.61121082
+438	438	Jacobs, Lockman and Tillman	Germany	Wuppertal	42349	198 Butterfield Way	4	198 Butterfield Way 42349 Wuppertal Germany	51.234165	7.152289
+439	439	Terry Group	Germany	Hamburg Winterhude	22303	5939 Macpherson Lane	4	5939 Macpherson Lane 22303 Hamburg Winterhude Germany	53.5999794	10.01350784
+440	440	Funk-Kuphal	Belgium	Namur	5100	57027 Oak Valley Alley	4	57027 Oak Valley Alley 5100 Namur Belgium	43.0209145	-88.2998965
+441	441	Lueilwitz, Ondricka and Altenwerth	Germany	Nürnberg	90411	562 Shoshone Park	4	562 Shoshone Park 90411 Nürnberg Germany	39.79798317	-77.03511611
+442	442	Jerde, Marquardt and Hamill	Germany	Düsseldorf	40225	56 Nevada Hill	4	56 Nevada Hill 40225 Düsseldorf Germany	34.84923976	-83.48032966
+443	443	Lowe, Kirlin and Lakin	Germany	Wuppertal	42349	635 Barby Alley	4	635 Barby Alley 42349 Wuppertal Germany	51.20561218	7.13417959
+444	444	Lindgren Group	Germany	Berlin	12437	2678 Pine View Plaza	4	2678 Pine View Plaza 12437 Berlin Germany	46.24841454	-94.60690913
+445	445	West-VonRueden	Germany	München	80337	3 Blackbird Alley	4	3 Blackbird Alley 80337 München Germany	48.18295834	11.5540814
+446	446	Bailey-Quigley	Germany	Lübeck	23568	130 Heffernan Place	4	130 Heffernan Place 23568 Lübeck Germany	53.869695	10.693963
+447	447	Stiedemann, Nader and Kunde	Germany	Halle	6116	9 Glacier Hill Parkway	4	9 Glacier Hill Parkway 6116 Halle Germany	51.19757	11.95532
+448	448	Koelpin, Nicolas and Strosin	Germany	Berlin	14109	8375 Sachtjen Plaza	4	8375 Sachtjen Plaza 14109 Berlin Germany	52.41986847	13.16157627
+449	449	Dicki-Goodwin	Germany	Frankfurt am Main	60549	590 Bashford Avenue	4	590 Bashford Avenue 60549 Frankfurt am Main Germany	50.100786	8.598233
+450	450	Ziemann-Murray	Germany	Dresden	1462	3059 Carberry Terrace	4	3059 Carberry Terrace 1462 Dresden Germany	51.05099106	13.73363304
+451	451	Lakin and Sons	Germany	Würzburg	97078	66 Cottonwood Hill	4	66 Cottonwood Hill 97078 Würzburg Germany	49.783695	9.954073
+452	452	Luettgen-Nikolaus	Germany	Hamburg Harvestehude	20249	163 Hayes Circle	4	163 Hayes Circle 20249 Hamburg Harvestehude Germany	53.577782	9.947284
+453	453	Orn, Konopelski and Brekke	Germany	Chemnitz	9116	320 Manufacturers Hill	4	320 Manufacturers Hill 9116 Chemnitz Germany	-29.8165611	30.85922012
+454	454	McCullough-Purdy	Germany	Augsburg	86156	96 Golf View Circle	4	96 Golf View Circle 86156 Augsburg Germany	40.0731445	-75.24843925
+455	455	Skiles and Sons	Belgium	Bruxelles	1050	68074 Farmco Court	4	68074 Farmco Court 1050 Bruxelles Belgium	50.82773972	4.3715167
+456	456	Paucek LLC	Germany	Münster	48161	52 Anderson Place	4	52 Anderson Place 48161 Münster Germany	51.949285	7.609222
+457	457	Boyer, Little and Quigley	Belgium	Tournai	7504	9 Dexter Pass	4	9 Dexter Pass 7504 Tournai Belgium	50.57846069	3.32816601
+458	458	Stoltenberg-Crooks	Germany	Rostock	18147	360 Harbort Parkway	4	360 Harbort Parkway 18147 Rostock Germany	54.13519669	12.11890793
+459	459	Hermiston, Schultz and Hettinger	Germany	Hannover	30453	65 Redwing Junction	4	65 Redwing Junction 30453 Hannover Germany	52.361129	9.694667
+460	460	Little-Hintz	Germany	Hamm	59071	2050 Susan Avenue	4	2050 Susan Avenue 59071 Hamm Germany	40.237305	-77.186497
+461	461	West LLC	Germany	Erfurt	99089	4452 Lakeland Crossing	4	4452 Lakeland Crossing 99089 Erfurt Germany	39.997043	-75.071244
+462	462	Treutel Inc	Germany	Berlin	14199	26 Iowa Pass	4	26 Iowa Pass 14199 Berlin Germany	41.63155151	-72.76040122
+463	463	Brekke-Smith	Belgium	Tournai	7536	0154 Buena Vista Road	4	0154 Buena Vista Road 7536 Tournai Belgium	39.26837696	-80.33472794
+464	464	Keeling, Crist and Gislason	Belgium	Antwerpen	2170	36311 Prentice Way	4	36311 Prentice Way 2170 Antwerpen Belgium	51.24203873	4.44098806
+465	465	Tillman, Lindgren and Kohler	Germany	Ludwigshafen am Rhein	67067	72378 Oneill Pass	4	72378 Oneill Pass 67067 Ludwigshafen am Rhein Germany	49.4452095	8.41831207
+466	466	Mraz, Kemmer and Huels	Germany	Wetzlar	35581	9 Hoard Alley	4	9 Hoard Alley 35581 Wetzlar Germany	50.551427	8.500773
+467	467	Lynch Group	Belgium	Bouillon	6834	7542 Havey Plaza	4	7542 Havey Plaza 6834 Bouillon Belgium	49.83944321	5.11235952
+468	468	Nader and Sons	Belgium	Momignies	6594	384 Milwaukee Way	4	384 Milwaukee Way 6594 Momignies Belgium	50.01554108	4.156569
+469	469	Casper and Sons	Germany	Wetzlar	35581	232 Kinsman Hill	4	232 Kinsman Hill 35581 Wetzlar Germany	-29.81491505	30.8542927
+470	470	Macejkovic LLC	Germany	Leipzig	4317	25 Manitowish Place	4	25 Manitowish Place 4317 Leipzig Germany	51.338156	12.517378
+471	471	Emmerich and Sons	Germany	Düsseldorf	40215	63 Bunting Crossing	4	63 Bunting Crossing 40215 Düsseldorf Germany	51.213952	6.769868
+472	472	Konopelski, Schowalter and Koelpin	Germany	Hamburg	22453	5 Norway Maple Court	4	5 Norway Maple Court 22453 Hamburg Germany	44.80515081	-93.88082293
+473	473	Connelly LLC	Belgium	Mons	7032	66 Bay Circle	4	66 Bay Circle 7032 Mons Belgium	43.1428593	-76.23434432
+474	474	Kub-Hahn	Germany	Berlin	12169	4 Anniversary Pass	4	4 Anniversary Pass 12169 Berlin Germany	54.035584	10.448162
+475	475	Nolan-Rippin	Germany	Hamburg Sankt Pauli	20459	0 Hazelcrest Crossing	4	0 Hazelcrest Crossing 20459 Hamburg Sankt Pauli Germany	53.54581792	9.95369118
+476	476	Rutherford, Ullrich and Bednar	Germany	Düsseldorf	40489	25005 Harbort Hill	4	25005 Harbort Hill 40489 Düsseldorf Germany	51.2969821	6.73022987
+477	477	Breitenberg, Mraz and Friesen	Germany	Augsburg	86156	2 Sugar Point	4	2 Sugar Point 86156 Augsburg Germany	48.56971	11.241038
+478	478	Hintz-Purdy	Germany	Stuttgart Stuttgart-Mitte	70180	6127 Tennessee Court	4	6127 Tennessee Court 70180 Stuttgart Stuttgart-Mitte Germany	48.77456284	9.17989254
+479	479	Schaefer Inc	Germany	Dillenburg	35687	01197 Manitowish Pass	4	01197 Manitowish Pass 35687 Dillenburg Germany	50.62814815	8.74494239
+480	480	Jaskolski-Quigley	Belgium	Bruxelles	1170	7476 Twin Pines Lane	4	7476 Twin Pines Lane 1170 Bruxelles Belgium	42.98690132	-75.97591776
+481	481	Lesch-Carter	Germany	Kiel	24109	96876 Graedel Park	4	96876 Graedel Park 24109 Kiel Germany	54.349125	10.14519849
+482	482	Trantow and Sons	Germany	Köln	51107	87394 Knutson Lane	4	87394 Knutson Lane 51107 Köln Germany	50.92986679	7.04415607
+483	483	Hilpert Inc	Germany	Berlin	12103	47664 Waxwing Place	4	47664 Waxwing Place 12103 Berlin Germany	52.46348953	13.37276268
+484	484	Hauck, Keebler and Pfeffer	Belgium	Tournai	7504	417 Chive Lane	4	417 Chive Lane 7504 Tournai Belgium	50.6047959	3.3582409
+485	485	Towne Group	Germany	Osnabrück	49082	72 Prairieview Plaza	4	72 Prairieview Plaza 49082 Osnabrück Germany	52.278475	8.069979
+486	486	Bergnaum, Purdy and Bins	Germany	Hamburg	22559	0 Melby Alley	4	0 Melby Alley 22559 Hamburg Germany	53.58298874	9.75383472
+487	487	Murazik-Keebler	Germany	Heilbronn	74080	0 Barby Street	4	0 Barby Street 74080 Heilbronn Germany	49.13300323	9.15668488
+488	488	Zieme Group	Germany	München	80686	19278 Esker Point	4	19278 Esker Point 80686 München Germany	48.13212585	11.51738644
+489	489	Moore, Homenick and Glover	Germany	Hamburg Sankt Pauli	20459	9792 Meadow Vale Plaza	4	9792 Meadow Vale Plaza 20459 Hamburg Sankt Pauli Germany	53.5456422	9.9665443
+490	490	Zboncak-Dare	Germany	Hanau	63456	555 Jackson Park	4	555 Jackson Park 63456 Hanau Germany	39.92484378	-75.11831847
+491	491	Schiller-Doyle	Estonia	Toila	NA	05 Steensland Avenue	8	05 Steensland Avenue  Toila Estonia	59.42099762	27.51272774
+492	492	Satterfield, Wuckert and Anderson	France	Bressuire	79309 CEDEX	40 Farragut Parkway	6	40 Farragut Parkway 79309 CEDEX Bressuire France	46.84272385	-0.4912014
+493	493	Roberts, Bergnaum and Metz	Sweden	Luleå	973 41	2 Pennsylvania Center	8	2 Pennsylvania Center 973 41 Luleå Sweden	65.59879303	22.13380241
+494	494	Heidenreich-Balistreri	Poland	Żurowa	38-323	8 Iowa Way	5	8 Iowa Way 38-323 Żurowa Poland	44.02531578	-70.36311149
+495	495	Renner Group	Poland	Dobra	72-210	044 Sommers Avenue	5	044 Sommers Avenue 72-210 Dobra Poland	53.58618927	15.30769634
+496	496	Carroll, Kub and Lakin	France	Marseille	13382 CEDEX 13	82 Beilfuss Center	6	82 Beilfuss Center 13382 CEDEX 13 Marseille France	43.29502106	5.37448692
+497	497	Douglas, Krajcik and Lindgren	Norway	Larvik	3260	56 Hermina Road	8	56 Hermina Road 3260 Larvik Norway	59.0283341	10.0742198
+498	498	Friesen-Kautzer	Sweden	Örebro	702 21	3 Reinke Alley	8	3 Reinke Alley 702 21 Örebro Sweden	59.2485233	15.2417059
+499	499	D'Amore-Roberts	Czech Republic	Jablonec nad Nisou	466 01	030 Warbler Crossing	5	030 Warbler Crossing 466 01 Jablonec nad Nisou Czech Republic	50.72490692	15.16939735
+500	500	Hahn Group	Czech Republic	Liběšice	506 01	4 Thierer Circle	5	4 Thierer Circle 506 01 Liběšice Czech Republic	50.3435143	15.3586507
+501	501	McClure LLC	Greece	Mesopotamía	NA	34 Corry Trail	5	34 Corry Trail  Mesopotamía Greece	40.50464249	21.16003609
+502	502	Breitenberg Group	Netherlands	Hoorn	1624	5 Katie Avenue	4	5 Katie Avenue 1624 Hoorn Netherlands	52.6525872	5.0662543
+503	503	Larkin-Murazik	Poland	Dębowa Łąka	87-207	981 Bayside Pass	5	981 Bayside Pass 87-207 Dębowa Łąka Poland	53.25301361	19.0961628
+504	504	Pollich-Kuphal	Sweden	Simrishamn	272 24	2 Shelley Park	8	2 Shelley Park 272 24 Simrishamn Sweden	43.37653105	-112.13175105
+505	505	Haley Group	Greece	Agrínio	NA	492 Waywood Lane	5	492 Waywood Lane  Agrínio Greece	38.62717438	21.40910339
+506	506	Okuneva, Russel and O'Keefe	Sweden	Täby	183 55	400 Clyde Gallagher Circle	8	400 Clyde Gallagher Circle 183 55 Täby Sweden	43.10296954	-89.34044479
+507	507	Fay, Senger and Rau	Croatia	Stari Grad	21460	5 Victoria Road	6	5 Victoria Road 21460 Stari Grad Croatia	43.1841169	16.6005338
+508	508	Brakus, Waters and Labadie	Lithuania	Telsiai	87001	5 Northfield Terrace	8	5 Northfield Terrace 87001 Telsiai Lithuania	55.9873895	22.2513532
+509	509	King Inc	Czech Republic	Morávka	739 04	70048 Boyd Plaza	5	70048 Boyd Plaza 739 04 Morávka Czech Republic	49.59371185	18.52617645
+510	510	Lynch-Kiehn	Sweden	Norberg	738 23	048 Tony Pass	8	048 Tony Pass 738 23 Norberg Sweden	60.0678215	15.92105961
+511	511	Powlowski, Spencer and Raynor	Sweden	Skurup	274 34	21 Prairieview Terrace	8	21 Prairieview Terrace 274 34 Skurup Sweden	55.4798299	13.4985832
+512	512	Shanahan Inc	Sweden	Falkenberg	311 35	794 Shopko Plaza	8	794 Shopko Plaza 311 35 Falkenberg Sweden	56.90979004	12.48954391
+513	513	Wilderman, Homenick and Kuvalis	Poland	Grabica	97-306	9 Brickson Park Park	5	9 Brickson Park Park 97-306 Grabica Poland	51.48012543	19.52591705
+514	514	Walter Group	France	Grenoble	38066 CEDEX 2	8 Lake View Parkway	6	8 Lake View Parkway 38066 CEDEX 2 Grenoble France	34.89750899	-82.38062231
+515	515	Kemmer-Pouros	Sweden	Gävle	801 38	28107 Mandrake Parkway	8	28107 Mandrake Parkway 801 38 Gävle Sweden	60.66009521	17.16308594
+516	516	Kris-Jacobs	Estonia	Põlva	NA	210 Hallows Drive	8	210 Hallows Drive  Põlva Estonia	57.92211318	27.554181
+517	517	Willms, Lockman and Larkin	France	Saint-Laurent-Blangy	62055 CEDEX	1429 Helena Street	6	1429 Helena Street 62055 CEDEX Saint-Laurent-Blangy France	50.30132294	2.8015666
+518	518	Hand, Turner and Sporer	Finland	Leppävirta	79101	3417 Caliangt Drive	8	3417 Caliangt Drive 79101 Leppävirta Finland	62.49084091	27.78591919
+519	519	Lang-Okuneva	France	Paris 16	75784 CEDEX 16	1 Pearson Drive	6	1 Pearson Drive 75784 CEDEX 16 Paris 16 France	48.8649474	2.3081228
+520	520	Parker-Bradtke	Croatia	Komiža	21485	515 Mcguire Pass	6	515 Mcguire Pass 21485 Komiža Croatia	-33.97102279	150.87182692
+521	521	Purdy, Hermann and Macejkovic	Italy	Roma	128	76925 Knutson Park	6	76925 Knutson Park 128 Roma Italy	45.521397	12.1022082
+522	522	Brakus Inc	Greece	Fálanna	NA	2 Annamark Point	5	2 Annamark Point  Fálanna Greece	39.71722412	22.39691544
+523	523	Donnelly Group	Croatia	Horvati	10436	509 Jackson Center	6	509 Jackson Center 10436 Horvati Croatia	44.06827096	-87.88084646
+524	524	Kuvalis-Rogahn	Netherlands	Utrecht (stad)	3560	05995 Artisan Lane	4	05995 Artisan Lane 3560 Utrecht (stad) Netherlands	52.18748888	5.39116314
+525	525	Koelpin-Pouros	Finland	Hankasalmi	41521	328 Ridge Oak Alley	8	328 Ridge Oak Alley 41521 Hankasalmi Finland	40.7489175	-75.61394555
+526	526	McClure-Williamson	Croatia	Žrnovnica	21251	2628 Mariners Cove Point	6	2628 Mariners Cove Point 21251 Žrnovnica Croatia	43.51848221	16.55750465
+527	527	Johns, Wilderman and Abernathy	Sweden	Ulricehamn	523 32	18629 Grover Circle	8	18629 Grover Circle 523 32 Ulricehamn Sweden	36.468119	-92.91900912
+528	528	Medhurst LLC	France	Bagneux	92224 CEDEX	46 Gulseth Avenue	6	46 Gulseth Avenue 92224 CEDEX Bagneux France	48.79789734	2.31370258
+529	529	Walsh-Bergstrom	Czech Republic	Teplice	415 01	685 Redwing Trail	5	685 Redwing Trail 415 01 Teplice Czech Republic	50.6514285	13.8454953
+530	530	Kuhic-Beier	France	Lille	59002 CEDEX	7976 South Place	6	7976 South Place 59002 CEDEX Lille France	45.88891602	-108.73468018
+531	531	Bosco and Sons	France	Bar-le-Duc	55013 CEDEX	7 6th Junction	6	7 6th Junction 55013 CEDEX Bar-le-Duc France	48.77369308	5.16062546
+532	532	Hilpert, Mosciski and Feest	Sweden	Torsås	385 30	76125 Declaration Drive	8	76125 Declaration Drive 385 30 Torsås Sweden	56.41138458	16.00364304
+533	533	Hoeger-Blick	Sweden	Mora	792 52	03 Banding Plaza	8	03 Banding Plaza 792 52 Mora Sweden	61.00867844	14.54425144
+534	534	Mohr Inc	France	Boulogne-Billancourt	92511 CEDEX	2 5th Hill	6	2 5th Hill 92511 CEDEX Boulogne-Billancourt France	48.83383179	2.24323249
+535	535	Ratke Inc	France	Lyon	69339 CEDEX 02	4805 Kennedy Road	6	4805 Kennedy Road 69339 CEDEX 02 Lyon France	45.76730728	4.83430672
+536	536	Hilll Inc	Poland	Garbów	21-080	9 Judy Terrace	5	9 Judy Terrace 21-080 Garbów Poland	51.350946	22.346847
+537	537	Kuvalis-Little	France	Thionville	57119 CEDEX	5985 Fair Oaks Trail	6	5985 Fair Oaks Trail 57119 CEDEX Thionville France	49.35747528	6.16804266
+538	538	Sauer Group	Poland	Kramarzówka	37-560	384 Packers Junction	5	384 Packers Junction 37-560 Kramarzówka Poland	37.3475955	-120.6026115
+539	539	Terry-Runolfsdottir	Sweden	Osby	283 45	53 West Crossing	8	53 West Crossing 283 45 Osby Sweden	56.3699427	13.9810954
+540	540	Becker LLC	France	Amiens	80004 CEDEX 1	741 Old Shore Parkway	6	741 Old Shore Parkway 80004 CEDEX 1 Amiens France	49.89389038	2.29422688
+541	541	Stiedemann Inc	Croatia	Tučepi	21325	41 Anhalt Center	6	41 Anhalt Center 21325 Tučepi Croatia	43.2732811	17.04731369
+542	542	Willms LLC	France	Chambéry	73031 CEDEX	1 School Court	6	1 School Court 73031 CEDEX Chambéry France	45.56669998	5.92085266
+543	543	Pfannerstill LLC	France	Vagney	88125 CEDEX	8 Pleasure Center	6	8 Pleasure Center 88125 CEDEX Vagney France	48.00847244	6.71684456
+544	544	Crona, Bernier and Breitenberg	France	Levallois-Perret	92691 CEDEX	559 Graceland Trail	6	559 Graceland Trail 92691 CEDEX Levallois-Perret France	48.8943367	2.2883935
+545	545	Effertz, Cummerata and Tromp	Poland	Ożarowice	42-625	8 Judy Crossing	5	8 Judy Crossing 42-625 Ożarowice Poland	50.491532	19.060271
+546	546	Larson LLC	Poland	Halinów	05-074	56 Amoth Hill	5	56 Amoth Hill 05-074 Halinów Poland	52.223526	21.3603878
+547	547	Nitzsche, Hoeger and Kemmer	Poland	Krasnystaw	22-300	3994 Corben Crossing	5	3994 Corben Crossing 22-300 Krasnystaw Poland	50.98336411	23.17323112
+548	548	Predovic, Bernier and Gislason	Finland	Forssa	30421	91498 Fallview Lane	8	91498 Fallview Lane 30421 Forssa Finland	60.81015015	23.62973976
+549	549	Wehner and Sons	France	Montesson	78364 CEDEX	82 Northland Circle	6	82 Northland Circle 78364 CEDEX Montesson France	48.90771103	2.14903283
+550	550	Ledner, Hettinger and Balistreri	Sweden	Huddinge	141 53	6 Spenser Avenue	8	6 Spenser Avenue 141 53 Huddinge Sweden	59.2434767	17.9769507
+551	551	Parker Inc	France	Paris 15	75737 CEDEX 15	46798 Shopko Center	6	46798 Shopko Center 75737 CEDEX 15 Paris 15 France	48.84170532	2.29961514
+552	552	Mayer Group	Sweden	Sala	733 24	763 Declaration Plaza	8	763 Declaration Plaza 733 24 Sala Sweden	59.92022705	16.60564423
+553	553	Quigley, Rolfson and Bernhard	Slovenia	Dobje pri Planini	3224	3913 Blaine Road	6	3913 Blaine Road 3224 Dobje pri Planini Slovenia	46.13740921	15.39424896
+554	554	Prohaska-Dickens	Hungary	Eger	3304	653 Debra Avenue	5	653 Debra Avenue 3304 Eger Hungary	41.967861	-72.57239
+555	555	Smitham, Hodkiewicz and Doyle	Norway	Oslo	712	0 Melrose Lane	8	0 Melrose Lane 712 Oslo Norway	42.52391	-96.489518
+556	556	Murray-Cassin	Sweden	Linköping	582 02	509 Marcy Way	8	509 Marcy Way 582 02 Linköping Sweden	58.40612793	15.64208984
+557	557	Grimes LLC	France	La Ravoire	73494 CEDEX	5449 Summit Crossing	6	5449 Summit Crossing 73494 CEDEX La Ravoire France	45.5582695	5.96359682
+558	558	Reichel, Keeling and Fritsch	Czech Republic	Načeradec	257 08	74 Westport Court	5	74 Westport Court 257 08 Načeradec Czech Republic	49.584288	14.8882483
+559	559	Wilderman, Schamberger and Morissette	France	Tournon-sur-Rhône	07309 CEDEX	18 Dunning Pass	6	18 Dunning Pass 07309 CEDEX Tournon-sur-Rhône France	45.0688324	4.8312664
+560	560	Vandervort-Kerluke	Greece	Mílos	NA	06062 New Castle Road	5	06062 New Castle Road  Mílos Greece	40.8778191	-79.9505939
+561	561	Waters-Senger	Sweden	Nacka	131 46	7 Union Junction	8	7 Union Junction 131 46 Nacka Sweden	59.3168049	18.2115107
+562	562	Harris-Murazik	France	Wintzenheim	68925 CEDEX	66 Shasta Junction	6	66 Shasta Junction 68925 CEDEX Wintzenheim France	48.07289886	7.29031706
+563	563	Murray, Lang and Jenkins	Czech Republic	Mirotice	364 71	92 Banding Point	5	92 Banding Point 364 71 Mirotice Czech Republic	13.0368761	77.6023068
+564	564	Gusikowski LLC	Poland	Spytkowice	34-745	81 Fieldstone Crossing	5	81 Fieldstone Crossing 34-745 Spytkowice Poland	44.07126798	-70.47229494
+565	565	Stiedemann, Hirthe and Runolfsdottir	France	Pau	64029 CEDEX 9	2 Fair Oaks Center	6	2 Fair Oaks Center 64029 CEDEX 9 Pau France	47.8895093	1.7858214
+566	566	Hickle, Strosin and Altenwerth	France	Redon	35605 CEDEX	11284 Alpine Street	6	11284 Alpine Street 35605 CEDEX Redon France	47.65171432	-2.08460689
+567	567	Stehr-McDermott	Czech Republic	Vilémov	783 22	303 Esch Park	5	303 Esch Park 783 22 Vilémov Czech Republic	49.50878384	5.94485938
+568	568	Heaney-Johnston	Slovenia	Lovrenc na Pohorju	2344	52 Onsgard Junction	6	52 Onsgard Junction 2344 Lovrenc na Pohorju Slovenia	46.53923416	15.38881683
+569	569	Farrell Group	Poland	Trzebnica	55-100	57 Spenser Avenue	5	57 Spenser Avenue 55-100 Trzebnica Poland	51.3067894	17.05865479
+570	570	Zboncak, Baumbach and Kuphal	Sweden	Falkenberg	311 35	2 Oxford Junction	8	2 Oxford Junction 311 35 Falkenberg Sweden	56.9032359	12.500839
+571	571	Hirthe and Sons	Finland	Ylitornio	95601	61438 Beilfuss Plaza	8	61438 Beilfuss Plaza 95601 Ylitornio Finland	66.31642914	23.67129898
+572	572	Hayes-Gottlieb	Greece	Léchovo	NA	490 Sunnyside Place	5	490 Sunnyside Place  Léchovo Greece	40.687422	-79.685667
+573	573	Leannon-Ferry	France	Limoges	87066 CEDEX 2	57223 Westend Terrace	6	57223 Westend Terrace 87066 CEDEX 2 Limoges France	45.82852936	1.26175392
+574	574	Moore, Considine and Langworth	Czech Republic	Chřibská	407 44	66 Bunker Hill Trail	5	66 Bunker Hill Trail 407 44 Chřibská Czech Republic	50.983112	14.2705
+575	575	Wyman, Hoppe and Jacobi	Hungary	Szeged	6704	4637 Merrick Plaza	5	4637 Merrick Plaza 6704 Szeged Hungary	46.24996185	20.16189957
+576	576	Romaguera, Lind and Goyette	Czech Republic	Ráječko	679 02	57 Schurz Center	5	57 Schurz Center 679 02 Ráječko Czech Republic	49.39282227	16.64113045
+577	577	Nikolaus LLC	Finland	Lammi	16901	16177 Sycamore Place	8	16177 Sycamore Place 16901 Lammi Finland	61.0786171	25.00993729
+578	578	Lemke Inc	Sweden	Höganäs	263 25	7431 Pierstorff Drive	8	7431 Pierstorff Drive 263 25 Höganäs Sweden	56.20085526	12.5515852
+579	579	Rosenbaum, Considine and Mosciski	France	Croix	59961 CEDEX	24 Burrows Lane	6	24 Burrows Lane 59961 CEDEX Croix France	39.963753	-74.267499
+580	580	Barrows Group	Croatia	Laslovo	31214	42158 Rowland Pass	6	42158 Rowland Pass 31214 Laslovo Croatia	45.41460419	18.69641113
+581	581	Rau-Reilly	Poland	Praszka	46-320	561 Eastlawn Drive	5	561 Eastlawn Drive 46-320 Praszka Poland	41.154489	-80.659415
+582	582	Bednar-Bashirian	Greece	Níkaia	NA	16130 Oneill Street	5	16130 Oneill Street  Níkaia Greece	37.96817398	23.64353561
+583	583	Prohaska, Mertz and Cole	Czech Republic	Klatovy	341 42	67002 Donald Alley	5	67002 Donald Alley 341 42 Klatovy Czech Republic	49.2659854	13.409197
+584	584	Schaden LLC	Poland	Załuski	09-142	00 Porter Street	5	00 Porter Street 09-142 Załuski Poland	44.22848355	-70.5146912
+585	585	Bernier Group	Greece	Ágios Vasíleios	NA	320 Ludington Place	5	320 Ludington Place  Ágios Vasíleios Greece	37.79333878	22.8012352
+586	586	Pfannerstill, Blanda and Prohaska	France	Paris 08	75419 CEDEX 08	629 Brickson Park Circle	6	629 Brickson Park Circle 75419 CEDEX 08 Paris 08 France	48.85689545	2.35084867
+587	587	Boehm and Sons	Finland	Töysä	63600	5 Scott Center	8	5 Scott Center 63600 Töysä Finland	40.54112105	-75.45486109
+588	588	Goyette LLC	Poland	Pawonków	42-772	7454 North Alley	5	7454 North Alley 42-772 Pawonków Poland	39.45064951	-86.90390084
+589	589	Sipes-Haag	Czech Republic	Staré Město	788 32	36243 Laurel Road	5	36243 Laurel Road 788 32 Staré Město Czech Republic	50.16172791	16.94713402
+590	590	Cummings-Runolfsdottir	Lithuania	Šventoji	98044	1 Bayside Road	8	1 Bayside Road 98044 Šventoji Lithuania	56.02854538	21.08269501
+591	591	Murazik, Rutherford and DuBuque	Poland	Tworków	47-451	373 Manufacturers Street	5	373 Manufacturers Street 47-451 Tworków Poland	-29.60847062	30.37203542
+592	592	West-Ondricka	France	Arras	62010 CEDEX	647 Pierstorff Place	6	647 Pierstorff Place 62010 CEDEX Arras France	50.29301071	2.78178263
+593	593	Reynolds, Rohan and Raynor	Poland	Stanisław Górny	34-103	00 Maywood Plaza	5	00 Maywood Plaza 34-103 Stanisław Górny Poland	49.91256304	19.62669283
+594	594	Fay-Mohr	Poland	Drezdenko	66-530	6866 Sommers Circle	5	6866 Sommers Circle 66-530 Drezdenko Poland	52.83989716	15.83053398
+595	595	McClure, Cormier and Raynor	Sweden	Stockholm	120 16	366 Summerview Road	8	366 Summerview Road 120 16 Stockholm Sweden	47.01268031	-68.08642033
+596	596	Armstrong and Sons	Sweden	Örebro	701 81	0 Caliangt Terrace	8	0 Caliangt Terrace 701 81 Örebro Sweden	59.2744751	15.19732666
+597	597	Gerhold, Bayer and Feeney	Czech Republic	Pecka	507 82	6 Fremont Center	5	6 Fremont Center 507 82 Pecka Czech Republic	50.4799881	15.60841084
+598	598	Hansen Inc	United Kingdom	Langley	SG4	67533 Lakewood Gardens Circle	7	67533 Lakewood Gardens Circle SG4 Langley United Kingdom	51.933827	-0.2324836
+599	599	McKenzie-Harber	Denmark	København	1608	933 Kings Point	8	933 Kings Point 1608 København Denmark	33.921085	-81.246655
+600	600	Stamm LLC	France	Juvisy-sur-Orge	91265 CEDEX	4367 Fulton Road	6	4367 Fulton Road 91265 CEDEX Juvisy-sur-Orge France	48.69127655	2.37618065
+601	601	Hickle, Hayes and Mitchell	Estonia	Sillamäe	NA	5516 Lighthouse Bay Hill	8	5516 Lighthouse Bay Hill  Sillamäe Estonia	59.39312744	27.77087593
+602	602	Purdy, Borer and Mann	Poland	Baranowo	06-320	3975 Chinook Alley	5	3975 Chinook Alley 06-320 Baranowo Poland	38.2950775	-120.2779645
+603	603	Keeling-Wehner	Poland	Rajsko	32-626	9 Tennyson Hill	5	9 Tennyson Hill 32-626 Rajsko Poland	43.0714868	-75.3071813
+604	604	Brakus and Sons	France	Paris 13	75659 CEDEX 13	166 Texas Terrace	6	166 Texas Terrace 75659 CEDEX 13 Paris 13 France	34.83039775	-82.4369882
+605	605	Wilkinson and Sons	France	Périgueux	24053 CEDEX	9 John Wall Trail	6	9 John Wall Trail 24053 CEDEX Périgueux France	45.18681335	0.7218309
+606	606	Wolf Group	United Kingdom	Newton	IV1	5 Tennessee Road	7	5 Tennessee Road IV1 Newton United Kingdom	57.4633609	-4.2030823
+607	607	Corkery-Armstrong	Sweden	Solna	169 65	1945 Tony Parkway	8	1945 Tony Parkway 169 65 Solna Sweden	33.8999145	-81.135213
+608	608	Fritsch, Franecki and O'Keefe	France	Montceau-les-Mines	71309 CEDEX	47 Hoepker Point	6	47 Hoepker Point 71309 CEDEX Montceau-les-Mines France	46.67536545	4.36555243
+609	609	Lowe Inc	Sweden	Vikbolandet	610 25	1 Sachs Alley	8	1 Sachs Alley 610 25 Vikbolandet Sweden	58.53514862	16.56443024
+610	610	Jerde-Ward	France	Massy	91309 CEDEX	0 Vernon Lane	6	0 Vernon Lane 91309 CEDEX Massy France	48.7226496	2.25943625
+611	611	Treutel-Hickle	Czech Republic	Třemošnice	538 43	535 3rd Point	5	535 3rd Point 538 43 Třemošnice Czech Republic	49.8748698	15.5766497
+612	612	Beahan, Fadel and Waters	Czech Republic	Karlovy Vary	360 01	9 Loomis Terrace	5	9 Loomis Terrace 360 01 Karlovy Vary Czech Republic	50.23203659	12.87099266
+613	613	Hettinger-Renner	Czech Republic	Chvalšiny	382 08	79 Blue Bill Park Court	5	79 Blue Bill Park Court 382 08 Chvalšiny Czech Republic	32.7233575	-114.62179985
+614	614	Rutherford LLC	France	Paris 09	75455 CEDEX 09	6 Pierstorff Pass	6	6 Pierstorff Pass 75455 CEDEX 09 Paris 09 France	33.18077469	-94.9766922
+615	615	Ernser and Sons	Czech Republic	Velká Polom	747 64	87 Golf Place	5	87 Golf Place 747 64 Velká Polom Czech Republic	49.8627828	18.0911244
+616	616	McLaughlin Inc	France	Arras	62972 CEDEX 9	1721 Everett Center	6	1721 Everett Center 62972 CEDEX 9 Arras France	50.29301071	2.78178263
+617	617	Grimes, Leffler and Wuckert	Sweden	Kinna	511 58	2770 West Avenue	8	2770 West Avenue 511 58 Kinna Sweden	43.1919952	-77.8034453
+618	618	Koss, Johnston and Kub	Sweden	Ystad	271 37	23 Luster Place	8	23 Luster Place 271 37 Ystad Sweden	55.4414446	13.8064359
+619	619	Littel-Gleason	Czech Republic	Studenec	675 02	83128 Beilfuss Center	5	83128 Beilfuss Center 675 02 Studenec Czech Republic	49.19968796	16.06101227
+620	620	Von, Shields and Larson	Estonia	Sindi	NA	35 Manley Street	8	35 Manley Street  Sindi Estonia	58.4041635	24.6663383
+621	621	Collins Inc	France	Grenoble	38035 CEDEX 2	3 Karstens Junction	6	3 Karstens Junction 38035 CEDEX 2 Grenoble France	45.19425583	5.73166895
+622	622	Ullrich, MacGyver and Heidenreich	Sweden	Tidaholm	522 32	8 Ridgeway Junction	8	8 Ridgeway Junction 522 32 Tidaholm Sweden	58.1878322	13.9575747
+623	623	Farrell and Sons	Greece	Samothráki	NA	32247 Maywood Way	5	32247 Maywood Way  Samothráki Greece	40.45438385	25.5848217
+624	624	Dach and Sons	Greece	Souflí	NA	00 Sloan Way	5	00 Sloan Way  Souflí Greece	41.1930275	26.30045891
+625	625	Metz, Shanahan and Strosin	Sweden	Enköping	745 38	58926 Marcy Park	8	58926 Marcy Park 745 38 Enköping Sweden	59.62297821	17.05828857
+626	626	Orn and Sons	Finland	Luhanka	19950	166 Eastwood Lane	8	166 Eastwood Lane 19950 Luhanka Finland	33.54770947	-80.79848325
+627	627	Cremin-Lindgren	France	Carquefou	44474 CEDEX	4048 Brickson Park Street	6	4048 Brickson Park Street 44474 CEDEX Carquefou France	47.29689026	-1.49222374
+628	628	Koepp-Hayes	Greece	Makrychóri	NA	37 Texas Way	5	37 Texas Way  Makrychóri Greece	42.8690862	-76.9914565
+629	629	Schroeder-Sanford	France	Quimperlé	29399 CEDEX	87 Vermont Way	6	87 Vermont Way 29399 CEDEX Quimperlé France	47.87130737	-3.54839754
+630	630	Jast, Schimmel and Goldner	France	Toulon	83060 CEDEX	30857 Lillian Parkway	6	30857 Lillian Parkway 83060 CEDEX Toulon France	43.12519073	5.93103933
+631	631	Zemlak-Conn	Czech Republic	Štítina	747 91	2998 Sheridan Crossing	5	2998 Sheridan Crossing 747 91 Štítina Czech Republic	49.91390228	18.01083946
+632	632	Koch, Botsford and Gottlieb	Sweden	Järfälla	175 54	190 Emmet Park	8	190 Emmet Park 175 54 Järfälla Sweden	34.00961117	-85.30242979
+633	633	Frami-Botsford	France	Dieppe	76883 CEDEX	5 Pleasure Crossing	6	5 Pleasure Crossing 76883 CEDEX Dieppe France	49.92752075	1.08789849
+634	634	Aufderhar-Larkin	Sweden	Bromölla	295 37	7441 Charing Cross Parkway	8	7441 Charing Cross Parkway 295 37 Bromölla Sweden	34.10119824	-81.18259131
+635	635	Hettinger Group	France	Niort	79072 CEDEX 9	97794 Utah Plaza	6	97794 Utah Plaza 79072 CEDEX 9 Niort France	46.32385635	-0.45758361
+636	636	Howell-Keeling	France	Lille	59034 CEDEX	983 Towne Terrace	6	983 Towne Terrace 59034 CEDEX Lille France	45.74005508	-107.61012268
+637	637	Renner, Schumm and Gutmann	Sweden	Perstorp	284 32	2313 Colorado Lane	8	2313 Colorado Lane 284 32 Perstorp Sweden	43.20412178	-77.94020303
+638	638	Wunsch-Fritsch	France	Orsay	91893 CEDEX	8 Ilene Circle	6	8 Ilene Circle 91893 CEDEX Orsay France	48.69900894	2.18785906
+639	639	Crist, Moen and Weissnat	France	Fontenay-sous-Bois	94124 CEDEX	301 Vermont Point	6	301 Vermont Point 94124 CEDEX Fontenay-sous-Bois France	46.19362091	4.71342422
+640	640	Greenfelder-Jones	Hungary	Szombathely	9704	7 Beilfuss Street	5	7 Beilfuss Street 9704 Szombathely Hungary	47.2627762	16.6022438
+641	641	Stehr, Pollich and Hartmann	Spain	Zamora	49003	24 Carioca Place	6	24 Carioca Place 49003 Zamora Spain	41.50476837	-5.74289179
+642	642	Green-Wolf	Czech Republic	Tlumačov	763 62	45 Oxford Pass	5	45 Oxford Pass 763 62 Tlumačov Czech Republic	49.25322723	17.49540329
+643	643	Sporer-Conroy	Sweden	Borås	501 88	5918 Erie Way	8	5918 Erie Way 501 88 Borås Sweden	43.05108378	-77.11376772
+644	644	Terry, Gleichner and Johnston	Finland	Lappeenranta	54300	77638 Lien Crossing	8	77638 Lien Crossing 54300 Lappeenranta Finland	60.99795151	28.06098175
+645	645	Schowalter-Bosco	Sweden	Ljungskile	459 91	40 Shelley Junction	8	40 Shelley Junction 459 91 Ljungskile Sweden	58.22465134	11.91982841
+646	646	Ward LLC	Hungary	Pécs	7631	28 Corry Alley	5	28 Corry Alley 7631 Pécs Hungary	46.041957	18.2559262
+647	647	Kautzer Group	Czech Republic	Velké Losiny	788 15	47766 Sunnyside Junction	5	47766 Sunnyside Junction 788 15 Velké Losiny Czech Republic	50.041218	17.051156
+648	648	Tromp Inc	Sweden	Göteborg	412 86	49367 Gerald Circle	8	49367 Gerald Circle 412 86 Göteborg Sweden	30.35531664	-97.52306864
+649	649	Von-Morissette	France	Valence	26009 CEDEX	1 American Point	6	1 American Point 26009 CEDEX Valence France	44.92995834	4.88993979
+650	650	Blick and Sons	Czech Republic	Dolní Černilov	503 03	65500 Fuller Junction	5	65500 Fuller Junction 503 03 Dolní Černilov Czech Republic	50.26168823	15.96191216
+651	651	Toy, Sanford and Bartell	Czech Republic	Terezín	788 14	6207 Elmside Court	5	6207 Elmside Court 788 14 Terezín Czech Republic	50.01630402	17.03881073
+652	652	Johnston, West and Gleason	Greece	Féres	NA	446 Graceland Trail	5	446 Graceland Trail  Féres Greece	40.89331055	26.17373657
+653	653	Barrows-Powlowski	Croatia	Hodošan	40320	0291 Meadow Vale Crossing	6	0291 Meadow Vale Crossing 40320 Hodošan Croatia	46.3931427	16.64148903
+654	654	Yundt and Sons	France	Bègles	33324 CEDEX	3 Annamark Crossing	6	3 Annamark Crossing 33324 CEDEX Bègles France	44.80749512	-0.5488739
+655	655	Rice, Smith and O'Hara	France	Remiremont	88204 CEDEX	6 Kedzie Road	6	6 Kedzie Road 88204 CEDEX Remiremont France	48.01649094	6.58974648
+656	656	Kling LLC	Greece	Sidirókastro	NA	809 Oak Valley Alley	5	809 Oak Valley Alley  Sidirókastro Greece	40.63909371	-80.07944554
+657	657	Hamill-Stamm	Sweden	Piteå	941 65	221 Sundown Crossing	8	221 Sundown Crossing 941 65 Piteå Sweden	30.0107325	-98.1073677
+658	658	Bechtelar-Volkman	Czech Republic	Nová Paka	509 01	10122 Lighthouse Bay Circle	5	10122 Lighthouse Bay Circle 509 01 Nová Paka Czech Republic	50.4945488	15.51607323
+659	659	Larkin, Gulgowski and Dickinson	Finland	Hollola	15880	0460 Vahlen Plaza	8	0460 Vahlen Plaza 15880 Hollola Finland	60.98974228	25.45613098
+660	660	Gerhold and Sons	France	Castelsarrasin	82104 CEDEX	9697 8th Junction	6	9697 8th Junction 82104 CEDEX Castelsarrasin France	44.04201126	1.10534263
+661	661	Shields Group	Sweden	Karlskoga	691 26	0 Cascade Drive	8	0 Cascade Drive 691 26 Karlskoga Sweden	34.0862255	-84.594845
+662	662	Rodriguez LLC	Czech Republic	Tlumačov	763 62	9 Pleasure Court	5	9 Pleasure Court 763 62 Tlumačov Czech Republic	49.2505122	17.4970362
+663	663	Considine, Howell and Kihn	Norway	Trondheim	7404	624 Charing Cross Avenue	8	624 Charing Cross Avenue 7404 Trondheim Norway	41.71545109	-88.0182519
+664	664	Hilll-Waters	France	Le Puy-en-Velay	43010 CEDEX	8 Merrick Hill	6	8 Merrick Hill 43010 CEDEX Le Puy-en-Velay France	45.04362488	3.88519549
+665	665	Nikolaus Inc	Sweden	Sundsvall	857 42	9325 Graedel Trail	8	9325 Graedel Trail 857 42 Sundsvall Sweden	62.3907547	17.3071022
+666	666	Goldner-Hoeger	France	Bagnolet	93175 CEDEX	88106 Merrick Place	6	88106 Merrick Place 93175 CEDEX Bagnolet France	48.86870956	2.4177084
+667	667	Moore-Bartoletti	United Kingdom	Norton	NN11	5 Sheridan Plaza	7	5 Sheridan Plaza NN11 Norton United Kingdom	52.3543261	-1.2695683
+668	668	Tremblay, Bauch and Fritsch	Spain	Malaga	29071	60 Burning Wood Terrace	6	60 Burning Wood Terrace 29071 Malaga Spain	39.76357516	-81.12162845
+669	669	Pacocha, Daniel and Bartell	Czech Republic	Teplice	415 01	972 Cottonwood Hill	5	972 Cottonwood Hill 415 01 Teplice Czech Republic	50.63995743	13.82454014
+670	670	Schultz-Lindgren	Czech Republic	Chropyně	768 11	79085 Continental Point	5	79085 Continental Point 768 11 Chropyně Czech Republic	49.35686111	17.36405563
+671	671	Pfeffer-Will	Croatia	Hvar	21450	43495 Heffernan Trail	6	43495 Heffernan Trail 21450 Hvar Croatia	43.17259216	16.44322968
+672	672	Dickens, Reilly and Kling	Sweden	Storvik	812 30	3 South Avenue	8	3 South Avenue 812 30 Storvik Sweden	43.20866322	-77.94031077
+673	673	Cummings, Dickinson and McDermott	Sweden	Trollhättan	461 37	416 Claremont Trail	8	416 Claremont Trail 461 37 Trollhättan Sweden	58.3302869	12.2639845
+674	674	Mertz, Walsh and Strosin	France	Villefranche-sur-Mer	06239 CEDEX	55 Northfield Center	6	55 Northfield Center 06239 CEDEX Villefranche-sur-Mer France	43.70425415	7.31008244
+675	675	Runolfsdottir, Harber and Windler	Sweden	Kävlinge	244 82	848 Hazelcrest Lane	8	848 Hazelcrest Lane 244 82 Kävlinge Sweden	55.7912941	13.10734749
+676	676	Stanton-Beatty	France	Beauvais	60022 CEDEX	8 Thackeray Park	6	8 Thackeray Park 60022 CEDEX Beauvais France	49.4292984	2.08105969
+677	677	Lemke-Zieme	Sweden	Arvika	671 41	2 Schurz Court	8	2 Schurz Court 671 41 Arvika Sweden	59.672216	12.6062163
+678	678	Schimmel Inc	France	Créteil	94952 CEDEX 9	5 Ridgeway Parkway	6	5 Ridgeway Parkway 94952 CEDEX 9 Créteil France	48.78961182	2.45259738
+679	679	Steuber, Boyer and Nicolas	France	Lorient	56326 CEDEX	7 Oriole Park	6	7 Oriole Park 56326 CEDEX Lorient France	47.74765396	-3.36471605
+680	680	Hoppe-Ernser	Denmark	København	1370	7784 Florence Point	8	7784 Florence Point 1370 København Denmark	44.7311245	-92.851024
+681	681	Willms, Stoltenberg and Miller	Slovenia	Šenčur	4208	98457 Grayhawk Court	6	98457 Grayhawk Court 4208 Šenčur Slovenia	46.24324417	14.4192524
+682	682	Muller Group	Finland	Kajaani	87900	2 Jenifer Terrace	8	2 Jenifer Terrace 87900 Kajaani Finland	40.75703789	-75.75085972
+683	683	Dare, Dare and Fadel	France	Romans-sur-Isère	26109 CEDEX	68 8th Road	6	68 8th Road 26109 CEDEX Romans-sur-Isère France	45.0529609	5.0639227
+684	684	Block and Sons	Sweden	Bollstabruk	873 80	395 Bay Hill	8	395 Bay Hill 873 80 Bollstabruk Sweden	33.33569619	-80.39114373
+685	685	Price Inc	Czech Republic	Zátor	793 16	4 Manufacturers Drive	5	4 Manufacturers Drive 793 16 Zátor Czech Republic	50.0444042	17.5867364
+686	686	Daugherty-Cronin	Sweden	Stockholm	114 79	81 Duke Terrace	8	81 Duke Terrace 114 79 Stockholm Sweden	47.02201417	-68.09640903
+687	687	Lubowitz-Bosco	Greece	Pentaplátano	NA	14352 Blackbird Alley	5	14352 Blackbird Alley  Pentaplátano Greece	40.81984711	22.41839218
+688	688	Koss-Daniel	Czech Republic	Zlonice	273 71	30012 Vernon Place	5	30012 Vernon Place 273 71 Zlonice Czech Republic	50.2855072	14.09169483
+689	689	Heidenreich, Miller and Brakus	Italy	Milano	20147	718 Forster Junction	6	718 Forster Junction 20147 Milano Italy	37.28339639	-121.96921837
+690	690	Olson, Swift and Muller	Croatia	Jelsa	21465	69177 Chive Center	6	69177 Chive Center 21465 Jelsa Croatia	43.16156006	16.69258881
+691	691	Balistreri-Nitzsche	Sweden	Bollnäs	821 41	26306 Holy Cross Circle	8	26306 Holy Cross Circle 821 41 Bollnäs Sweden	34.63373604	-80.88090235
+692	692	Fay-Treutel	Sweden	Valbo	818 31	452 Carberry Point	8	452 Carberry Point 818 31 Valbo Sweden	60.6145026	16.9606004
+693	693	Volkman Inc	France	Roissy Charles-de-Gaulle	95711 CEDEX 1	667 Scoville Terrace	6	667 Scoville Terrace 95711 CEDEX 1 Roissy Charles-de-Gaulle France	49.00585556	2.53782105
+694	694	Heaney-Emard	Norway	Trondheim	7409	17090 Debra Parkway	8	17090 Debra Parkway 7409 Trondheim Norway	40.32793427	-77.16109467
+695	695	Lebsack-Simonis	Czech Republic	Všetaty	270 21	4310 Browning Court	5	4310 Browning Court 270 21 Všetaty Czech Republic	50.0466856	13.7585172
+696	696	Feest LLC	Greece	Néa Plágia	NA	85 Reinke Alley	5	85 Reinke Alley  Néa Plágia Greece	40.26536942	23.20376015
+697	697	Hansen-Kessler	France	Grenoble	38009 CEDEX 1	861 Fieldstone Way	6	861 Fieldstone Way 38009 CEDEX 1 Grenoble France	45.19425583	5.73166895
+698	698	Roberts Inc	France	Puteaux	92822 CEDEX	13 Heath Place	6	13 Heath Place 92822 CEDEX Puteaux France	48.88328552	2.23760176
+699	699	Rolfson-Prohaska	Sweden	Solna	171 94	6 5th Place	8	6 5th Place 171 94 Solna Sweden	59.3519546	17.982796
+700	700	Johns, Kerluke and Botsford	France	Saint-Lô	50009 CEDEX	93 Kensington Place	6	93 Kensington Place 50009 CEDEX Saint-Lô France	42.285687	-83.826852
+701	701	Bashirian, VonRueden and Graham	Greece	Ayía Triás	NA	3605 Swallow Street	5	3605 Swallow Street  Ayía Triás Greece	38.98815536	21.82035255
+702	702	Carroll-Doyle	Czech Republic	Bílovec	743 01	28633 Village Avenue	5	28633 Village Avenue 743 01 Bílovec Czech Republic	47.639385	-122.128265
+703	703	Thompson, Feil and Cremin	Sweden	Solna	169 65	8 Stephen Alley	8	8 Stephen Alley 169 65 Solna Sweden	59.3585437	17.9990277
+704	704	Stanton, Kris and Simonis	Czech Republic	Hrotovice	675 55	71257 Thackeray Hill	5	71257 Thackeray Hill 675 55 Hrotovice Czech Republic	37.82797355	-122.1968555
+705	705	Kunde and Sons	Sweden	Avesta	774 24	7 Morning Circle	8	7 Morning Circle 774 24 Avesta Sweden	60.15429688	16.17169189
+706	706	Williamson, Gerlach and Ondricka	Croatia	Gospić	53000	9 Lotheville Alley	6	9 Lotheville Alley 53000 Gospić Croatia	43.55225241	16.42890204
+707	707	Lowe Group	France	Caen	14922 CEDEX 9	81 Washington Street	6	81 Washington Street 14922 CEDEX 9 Caen France	45.23975238	-93.25716894
+708	708	Lebsack-Wintheiser	Sweden	Piteå	941 28	6 Northport Place	8	6 Northport Place 941 28 Piteå Sweden	65.2858667	21.4954391
+709	709	Ziemann, Kiehn and Kovacek	France	Paris 14	75675 CEDEX 14	98669 Mcguire Street	6	98669 Mcguire Street 75675 CEDEX 14 Paris 14 France	48.83386	2.312404
+710	710	O'Kon-Klocko	France	Istres	13807 CEDEX	09 Mifflin Plaza	6	09 Mifflin Plaza 13807 CEDEX Istres France	43.51267242	4.98776627
+711	711	Greenfelder, Lesch and D'Amore	Sweden	Göteborg	405 33	6696 Shelley Lane	8	6696 Shelley Lane 405 33 Göteborg Sweden	57.70947266	11.96612549
+712	712	Marvin, Ondricka and Volkman	Czech Republic	Slavkov u Brna	684 01	571 Sherman Crossing	5	571 Sherman Crossing 684 01 Slavkov u Brna Czech Republic	49.1543565	16.8805538
+713	713	Strosin, Hayes and Hirthe	Sweden	Ed	668 92	27 Grim Lane	8	27 Grim Lane 668 92 Ed Sweden	41.68254006	-77.58779516
+714	714	Mosciski-Fay	Spain	Sabadell	8204	5210 Dryden Trail	6	5210 Dryden Trail 8204 Sabadell Spain	41.59049335	2.2420932
+715	715	Weissnat-Lehner	Spain	Pamplona/Iruña	31005	21159 Rieder Junction	6	21159 Rieder Junction 31005 Pamplona/Iruña Spain	42.80610275	-1.64086235
+716	716	Rice-Ward	Sweden	Ånge	841 23	2317 Vermont Alley	8	2317 Vermont Alley 841 23 Ånge Sweden	34.12418306	-84.75255224
+717	717	Luettgen Inc	Croatia	Imotski	21260	611 Marcy Hill	6	611 Marcy Hill 21260 Imotski Croatia	43.44700241	17.2172184
+718	718	Upton, Lueilwitz and Kris	Slovenia	Vuzenica	2367	43 Jana Point	6	43 Jana Point 2367 Vuzenica Slovenia	46.59535217	15.16584778
+719	719	Beier, Heaney and Upton	Croatia	Greda	44273	9 Artisan Crossing	6	9 Artisan Crossing 44273 Greda Croatia	45.5149542	16.2920392
+720	720	Dibbert-Lakin	Sweden	Hisings Kärra	425 65	3702 Merry Crossing	8	3702 Merry Crossing 425 65 Hisings Kärra Sweden	57.79334259	11.99184036
+721	721	Zulauf-Ryan	Sweden	Uppsala	751 71	35 Redwing Street	8	35 Redwing Street 751 71 Uppsala Sweden	59.8480835	17.66967773
+722	722	Buckridge-Auer	France	Angers	49010 CEDEX 01	4 Artisan Trail	6	4 Artisan Trail 49010 CEDEX 01 Angers France	47.46870041	-0.5588147
+723	723	Fahey LLC	Denmark	København	1310	85 Sommers Avenue	8	85 Sommers Avenue 1310 København Denmark	36.15630003	-88.97495645
+724	724	Koelpin, Heaney and Heathcote	France	Besançon	25014 CEDEX	999 Merchant Lane	6	999 Merchant Lane 25014 CEDEX Besançon France	43.62963368	-1.26955122
+725	725	Murphy-Bruen	Netherlands	Amsterdam	1004	3 Shopko Lane	4	3 Shopko Lane 1004 Amsterdam Netherlands	52.3449737	4.9000742
+726	726	Grady-Shanahan	Sweden	Västervik	593 93	2847 Forest Run Circle	8	2847 Forest Run Circle 593 93 Västervik Sweden	33.80079299	-84.80061058
+727	727	Bogan and Sons	France	Nevers	58017 CEDEX	24429 Kinsman Point	6	24429 Kinsman Point 58017 CEDEX Nevers France	46.9871788	3.16160274
+728	728	Cummings-Kertzmann	Croatia	Stari Grad	21460	14 Autumn Leaf Trail	6	14 Autumn Leaf Trail 21460 Stari Grad Croatia	43.18455887	16.60112
+729	729	Daugherty-Harris	Italy	Napoli	80141	95963 Lunder Circle	6	95963 Lunder Circle 80141 Napoli Italy	40.86692429	14.26965523
+730	730	Huel-Runolfsdottir	United Kingdom	Kirkton	KW10	076 Swallow Terrace	7	076 Swallow Terrace KW10 Kirkton United Kingdom	57.96016312	-4.0312748
+731	731	Bruen, Fritsch and Feest	Sweden	Nol	449 43	6 Spaight Junction	8	6 Spaight Junction 449 43 Nol Sweden	57.91732025	12.06579876
+732	732	Dibbert, Kerluke and Tillman	Czech Republic	Vítkov	749 01	745 Logan Way	5	745 Logan Way 749 01 Vítkov Czech Republic	49.7783858	17.7571261
+733	733	Wuckert-Jenkins	Czech Republic	Černovice	618 00	6011 Scott Road	5	6011 Scott Road 618 00 Černovice Czech Republic	49.18723297	16.63438988
+734	734	Prosacco and Sons	France	Cergy-Pontoise	95046 CEDEX 1	1 8th Plaza	6	1 8th Plaza 95046 CEDEX 1 Cergy-Pontoise France	49.0488472	2.09294033
+735	735	Hayes Inc	Czech Republic	Jakartovice	747 53	9055 Alpine Park	5	9055 Alpine Park 747 53 Jakartovice Czech Republic	48.83826739	13.31878251
+736	736	Rosenbaum, Kihn and Emard	Slovenia	Mokronog	8230	857 Riverside Junction	6	857 Riverside Junction 8230 Mokronog Slovenia	45.94369507	15.14666557
+737	737	Gutmann, Schulist and Ebert	Lithuania	Kuršėnai	81001	3689 Golf View Avenue	8	3689 Golf View Avenue 81001 Kuršėnai Lithuania	56.00235748	22.93736458
+738	738	Cruickshank-Schaden	Sweden	Stockholm	106 65	760 Troy Trail	8	760 Troy Trail 106 65 Stockholm Sweden	59.33032227	18.06011963
+739	739	Streich Inc	Netherlands	Zwolle	8019	36 Scofield Road	4	36 Scofield Road 8019 Zwolle Netherlands	52.5062526	6.0770356
+740	740	Herman and Sons	France	Toulouse	31201 CEDEX 2	47 Jana Lane	6	47 Jana Lane 31201 CEDEX 2 Toulouse France	43.6039505	1.44450903
+741	741	Conn Inc	Czech Republic	Vidče	756 53	2471 Debra Crossing	5	2471 Debra Crossing 756 53 Vidče Czech Republic	49.4489958	18.1405242
+742	742	Rowe-Koch	Greece	Kimméria	NA	858 Heffernan Trail	5	858 Heffernan Trail  Kimméria Greece	41.14769363	24.93679428
+743	743	Padberg-Breitenberg	Finland	Tuusniemi	71201	0 Nova Crossing	8	0 Nova Crossing 71201 Tuusniemi Finland	62.81297302	28.47398949
+744	744	Kunde-Heller	France	Saint-Brieuc	22025 CEDEX 1	75 Amoth Trail	6	75 Amoth Trail 22025 CEDEX 1 Saint-Brieuc France	48.51398087	-2.76260281
+745	745	Bartell, Deckow and Abshire	Czech Republic	Žlutice	364 52	08 Sutteridge Drive	5	08 Sutteridge Drive 364 52 Žlutice Czech Republic	50.0831196	13.1405999
+746	746	Parisian-Donnelly	Croatia	Lepoglava	42250	67 Lakeland Lane	6	67 Lakeland Lane 42250 Lepoglava Croatia	46.2103639	16.0562635
+747	747	Reynolds LLC	France	Toulouse	31079 CEDEX 5	51693 Mandrake Hill	6	51693 Mandrake Hill 31079 CEDEX 5 Toulouse France	43.6039505	1.44450903
+748	748	Weimann-Brown	Czech Republic	Klenčí pod Čerchovem	345 34	10347 Sommers Park	5	10347 Sommers Park 345 34 Klenčí pod Čerchovem Czech Republic	49.4360219	12.8052255
+749	749	Waters and Sons	United Kingdom	Pentre	SY4	10 Alpine Pass	7	10 Alpine Pass SY4 Pentre United Kingdom	53.2863149	-3.6915015
+750	750	Schinner-Kunze	Greece	Skópelos	NA	459 Glendale Point	5	459 Glendale Point  Skópelos Greece	40.63027344	-80.06542528
+751	751	Nader-Tremblay	Sweden	Falun	791 26	07 Crest Line Park	8	07 Crest Line Park 791 26 Falun Sweden	32.73837152	-97.13400992
+752	752	Ernser, Gerlach and Shields	Sweden	Umeå	906 42	213 Waywood Park	8	213 Waywood Park 906 42 Umeå Sweden	63.84577942	20.3038578
+753	753	Crona LLC	Sweden	Åhus	296 81	08 Westend Parkway	8	08 Westend Parkway 296 81 Åhus Sweden	55.92351532	14.29552174
+754	754	Kutch, Abbott and Lubowitz	Czech Republic	Staré Město	788 32	624 Valley Edge Court	5	624 Valley Edge Court 788 32 Staré Město Czech Republic	49.6938476	18.6622706
+755	755	Hauck, Vandervort and Hane	France	Marseille	13245 CEDEX 04	922 Elka Point	6	922 Elka Point 13245 CEDEX 04 Marseille France	43.29502106	5.37448692
+756	756	Pacocha, Davis and Roob	Denmark	København	1360	8807 Center Court	8	8807 Center Court 1360 København Denmark	55.62722974	12.57048759
+757	757	Balistreri-Sipes	Hungary	Tatabánya	2809	9143 Forest Hill	5	9143 Forest Hill 2809 Tatabánya Hungary	47.58615875	18.39484978
+758	758	Anderson Group	Italy	Torino	10152	9587 Scott Center	6	9587 Scott Center 10152 Torino Italy	41.96906503	-87.87559493
+759	759	Boyer LLC	Czech Republic	Hluboká nad Vltavou	373 41	82149 Stone Corner Lane	5	82149 Stone Corner Lane 373 41 Hluboká nad Vltavou Czech Republic	49.05317685	14.43889895
+760	760	Paucek-Howell	Slovenia	Dob	1233	431 Declaration Park	6	431 Declaration Park 1233 Dob Slovenia	46.15326309	14.62573242
+761	761	Schmeler Inc	Sweden	Uddevalla	451 32	96 International Street	8	96 International Street 451 32 Uddevalla Sweden	43.6506436	-70.31541097
+762	762	Dooley, Littel and Grady	Czech Republic	Uničov	783 91	43 Bluejay Plaza	5	43 Bluejay Plaza 783 91 Uničov Czech Republic	49.7704741	17.1234913
+763	763	Kemmer, Lehner and Schowalter	Sweden	Boxholm	590 14	978 Bunting Parkway	8	978 Bunting Parkway 590 14 Boxholm Sweden	34.46694241	-84.28650089
+764	764	Lind, Glover and Crist	France	Yvetot	76194 CEDEX	3230 Forest Crossing	6	3230 Forest Crossing 76194 CEDEX Yvetot France	49.6192894	0.75839078
+765	765	Auer, Reinger and Rutherford	Czech Republic	Katovice	387 11	42010 Roth Park	5	42010 Roth Park 387 11 Katovice Czech Republic	48.97459803	13.13304679
+766	766	Kub and Sons	Czech Republic	Sudoměřice	696 66	00 Mallory Street	5	00 Mallory Street 696 66 Sudoměřice Czech Republic	48.86771011	17.25768852
+767	767	Marquardt, Maggio and Johnston	Greece	Pélla	NA	5130 Fulton Way	5	5130 Fulton Way  Pélla Greece	41.42484297	-93.70890595
+768	768	Ritchie-Braun	Hungary	Szeged	6748	3 Packers Center	5	3 Packers Center 6748 Szeged Hungary	46.25361633	20.14613533
+769	769	Schmeler-Tillman	Sweden	Eslöv	241 91	8 Hauk Point	8	8 Hauk Point 241 91 Eslöv Sweden	55.83749771	13.30362606
+770	770	Cummerata, Murphy and Lindgren	France	Paris 13	75243 CEDEX 13	42 Express Place	6	42 Express Place 75243 CEDEX 13 Paris 13 France	48.8417205	2.3511444
+771	771	McDermott-Conn	Norway	Trondheim	7047	3 Nancy Crossing	8	3 Nancy Crossing 7047 Trondheim Norway	63.41967392	10.47495461
+772	772	Murphy-Hirthe	Sweden	Karlskrona	371 47	1029 Loeprich Court	8	1029 Loeprich Court 371 47 Karlskrona Sweden	56.19472504	15.6270113
+773	773	Dibbert LLC	Czech Republic	Klášter	582 83	4354 Prairieview Hill	5	4354 Prairieview Hill 582 83 Klášter Czech Republic	49.8106124	15.5305522
+774	774	Jacobson, Spinka and Gleichner	France	Paris 12	75582 CEDEX 12	676 Crowley Plaza	6	676 Crowley Plaza 75582 CEDEX 12 Paris 12 France	48.84079361	2.38874507
+775	775	Flatley, Johnston and O'Hara	Sweden	Trångsund	142 82	48031 Fulton Park	8	48031 Fulton Park 142 82 Trångsund Sweden	28.12935907	-96.9867712
+776	776	Olson-Doyle	Czech Republic	Zásmuky	281 44	4 Golf Course Avenue	5	4 Golf Course Avenue 281 44 Zásmuky Czech Republic	-29.54508417	31.13141351
+777	777	Farrell, Tromp and Flatley	Sweden	Göteborg	411 21	79640 Reindahl Way	8	79640 Reindahl Way 411 21 Göteborg Sweden	57.70425797	11.95680237
+778	778	Lebsack-Morar	Sweden	Skinnskatteberg	739 30	46 Starling Parkway	8	46 Starling Parkway 739 30 Skinnskatteberg Sweden	59.82979584	15.68778038
+779	779	Hamill-Ratke	Greece	Pórto Chéli	NA	466 Chive Point	5	466 Chive Point  Pórto Chéli Greece	37.32717133	23.14377213
+780	780	Mitchell Group	Sweden	Åby	616 32	00411 Carey Place	8	00411 Carey Place 616 32 Åby Sweden	58.66214752	16.17592621
+781	781	Becker-Wolf	Czech Republic	Stochov	273 03	3 Monterey Lane	5	3 Monterey Lane 273 03 Stochov Czech Republic	50.1518202	13.9573452
+782	782	Reinger-Kemmer	France	Charenton-le-Pont	94675 CEDEX	2 Nancy Parkway	6	2 Nancy Parkway 94675 CEDEX Charenton-le-Pont France	48.813549	2.437704
+783	783	Klocko, Haag and Lebsack	Sweden	Stockholm	120 16	65 Melody Hill	8	65 Melody Hill 120 16 Stockholm Sweden	40.8717132	-74.18524804
+784	784	Reinger, Ondricka and Hodkiewicz	Czech Republic	Horní Lideč	756 12	199 Badeau Lane	5	199 Badeau Lane 756 12 Horní Lideč Czech Republic	49.1844931	18.0555874
+785	785	Huels, Krajcik and Ledner	Czech Republic	Pilníkov	542 42	69 Kropf Terrace	5	69 Kropf Terrace 542 42 Pilníkov Czech Republic	50.5324591	15.821555
+786	786	Pfeffer and Sons	Finland	Köyliö	27860	731 Canary Hill	8	731 Canary Hill 27860 Köyliö Finland	33.29129513	-81.04713682
+787	787	Brown-Gorczany	Czech Republic	Buštěhrad	273 43	85403 Scoville Place	5	85403 Scoville Place 273 43 Buštěhrad Czech Republic	50.15431595	14.18708611
+788	788	Leuschke-Bailey	Greece	Ágios Spyrídon	NA	2921 Walton Junction	5	2921 Walton Junction  Ágios Spyrídon Greece	39.62509155	19.92269516
+789	789	Olson, Cremin and Langosh	Sweden	Göteborg	416 80	432 Dunning Plaza	8	432 Dunning Plaza 416 80 Göteborg Sweden	57.71509933	12.04853916
+790	790	Little and Sons	France	Briey	54154 CEDEX	7074 Reindahl Park	6	7074 Reindahl Park 54154 CEDEX Briey France	49.24937057	5.93928003
+791	791	Smitham and Sons	France	Issoire	63504 CEDEX	666 Kropf Lane	6	666 Kropf Lane 63504 CEDEX Issoire France	45.54371643	3.24986935
+792	792	McDermott Group	Greece	Évosmos	NA	31 Forster Alley	5	31 Forster Alley  Évosmos Greece	40.6731995	22.8961704
+793	793	Abbott-Von	Sweden	Ludvika	771 55	2 Lindbergh Avenue	8	2 Lindbergh Avenue 771 55 Ludvika Sweden	60.1499675	15.2213171
+794	794	Rohan Inc	Greece	Arkhaía Kórinthos	NA	9878 Dexter Street	5	9878 Dexter Street  Arkhaía Kórinthos Greece	37.90642548	22.88393211
+795	795	Cormier LLC	Norway	Stavanger	4015	937 Manitowish Park	8	937 Manitowish Park 4015 Stavanger Norway	43.1567915	-89.3723235
+796	796	Torphy-Schamberger	Norway	Bodø	8015	4 Eastlawn Plaza	8	4 Eastlawn Plaza 8015 Bodø Norway	67.31351471	14.44783688
+797	797	Wolf-Schinner	Italy	Milano	20125	8 Cascade Street	6	8 Cascade Street 20125 Milano Italy	45.4915761	9.2055629
+798	798	Bergnaum-Bosco	Norway	Stord	5406	3882 Arizona Crossing	8	3882 Arizona Crossing 5406 Stord Norway	42.62312352	-88.99109215
+799	799	Russel Group	Greece	Néa Plágia	NA	8642 Shopko Avenue	5	8642 Shopko Avenue  Néa Plágia Greece	40.26536942	23.20376015
+800	800	Lynch-Hane	Greece	Skála	NA	5 Boyd Circle	5	5 Boyd Circle  Skála Greece	43.22004723	-77.64966892
+801	801	Feeney-Hills	Czech Republic	Dýšina	330 02	65264 Morrow Place	5	65264 Morrow Place 330 02 Dýšina Czech Republic	40.72591426	-82.45747131
+802	802	Pagac and Sons	Finland	Marttila	21490	8 Manitowish Hill	8	8 Manitowish Hill 21490 Marttila Finland	60.4468129	22.251591
+803	803	Lueilwitz-Goyette	Czech Republic	Rokytnice nad Jizerou	513 01	14978 Anniversary Parkway	5	14978 Anniversary Parkway 513 01 Rokytnice nad Jizerou Czech Republic	50.72917938	15.45044136
+804	804	Schultz Inc	France	Oyonnax	01117 CEDEX	975 Garrison Lane	6	975 Garrison Lane 01117 CEDEX Oyonnax France	46.25757599	5.65607738
+805	805	Quigley, Torphy and Hills	Czech Republic	Mirotice	364 71	995 Emmet Parkway	5	995 Emmet Parkway 364 71 Mirotice Czech Republic	38.0347645	-78.51158275
+806	806	Raynor-Lockman	Finland	Loimaan Kunta	32560	74589 Fisk Plaza	8	74589 Fisk Plaza 32560 Loimaan Kunta Finland	30.58162689	-87.29151154
+807	807	Kuphal, Waelchi and Christiansen	France	Brive-la-Gaillarde	19117 CEDEX	6936 Warbler Plaza	6	6936 Warbler Plaza 19117 CEDEX Brive-la-Gaillarde France	45.15856934	1.53258896
+808	808	Wolf, Ullrich and Schoen	France	Le Teil	07404 CEDEX	9637 Valley Edge Circle	6	9637 Valley Edge Circle 07404 CEDEX Le Teil France	44.55226898	4.68476439
+809	809	Walsh, Bins and Morar	Croatia	Sali	23281	1 Forest Street	6	1 Forest Street 23281 Sali Croatia	41.7113608	-75.7563135
+810	810	Toy, Wolff and Denesik	Croatia	Runović	21261	297 Derek Hill	6	297 Derek Hill 21261 Runović Croatia	43.38925552	17.23280334
+811	811	Zboncak-Schaden	Greece	Chrysó	NA	79036 Lien Way	5	79036 Lien Way  Chrysó Greece	35.64134979	-101.6002655
+812	812	Larkin Group	Netherlands	Emmen	7824	1695 Sullivan Alley	4	1695 Sullivan Alley 7824 Emmen Netherlands	52.78039932	6.93043375
+813	813	Homenick-MacGyver	Sweden	Gävle	801 84	5 Longview Junction	8	5 Longview Junction 801 84 Gävle Sweden	60.66009521	17.16308594
+814	814	Metz, Mraz and Mohr	Sweden	Västerås	720 16	823 Heffernan Point	8	823 Heffernan Point 720 16 Västerås Sweden	59.61608887	16.56170654
+815	815	Price, Yundt and Kerluke	Czech Republic	Radnice	789 85	3 Muir Court	5	3 Muir Court 789 85 Radnice Czech Republic	49.7246459	16.8745506
+816	816	Streich-MacGyver	France	Montpellier	34194 CEDEX 5	173 Mcguire Junction	6	173 Mcguire Junction 34194 CEDEX 5 Montpellier France	43.60829163	3.87960339
+817	817	Kautzer-Hessel	Sweden	Vallentuna	186 96	15279 Crest Line Alley	8	15279 Crest Line Alley 186 96 Vallentuna Sweden	30.44375822	-97.65558714
+818	818	O'Kon Inc	Greece	Antíparos	NA	04 Red Cloud Way	5	04 Red Cloud Way  Antíparos Greece	40.67058729	-79.69120544
+819	819	Heidenreich-Stracke	Sweden	Piteå	941 22	2993 Upham Hill	8	2993 Upham Hill 941 22 Piteå Sweden	38.55616315	-77.17961335
+820	820	Mante, Deckow and Rosenbaum	Czech Republic	Jince	262 23	4364 Cardinal Trail	5	4364 Cardinal Trail 262 23 Jince Czech Republic	36.4845887	-94.1894541
+821	821	Cormier Group	Sweden	Nyköping	611 93	3181 Lighthouse Bay Lane	8	3181 Lighthouse Bay Lane 611 93 Nyköping Sweden	41.0850458	-72.44348097
+822	822	Metz, Morar and Streich	France	Haguenau	67504 CEDEX	7287 Morning Center	6	7287 Morning Center 67504 CEDEX Haguenau France	48.82041931	7.79137182
+823	823	Rath-Reichel	France	Vallauris	06224 CEDEX	564 Clarendon Court	6	564 Clarendon Court 06224 CEDEX Vallauris France	43.57949829	7.0529542
+824	824	Lockman-Little	France	Forbach	57609 CEDEX	4 Anzinger Drive	6	4 Anzinger Drive 57609 CEDEX Forbach France	49.18593979	6.89844418
+825	825	Turcotte, Buckridge and Sauer	Finland	Ruukki	92401	3 Hagan Terrace	8	3 Hagan Terrace 92401 Ruukki Finland	33.284131	-80.566626
+826	826	Raynor-Lehner	Greece	Gaïtánion	NA	1 Fordem Street	5	1 Fordem Street  Gaïtánion Greece	37.7888031	20.87474823
+827	827	Howell-Graham	Sweden	Ronneby	372 34	64 Washington Center	8	64 Washington Center 372 34 Ronneby Sweden	43.089006	-77.51842437
+828	828	Kemmer LLC	Finland	Turku	20960	94 Anderson Center	8	94 Anderson Center 20960 Turku Finland	60.34427261	22.17032242
+829	829	McDermott, Hand and Ruecker	Netherlands	Dordrecht	3309	406 Russell Road	4	406 Russell Road 3309 Dordrecht Netherlands	51.8016742	4.7109311
+830	830	Upton and Sons	Sweden	Åhus	296 81	90230 Scofield Pass	8	90230 Scofield Pass 296 81 Åhus Sweden	55.92351532	14.29552174
+831	831	Wyman-Hackett	Czech Republic	Petrovice u Karviné	735 72	32 Farwell Avenue	5	32 Farwell Avenue 735 72 Petrovice u Karviné Czech Republic	49.8837987	18.5438356
+832	832	Thiel-Nikolaus	Sweden	Svenljunga	512 24	04249 Rockefeller Terrace	8	04249 Rockefeller Terrace 512 24 Svenljunga Sweden	57.49591064	13.11309814
+833	833	Stamm-Bogisich	Greece	Mégara	NA	39625 Grasskamp Trail	5	39625 Grasskamp Trail  Mégara Greece	37.99484634	23.34459114
+834	834	Swift-Herzog	France	Fontenay-sous-Bois	94129 CEDEX	30 Iowa Road	6	30 Iowa Road 94129 CEDEX Fontenay-sous-Bois France	48.8511734	2.47430182
+835	835	Murray Inc	Greece	Livádion	NA	63285 Mcbride Way	5	63285 Mcbride Way  Livádion Greece	40.13128281	22.17212105
+836	836	Pagac-Kihn	Netherlands	Beverwijk	1944	01042 Red Cloud Center	4	01042 Red Cloud Center 1944 Beverwijk Netherlands	34.13477216	-117.55418717
+837	837	Williamson-Wilderman	Czech Republic	Dobratice	739 51	7 Ruskin Hill	5	7 Ruskin Hill 739 51 Dobratice Czech Republic	49.6659156	18.5009815
+838	838	Schaden, McGlynn and Spencer	Netherlands	Heemstede	2104	35 Spohn Lane	4	35 Spohn Lane 2104 Heemstede Netherlands	52.336255	4.6190777
+839	839	O'Conner-Lind	Czech Republic	Hrochův Týnec	538 62	00 Clove Road	5	00 Clove Road 538 62 Hrochův Týnec Czech Republic	49.965493	15.9391745
+840	840	Stracke, West and Mante	France	Bonneuil-sur-Marne	94384 CEDEX	3 Waywood Crossing	6	3 Waywood Crossing 94384 CEDEX Bonneuil-sur-Marne France	48.7684021	2.48706341
+841	841	Torphy, Hamill and Davis	Sweden	Helsingborg	252 68	1 2nd Road	8	1 2nd Road 252 68 Helsingborg Sweden	56.0383619	12.6967228
+842	842	Rowe Inc	Sweden	Bålsta	746 40	900 Hollow Ridge Crossing	8	900 Hollow Ridge Crossing 746 40 Bålsta Sweden	34.63200278	-84.42627383
+843	843	Rau-Osinski	Lithuania	Akademija (Kaunas)	53088	82 West Plaza	8	82 West Plaza 53088 Akademija (Kaunas) Lithuania	44.07275772	-88.30037689
+844	844	Howell and Sons	Sweden	Nora	713 30	49191 Shelley Street	8	49191 Shelley Street 713 30 Nora Sweden	59.51874924	15.03879738
+845	845	Kuphal, Miller and Watsica	Sweden	Vingåker	643 92	39728 Eggendart Hill	8	39728 Eggendart Hill 643 92 Vingåker Sweden	59.04337311	15.87155628
+846	846	Upton Inc	Croatia	Tužno	42242	87266 Springview Point	6	87266 Springview Point 42242 Tužno Croatia	46.25439835	16.23763847
+847	847	Schneider-Wunsch	Sweden	Alvesta	342 80	80 Mockingbird Lane	8	80 Mockingbird Lane 342 80 Alvesta Sweden	35.08522783	-92.40330945
+848	848	Schaden Group	Czech Republic	Líně	330 21	6 Ridgeway Center	5	6 Ridgeway Center 330 21 Líně Czech Republic	32.6963751	-117.01951096
+849	849	Zieme, Funk and Towne	France	Bergerac	24111 CEDEX	8 Crownhardt Plaza	6	8 Crownhardt Plaza 24111 CEDEX Bergerac France	44.85337448	0.48297349
+850	850	Bradtke-Pagac	Sweden	Katrineholm	641 36	54 High Crossing Plaza	8	54 High Crossing Plaza 641 36 Katrineholm Sweden	44.10876024	-70.67562336
+851	851	Sanford, Jacobson and Dare	Finland	Lestijärvi	69440	8341 Veith Alley	8	8341 Veith Alley 69440 Lestijärvi Finland	63.52558899	24.66652489
+852	852	Becker-Torp	Poland	Gardawice	44-246	35443 Kenwood Parkway	5	35443 Kenwood Parkway 44-246 Gardawice Poland	50.11092377	18.78720093
+853	853	Waelchi, Bogisich and Kunde	Czech Republic	Kozmice	747 11	80 2nd Circle	5	80 2nd Circle 747 11 Kozmice Czech Republic	49.91525	18.15041
+854	854	Hermiston-Wunsch	France	Villejuif	94809 CEDEX	94 Portage Hill	6	94 Portage Hill 94809 CEDEX Villejuif France	48.7949295	2.36621881
+855	855	Raynor, Johnson and Collier	France	Quetigny	21806 CEDEX	4 Badeau Drive	6	4 Badeau Drive 21806 CEDEX Quetigny France	47.31502151	5.1150198
+856	856	Johns-Douglas	Poland	Dubiecko	37-750	6 Ilene Pass	5	6 Ilene Pass 37-750 Dubiecko Poland	49.82686234	22.38921356
+857	857	Cummerata, Schroeder and Paucek	Poland	Piła	64-970	20438 Ryan Park	5	20438 Ryan Park 64-970 Piła Poland	35.06655708	-79.00306285
+858	858	Lueilwitz-Langworth	Poland	Leśnica	47-150	5110 Stone Corner Road	5	5110 Stone Corner Road 47-150 Leśnica Poland	44.0819999	-70.411004
+859	859	Bartell-Bayer	France	Courtaboeuf	91959 CEDEX	29 La Follette Way	6	29 La Follette Way 91959 CEDEX Courtaboeuf France	46.62480927	2.45837498
+860	860	Greenfelder Inc	Sweden	Strängnäs	645 84	53423 Northland Parkway	8	53423 Northland Parkway 645 84 Strängnäs Sweden	59.37548828	17.01690674
+861	861	Reynolds, Larson and Kozey	Portugal	Porto Alto	2135-027	5889 Sachs Hill	6	5889 Sachs Hill 2135-027 Porto Alto Portugal	38.92366791	-8.88170147
+862	862	Kautzer-McGlynn	Hungary	Budapest	1024	3 Ruskin Place	5	3 Ruskin Place 1024 Budapest Hungary	47.508119	19.0241499
+863	863	Hilll, Glover and Konopelski	Estonia	Laagri	NA	8317 Shoshone Pass	8	8317 Shoshone Pass  Laagri Estonia	59.3508606	24.61018753
+864	864	Reichert Group	Slovenia	Lovrenc na Pohorju	2344	63 Pankratz Junction	6	63 Pankratz Junction 2344 Lovrenc na Pohorju Slovenia	46.5231284	15.3784954
+865	865	Harber-Kling	Czech Republic	Ratíškovice	696 02	8416 Darwin Pass	5	8416 Darwin Pass 696 02 Ratíškovice Czech Republic	48.92087936	17.16163063
+866	866	Bosco-Bergnaum	France	Paris 10	75485 CEDEX 10	80108 Sundown Crossing	6	80108 Sundown Crossing 75485 CEDEX 10 Paris 10 France	48.87173843	2.35720086
+867	867	Predovic Group	France	Chilly-Mazarin	91384 CEDEX	914 Dixon Avenue	6	914 Dixon Avenue 91384 CEDEX Chilly-Mazarin France	48.70275116	2.31313682
+868	868	Veum, Ullrich and Quigley	Czech Republic	Nové Město pod Smrkem	463 65	2 Dapin Avenue	5	2 Dapin Avenue 463 65 Nové Město pod Smrkem Czech Republic	50.9113643	15.2106927
+869	869	Leannon, Lakin and Bogisich	Netherlands	Eindhoven	5629	62801 Melody Plaza	4	62801 Melody Plaza 5629 Eindhoven Netherlands	38.52410126	-89.13379669
+870	870	Fritsch LLC	Spain	Sevilla	41020	6 Melvin Alley	6	6 Melvin Alley 41020 Sevilla Spain	14.6272184	121.1299235
+871	871	Wunsch Group	France	Orléans	45933 CEDEX 9	56 Lerdahl Road	6	56 Lerdahl Road 45933 CEDEX 9 Orléans France	47.90139771	1.90391636
+872	872	Schmeler Group	Norway	Oslo	264	19 Lerdahl Point	8	19 Lerdahl Point 264 Oslo Norway	43.133367	-89.389488
+873	873	Wolf-Mitchell	Latvia	Strenči	NA	6 Little Fleur Trail	8	6 Little Fleur Trail  Strenči Latvia	57.62743759	25.6837101
+874	874	Kub LLC	Sweden	Stockholm	117 97	148 Di Loreto Center	8	148 Di Loreto Center 117 97 Stockholm Sweden	47.02201683	-68.09627717
+875	875	Kuvalis-Cruickshank	Portugal	Seixezelo	4415-928	47 Laurel Terrace	6	47 Laurel Terrace 4415-928 Seixezelo Portugal	41.0344561	-8.5684574
+876	876	Aufderhar, McLaughlin and Ryan	France	Quimper	29551 CEDEX 9	2 John Wall Park	6	2 John Wall Park 29551 CEDEX 9 Quimper France	47.99594879	-4.09992218
+877	877	Larson-Morissette	Lithuania	Venta	85019	5 Texas Hill	8	5 Texas Hill 85019 Venta Lithuania	25.834838	-97.45491
+878	878	Funk, Wolff and Hahn	Spain	Getafe	28904	00582 Scofield Alley	6	00582 Scofield Alley 28904 Getafe Spain	40.30643845	-3.73741126
+879	879	Pollich-Jacobs	Greece	Neochóri	NA	17 Judy Avenue	5	17 Judy Avenue  Neochóri Greece	43.23491785	-77.68522172
+880	880	Kovacek Group	Portugal	Bairro de Santo António	2765-133	8 School Point	6	8 School Point 2765-133 Bairro de Santo António Portugal	38.7209512	-9.4064357
+881	881	Carroll, Durgan and Leuschke	Sweden	Skänninge	596 92	96007 Rusk Lane	8	96007 Rusk Lane 596 92 Skänninge Sweden	58.39558029	15.08677006
+882	882	DuBuque-Murazik	Greece	Psychikó	NA	35833 Onsgard Parkway	5	35833 Onsgard Parkway  Psychikó Greece	38.01241684	23.77249908
+883	883	Farrell-Grady	Spain	Almeria	4070	8 Sunnyside Court	6	8 Sunnyside Court 4070 Almeria Spain	-33.8769361	18.7213946
+884	884	Towne Inc	Portugal	Vimieiro	4705-656	07 Katie Court	6	07 Katie Court 4705-656 Vimieiro Portugal	38.83113861	-7.83996677
+885	885	Donnelly Inc	Sweden	Gävle	802 66	73818 Huxley Trail	8	73818 Huxley Trail 802 66 Gävle Sweden	60.6701889	17.1377964
+886	886	Wisozk-Schuster	France	Villejuif	94809 CEDEX	433 Waywood Drive	6	433 Waywood Drive 94809 CEDEX Villejuif France	48.7949295	2.36621881
+887	887	Paucek-Gibson	Croatia	Žrnovnica	21251	8063 Eggendart Way	6	8063 Eggendart Way 21251 Žrnovnica Croatia	43.51848221	16.55750465
+888	888	Muller-Lebsack	Sweden	Storuman	923 98	0 Farwell Crossing	8	0 Farwell Crossing 923 98 Storuman Sweden	43.79869464	-70.2509054
+889	889	Kertzmann, Padberg and Goldner	Sweden	Uppsala	752 26	49 Clemons Street	8	49 Clemons Street 752 26 Uppsala Sweden	59.8584104	17.6095661
+890	890	Heathcote, Fahey and Beier	Croatia	Vrbovec	10340	2 Arizona Parkway	6	2 Arizona Parkway 10340 Vrbovec Croatia	45.88547516	16.41926384
+891	891	Bruen-Schimmel	Sweden	Vikbolandet	610 25	50661 Goodland Way	8	50661 Goodland Way 610 25 Vikbolandet Sweden	58.53514862	16.56443024
+892	892	Murray, Windler and Bahringer	Czech Republic	Lipník nad Bečvou	757 01	0322 Commercial Lane	5	0322 Commercial Lane 757 01 Lipník nad Bečvou Czech Republic	49.556248	17.5896324
+893	893	Hudson Group	Portugal	Marteleira	2530-342	8 Thierer Drive	6	8 Thierer Drive 2530-342 Marteleira Portugal	39.1955662	-9.2754932
+894	894	Green-Kuphal	Lithuania	Kelmė	86001	0495 Hintze Circle	8	0495 Hintze Circle 86001 Kelmė Lithuania	55.63022614	22.93376923
+895	895	Dickinson, Grady and Marks	Netherlands	Hengelo	7554	106 Elka Park	4	106 Elka Park 7554 Hengelo Netherlands	52.23122406	6.81263018
+896	896	Padberg-Rosenbaum	Estonia	Tabasalu	NA	8 Buhler Avenue	8	8 Buhler Avenue  Tabasalu Estonia	59.4244332	24.5601908
+897	897	Christiansen and Sons	Sweden	Kista	164 35	670 Onsgard Drive	8	670 Onsgard Drive 164 35 Kista Sweden	59.40331268	17.94428444
+898	898	Bogisich-Brown	Sweden	Borås	504 50	4 Hoepker Circle	8	4 Hoepker Circle 504 50 Borås Sweden	57.7108412	12.9485449
+899	899	Swaniawski-Franecki	Portugal	Zambujeira	2530-327	419 Towne Plaza	6	419 Towne Plaza 2530-327 Zambujeira Portugal	39.26823044	-9.31279469
+900	900	Schneider, Kovacek and Baumbach	Sweden	Trollhättan	461 42	4 Old Gate Junction	8	4 Old Gate Junction 461 42 Trollhättan Sweden	39.980647	-74.934712
+901	901	Beatty, Harber and Bode	Finland	Perho	69951	8861 Chinook Trail	8	8861 Chinook Trail 69951 Perho Finland	40.9837171	-75.5327819
+902	902	Cartwright-Kutch	France	Paris 03	75151 CEDEX 03	2 Colorado Terrace	6	2 Colorado Terrace 75151 CEDEX 03 Paris 03 France	34.83604093	-82.37951851
+903	903	Rau-Hessel	Greece	Kavallári	NA	2799 Mandrake Center	5	2799 Mandrake Center  Kavallári Greece	40.71177673	23.04097939
+904	904	Effertz, Nader and Nitzsche	Spain	Lleida	25005	01 Iowa Lane	6	01 Iowa Lane 25005 Lleida Spain	47.639385	-122.128265
+905	905	Hermann LLC	France	Wasquehal	59449 CEDEX	746 Northland Circle	6	746 Northland Circle 59449 CEDEX Wasquehal France	50.66928101	3.12938046
+906	906	King Group	Portugal	Avelinha	3505-125	38 Merry Alley	6	38 Merry Alley 3505-125 Avelinha Portugal	40.7367363	-7.82136822
+907	907	Cronin, Christiansen and Ledner	Portugal	Peras Ruivas	2435-585	7528 Twin Pines Drive	6	7528 Twin Pines Drive 2435-585 Peras Ruivas Portugal	39.65249634	-8.54314327
+908	908	Paucek-Schuster	Portugal	Carregado	2580-466	75 Sugar Way	6	75 Sugar Way 2580-466 Carregado Portugal	39.01839214	-8.9678844
+909	909	Koepp, Pollich and Koss	Portugal	Santa Cruz do Bispo	4455-794	819 Namekagon Drive	6	819 Namekagon Drive 4455-794 Santa Cruz do Bispo Portugal	41.2110848	-8.6716525
+910	910	Sawayn and Sons	Slovenia	Morje	2314	27 Reindahl Street	6	27 Reindahl Street 2314 Morje Slovenia	46.4223438	15.5919274
+911	911	Cronin-Schmitt	Croatia	Kraljevica	51262	3 Blaine Avenue	6	3 Blaine Avenue 51262 Kraljevica Croatia	45.2579704	14.5981795
+912	912	Hegmann, Abshire and Quitzon	France	Arles	13637 CEDEX	5502 Lawn Parkway	6	5502 Lawn Parkway 13637 CEDEX Arles France	43.6752739	4.62773037
+913	913	Bogisich, Zieme and Jacobi	Greece	Vónitsa	NA	702 Ridgeway Alley	5	702 Ridgeway Alley  Vónitsa Greece	40.98575615	-79.61701893
+914	914	Kuvalis Inc	France	Rungis	94525 CEDEX 1	39 Oak Center	6	39 Oak Center 94525 CEDEX 1 Rungis France	38.05028915	-122.22018433
+915	915	Schulist LLC	Sweden	Örnsköldsvik	891 41	94750 Nobel Crossing	8	94750 Nobel Crossing 891 41 Örnsköldsvik Sweden	63.28886032	18.71602058
+916	916	Wintheiser-Wilderman	Portugal	Chãos	4960-160	55715 Commercial Avenue	6	55715 Commercial Avenue 4960-160 Chãos Portugal	48.51177979	-122.61260223
+917	917	Sipes-Mills	Greece	Evxinoúpolis	NA	732 Jenna Court	5	732 Jenna Court  Evxinoúpolis Greece	43.09232021	-77.57273332
+918	918	Grady, Lemke and Kohler	France	Bourg-en-Bresse	01009 CEDEX	8 East Pass	6	8 East Pass 01009 CEDEX Bourg-en-Bresse France	46.2051506	5.2255168
+919	919	Skiles-Kertzmann	France	Cergy-Pontoise	95319 CEDEX	98784 Garrison Park	6	98784 Garrison Park 95319 CEDEX Cergy-Pontoise France	49.0488472	2.09294033
+920	920	Toy-Beatty	Greece	Xilópolis	NA	00 Vernon Junction	5	00 Vernon Junction  Xilópolis Greece	40.93330002	23.18330002
+921	921	Howe-Jacobson	Portugal	Grijó	4415-400	6530 Red Cloud Center	6	6530 Red Cloud Center 4415-400 Grijó Portugal	39.68219757	-7.96828794
+922	922	Willms-Rau	Latvia	Tukums	NA	01 Nobel Plaza	8	01 Nobel Plaza  Tukums Latvia	56.96687698	23.15338135
+923	923	Olson Group	Portugal	Corvite	4805-223	385 Kinsman Road	6	385 Kinsman Road 4805-223 Corvite Portugal	39.68219757	-7.96828794
+924	924	Boyle-Mosciski	Slovenia	Grosuplje	1290	2989 Fuller Trail	6	2989 Fuller Trail 1290 Grosuplje Slovenia	45.95676804	14.65964031
+925	925	Roberts, VonRueden and Torphy	Czech Republic	Dubá	471 41	46535 Graedel Park	5	46535 Graedel Park 471 41 Dubá Czech Republic	50.53990936	14.53996468
+926	926	Reichel Group	Spain	Girona	17080	19 Morrow Hill	6	19 Morrow Hill 17080 Girona Spain	44.399622	-69.24718
+927	927	Stoltenberg, Ziemann and Torphy	Portugal	Porta	4940-352	64497 Sunfield Court	6	64497 Sunfield Court 4940-352 Porta Portugal	39.92340851	-94.23226166
+928	928	O'Kon Group	Sweden	Umeå	904 35	18 Rockefeller Road	8	18 Rockefeller Road 904 35 Umeå Sweden	63.81414413	20.21928215
+929	929	Wuckert LLC	United Kingdom	Wirral	CH48	7 Tennyson Pass	7	7 Tennyson Pass CH48 Wirral United Kingdom	53.369431	-3.0105692
+930	930	Strosin, Prohaska and Rowe	Portugal	Rio Meão	4520-471	2256 Lakewood Place	6	2256 Lakewood Place 4520-471 Rio Meão Portugal	40.96998525	-8.55348976
+931	931	Keeling-Cremin	France	Saint-Brieuc	22091 CEDEX 9	26 Warner Court	6	26 Warner Court 22091 CEDEX 9 Saint-Brieuc France	48.51398087	-2.76260281
+932	932	Steuber, Beatty and Pouros	Sweden	Stockholm	114 84	26 Farmco Circle	8	26 Farmco Circle 114 84 Stockholm Sweden	44.92391628	-74.92921346
+933	933	Schaefer LLC	Portugal	Valongo	5400-339	4039 Carberry Pass	6	4039 Carberry Pass 5400-339 Valongo Portugal	41.1872673	-8.50218582
+934	934	McCullough-Rohan	Greece	Áyioi Apóstoloi	NA	037 Garrison Circle	5	037 Garrison Circle  Áyioi Apóstoloi Greece	37.16710281	22.89272118
+935	935	Howe-Dooley	Sweden	Nacka	131 22	28 Walton Lane	8	28 Walton Lane 131 22 Nacka Sweden	34.45740307	-91.61360292
+936	936	Simonis-Hilll	Norway	Tromsø	9037	79 Rowland Street	8	79 Rowland Street 9037 Tromsø Norway	33.93312766	-80.34743501
+937	937	Fay, Hagenes and Dare	Portugal	Zouparria do Monte	3020-895	89396 Carey Circle	6	89396 Carey Circle 3020-895 Zouparria do Monte Portugal	40.28896808	-8.43971283
+938	938	Mraz-Cummerata	Greece	Rízoma	NA	03350 Clemons Point	5	03350 Clemons Point  Rízoma Greece	39.66552353	21.73597908
+939	939	Ernser-Christiansen	Sweden	Hallstahammar	734 24	65938 Goodland Road	8	65938 Goodland Road 734 24 Hallstahammar Sweden	59.61547852	16.23413277
+940	940	Nolan-McKenzie	Sweden	Solna	169 70	17 Dwight Road	8	17 Dwight Road 169 70 Solna Sweden	41.8592365	-77.9721929
+941	941	Smitham-Pagac	Netherlands	Kerkrade	6464	163 Hoard Trail	4	163 Hoard Trail 6464 Kerkrade Netherlands	50.8667944	6.0762995
+942	942	Ledner-Gerlach	Czech Republic	Hroznětín	584 01	664 Old Shore Avenue	5	664 Old Shore Avenue 584 01 Hroznětín Czech Republic	49.75148773	15.35011292
+943	943	Thiel-Auer	Lithuania	Rietavas	90018	78909 Maywood Pass	8	78909 Maywood Pass 90018 Rietavas Lithuania	55.72393036	21.93148422
+944	944	Littel, Grant and Champlin	Switzerland	Chur	7006	128 Meadow Valley Court	6	128 Meadow Valley Court 7006 Chur Switzerland	35.80684545	-82.4842739
+945	945	Wyman-Bechtelar	Spain	Albacete	2005	50905 Pleasure Terrace	6	50905 Pleasure Terrace 2005 Albacete Spain	38.99766159	-1.86006749
+946	946	Price, Homenick and Hayes	Portugal	Vale de Figueira	5120-463	632 Tomscot Crossing	6	632 Tomscot Crossing 5120-463 Vale de Figueira Portugal	39.84385123	-8.7021692
+947	947	Denesik Inc	France	Épinal	88099 CEDEX 9	029 Spenser Circle	6	029 Spenser Circle 88099 CEDEX 9 Épinal France	48.17467499	6.44998455
+948	948	Hagenes Inc	Sweden	Markaryd	285 35	5114 Claremont Parkway	8	5114 Claremont Parkway 285 35 Markaryd Sweden	34.1963348	-80.0299231
+949	949	Lebsack-Ondricka	Portugal	Seara	5030-384	37382 Blue Bill Park Circle	6	37382 Blue Bill Park Circle 5030-384 Seara Portugal	35.54992676	-85.98175049
+950	950	Daniel and Sons	Norway	Oslo	31	9 Kensington Plaza	8	9 Kensington Plaza 31 Oslo Norway	59.7679101	10.8231323
+951	951	Toy LLC	Estonia	Orissaare	NA	86469 Merry Place	8	86469 Merry Place  Orissaare Estonia	58.56700134	23.10000038
+952	952	Lowe, Kautzer and Romaguera	Sweden	Borås	507 52	90 Lakewood Terrace	8	90 Lakewood Terrace 507 52 Borås Sweden	57.71471024	12.9796381
+953	953	Feest, Sauer and Jast	Sweden	Timrå	861 24	641 Gulseth Terrace	8	641 Gulseth Terrace 861 24 Timrå Sweden	62.48931885	17.3273735
+954	954	Ernser, Abshire and Grant	Sweden	Svenljunga	512 93	40748 Morningstar Lane	8	40748 Morningstar Lane 512 93 Svenljunga Sweden	57.51059723	13.1135416
+955	955	Kiehn and Sons	Slovenia	Poljčane	2319	74 Rockefeller Court	6	74 Rockefeller Court 2319 Poljčane Slovenia	46.31865311	15.57194614
+956	956	Brekke LLC	Finland	Liljendal	7880	0998 Stoughton Court	8	0998 Stoughton Court 7880 Liljendal Finland	60.57450485	26.05351257
+957	957	Streich-Padberg	Poland	Ochla	65-980	04728 Michigan Way	5	04728 Michigan Way 65-980 Ochla Poland	51.875	15.46667004
+958	958	Schaefer, Dicki and Jast	Croatia	Dubrava	21252	043 Marquette Junction	6	043 Marquette Junction 21252 Dubrava Croatia	45.83771896	16.53757286
+959	959	Zemlak and Sons	Portugal	Carvalhos	4960-349	7 Sloan Park	6	7 Sloan Park 4960-349 Carvalhos Portugal	38.7129977	-9.3036899
+960	960	Parisian Inc	Czech Republic	Náklo	783 32	01 Ohio Terrace	5	01 Ohio Terrace 783 32 Náklo Czech Republic	49.6547595	17.134473
+961	961	Towne-Jakubowski	Poland	Golina	62-590	5 Lakeland Court	5	5 Lakeland Court 62-590 Golina Poland	52.2410405	18.1641522
+962	962	Nicolas, Torp and Hayes	Sweden	Värnamo	331 54	2 Hauk Point	8	2 Hauk Point 331 54 Värnamo Sweden	57.18996429	14.01428604
+963	963	Lockman-Bechtelar	Latvia	Madona	NA	0 Duke Avenue	8	0 Duke Avenue  Madona Latvia	56.85440826	26.22058868
+964	964	Daugherty, Boyle and Swift	Croatia	Omišalj	51513	5127 Blackbird Hill	6	5127 Blackbird Hill 51513 Omišalj Croatia	45.21101761	14.55521011
+965	965	Roob, DuBuque and Hagenes	Norway	Skien	3716	99 Marquette Avenue	8	99 Marquette Avenue 3716 Skien Norway	59.2238978	9.5888742
+966	966	Spinka-Langosh	Norway	Elverum	2418	53676 Northfield Place	8	53676 Northfield Place 2418 Elverum Norway	60.8836441	11.56051254
+967	967	Kuhn Inc	France	Blois	41029 CEDEX	43 Hudson Terrace	6	43 Hudson Terrace 41029 CEDEX Blois France	27.469682	-82.11317626
+968	968	Will Inc	Poland	Jelcz	91-864	37782 North Crossing	5	37782 North Crossing 91-864 Jelcz Poland	52.12467194	19.40042686
+969	969	Denesik-O'Keefe	Greece	Kyllíni	NA	834 Graedel Point	5	834 Graedel Point  Kyllíni Greece	37.93972015	22.39694023
+970	970	Wisoky LLC	Croatia	Fažana	52212	9321 Bonner Avenue	6	9321 Bonner Avenue 52212 Fažana Croatia	44.92714691	13.80208683
+971	971	McKenzie-McCullough	Finland	Lappi	27260	14495 Grayhawk Park	8	14495 Grayhawk Park 27260 Lappi Finland	61.09989548	21.84457397
+972	972	Parisian and Sons	Poland	Borucin	47-451	3 Havey Lane	5	3 Havey Lane 47-451 Borucin Poland	50.0101738	18.15654564
+973	973	Paucek, Satterfield and Brown	Sweden	Lysekil	453 41	94170 Straubel Trail	8	94170 Straubel Trail 453 41 Lysekil Sweden	58.28078842	11.47059631
+974	974	White-Leannon	Portugal	Santa Luzia	9940-125	7664 Barby Trail	6	7664 Barby Trail 9940-125 Santa Luzia Portugal	41.1754602	-8.6320755
+975	975	Willms-Lockman	Poland	Węgorzyno	73-155	64396 Arkansas Point	5	64396 Arkansas Point 73-155 Węgorzyno Poland	31.329988	-92.4215095
+976	976	Sanford LLC	Czech Republic	Volary	384 51	73966 Burning Wood Drive	5	73966 Burning Wood Drive 384 51 Volary Czech Republic	48.91085052	13.89178181
+977	977	Rolfson Inc	Sweden	Trelleborg	231 43	91 Eastwood Way	8	91 Eastwood Way 231 43 Trelleborg Sweden	55.3838075	13.1512789
+978	978	Stanton, Smith and Abshire	Sweden	Uppsala	751 87	4 Main Alley	8	4 Main Alley 751 87 Uppsala Sweden	43.216354	-77.93798
+979	979	Treutel-Rodriguez	Portugal	Água Levada	4745-380	6 Fallview Place	6	6 Fallview Place 4745-380 Água Levada Portugal	41.26990478	-8.57494341
+980	980	Stamm-Hirthe	Sweden	Solna	171 43	1 Stang Crossing	8	1 Stang Crossing 171 43 Solna Sweden	59.3591108	18.0020659
+981	981	Rau and Sons	Poland	Sierakowice	83-340	3 Spohn Terrace	5	3 Spohn Terrace 83-340 Sierakowice Poland	54.344866	17.894014
+982	982	Bechtelar LLC	Poland	Łęczyce	84-218	10 Northfield Drive	5	10 Northfield Drive 84-218 Łęczyce Poland	54.5727095	17.8641931
+983	983	Kovacek LLC	Poland	Gowarczów	26-225	0864 Kenwood Lane	5	0864 Kenwood Lane 26-225 Gowarczów Poland	51.27814102	20.43873978
+984	984	Greenfelder-Luettgen	Portugal	Passagem	2430-632	05410 Grover Street	6	05410 Grover Street 2430-632 Passagem Portugal	39.87627703	-8.91483884
+985	985	Wolf-Denesik	Poland	Nowosielce-Gniewosz	38-507	81 Marquette Plaza	5	81 Marquette Plaza 38-507 Nowosielce-Gniewosz Poland	49.5674164	22.0714764
+986	986	Corkery, Goodwin and Kuvalis	Greece	Néa Sánta	NA	1156 Jackson Point	5	1156 Jackson Point  Néa Sánta Greece	40.84175491	22.9208107
+987	987	Zieme and Sons	Slovenia	Metlika	8330	91 Garrison Lane	6	91 Garrison Lane 8330 Metlika Slovenia	45.6389639	15.32185
+988	988	Kuvalis-Bahringer	Lithuania	Kybartai	70065	7 Grim Avenue	8	7 Grim Avenue 70065 Kybartai Lithuania	54.63874435	22.7620163
+989	989	Ratke, Barton and Haag	Czech Republic	Příbor	742 58	37568 Graceland Drive	5	37568 Graceland Drive 742 58 Příbor Czech Republic	49.64019394	18.1439743
+990	990	Hintz, Tromp and Hilpert	France	Melun	77004 CEDEX	8539 Messerschmidt Parkway	6	8539 Messerschmidt Parkway 77004 CEDEX Melun France	29.72541809	-95.36685944
+991	991	Kihn, Little and Sawayn	Croatia	Brijest	31000	9822 Meadow Valley Parkway	6	9822 Meadow Valley Parkway 31000 Brijest Croatia	38.7215883	-121.28904
+992	992	Dooley-Kirlin	Slovenia	Hodoš	9204	77697 Summer Ridge Parkway	6	77697 Summer Ridge Parkway 9204 Hodoš Slovenia	46.82384109	16.32558823
+993	993	Kuhn, Considine and Bartell	Portugal	Cova da Iria	2495-405	54 Northridge Center	6	54 Northridge Center 2495-405 Cova da Iria Portugal	39.65334625	-8.69090656
+994	994	Zboncak-Botsford	Poland	Marianowo	73-121	2415 Lien Parkway	5	2415 Lien Parkway 73-121 Marianowo Poland	35.4021722	-81.1340828
+995	995	Mosciski-Spencer	Portugal	Lameira	4610-572	96879 Granby Center	6	96879 Granby Center 4610-572 Lameira Portugal	41.44115067	-8.08913326
+996	996	Ortiz, Terry and Towne	Poland	Wojcieszków	21-411	714 Gulseth Road	5	714 Gulseth Road 21-411 Wojcieszków Poland	51.7692337	22.31339264
+997	997	Pollich, Daugherty and Brown	Norway	Askim	1814	372 Independence Court	8	372 Independence Court 1814 Askim Norway	59.6442068	11.1664451
+998	998	Schultz-Mertz	France	Saint-Grégoire	35763 CEDEX	2469 Killdeer Crossing	6	2469 Killdeer Crossing 35763 CEDEX Saint-Grégoire France	48.15201569	-1.68475485
+999	999	Zemlak LLC	Poland	Stanisław Dolny	34-143	9997 New Castle Point	5	9997 New Castle Point 34-143 Stanisław Dolny Poland	49.90333176	19.65807152
+1000	1000	Miller, Kuhn and Waelchi	Czech Republic	Ostrožská Lhota	687 23	030 Grasskamp Way	5	030 Grasskamp Way 687 23 Ostrožská Lhota Czech Republic	48.9762769	17.4712375
+1001	1001	Spinka-Beer	Portugal	Orvalho	6185-302	99 Division Avenue	6	99 Division Avenue 6185-302 Orvalho Portugal	47.585083	-52.714851
+1002	1002	Gerlach, Swift and Kub	Poland	Drawsko Pomorskie	78-500	66 Dryden Court	5	66 Dryden Court 78-500 Drawsko Pomorskie Poland	53.5637982	15.7506553
+1003	1003	Wintheiser-Torphy	Sweden	Borås	504 31	31 Cascade Circle	8	31 Cascade Circle 504 31 Borås Sweden	57.71578598	12.91763878
+1004	1004	Wehner-Gislason	Poland	Gąsocin	06-440	724 Stoughton Alley	5	724 Stoughton Alley 06-440 Gąsocin Poland	52.73728943	20.71606064
+1005	1005	Lesch-Kemmer	Spain	Palma De Mallorca	7015	3 Rigney Plaza	6	3 Rigney Plaza 7015 Palma De Mallorca Spain	27.06368033	-82.26364042
+1006	1006	Kilback Inc	France	Vierzon	18104 CEDEX	2 Morningstar Plaza	6	2 Morningstar Plaza 18104 CEDEX Vierzon France	47.22298431	2.065974
+1007	1007	Steuber, Johnston and Bahringer	Sweden	Enskede	122 44	264 Westridge Lane	8	264 Westridge Lane 122 44 Enskede Sweden	30.30512039	-99.0775545
+1008	1008	Jacobi Group	Portugal	Igreja	5050-401	63 Cambridge Terrace	6	63 Cambridge Terrace 5050-401 Igreja Portugal	41.6213859	-8.36684816
+1009	1009	Quitzon Group	Greece	Asíni	NA	66 Susan Center	5	66 Susan Center  Asíni Greece	37.54449844	22.86376572
+1010	1010	Hilpert and Sons	Poland	Łęczyce	84-218	4 8th Alley	5	4 8th Alley 84-218 Łęczyce Poland	40.83188808	-80.54037489
+1011	1011	Waelchi-Tromp	Greece	Mýrina	NA	4631 Mendota Parkway	5	4631 Mendota Parkway  Mýrina Greece	37.98105873	-121.75430233
+1012	1012	Reinger and Sons	United Kingdom	Merton	SW19	26666 Fordem Hill	7	26666 Fordem Hill SW19 Merton United Kingdom	51.42682258	-0.27307021
+1013	1013	Fritsch, Wisoky and Bernhard	Poland	Kęty	32-653	7007 Mifflin Place	5	7007 Mifflin Place 32-653 Kęty Poland	49.87995148	19.2280941
+1014	1014	Kutch-Watsica	Portugal	Quinta da Torre	4920-070	7 Independence Circle	6	7 Independence Circle 4920-070 Quinta da Torre Portugal	41.96932662	-8.69342
+1015	1015	O'Reilly, Tillman and Bayer	Poland	Rokitno	21-504	09802 Nova Point	5	09802 Nova Point 21-504 Rokitno Poland	52.12153244	23.29616928
+1016	1016	MacGyver, O'Kon and Anderson	Czech Republic	Tupesy	687 07	81 Trailsway Trail	5	81 Trailsway Trail 687 07 Tupesy Czech Republic	49.0862214	17.3709949
+1017	1017	Murazik, Muller and Rodriguez	Portugal	Quinta de Valadares	2855-358	3926 Oxford Alley	6	3926 Oxford Alley 2855-358 Quinta de Valadares Portugal	41.1005249	-8.63884449
+1018	1018	Cummerata-Collins	Slovenia	Kranjska Gora	4280	00173 Autumn Leaf Pass	6	00173 Autumn Leaf Pass 4280 Kranjska Gora Slovenia	44.20401382	-71.34089661
+1019	1019	Langworth Inc	Portugal	São Pedro	4830-264	94 Straubel Drive	6	94 Straubel Drive 4830-264 São Pedro Portugal	41.53222031	-8.25149743
+1020	1020	Gulgowski, Osinski and Durgan	Portugal	Valongo	5400-339	62838 Stang Way	6	62838 Stang Way 5400-339 Valongo Portugal	41.1872673	-8.50218582
+1021	1021	Boyle, Rempel and Stehr	Portugal	Abade de Vermoim	4770-014	1 Springs Avenue	6	1 Springs Avenue 4770-014 Abade de Vermoim Portugal	41.41643321	-8.44604118
+1022	1022	Cronin LLC	France	La Roche-sur-Yon	85009 CEDEX	3 Cambridge Parkway	6	3 Cambridge Parkway 85009 CEDEX La Roche-sur-Yon France	46.66939926	-1.41881025
+1023	1023	Parker-Abernathy	France	Massy	91309 CEDEX	62 Fulton Crossing	6	62 Fulton Crossing 91309 CEDEX Massy France	34.21855545	-118.59755707
+1024	1024	Casper, Beatty and Lehner	Czech Republic	Kunčice pod Ondřejníkem	739 13	6002 Hooker Circle	5	6002 Hooker Circle 739 13 Kunčice pod Ondřejníkem Czech Republic	49.5442325	18.2805073
+1025	1025	Lang, Blick and Donnelly	Finland	Turku	20960	8 Sachtjen Lane	8	8 Sachtjen Lane 20960 Turku Finland	60.34427261	22.17032242
+1026	1026	Labadie Inc	Sweden	Bjuv	267 35	15776 Granby Circle	8	15776 Granby Circle 267 35 Bjuv Sweden	33.90210126	-81.14293684
+1027	1027	Brown-Hamill	Norway	Oslo	492	74660 Prairieview Circle	8	74660 Prairieview Circle 492 Oslo Norway	44.29779217	-96.79075305
+1028	1028	Jerde, Jacobson and Schmitt	Poland	Iłowo -Osada	11-102	79013 Boyd Street	5	79013 Boyd Street 11-102 Iłowo -Osada Poland	53.1718483	20.29477501
+1029	1029	Bogisich Group	Sweden	Degeberga	297 32	57011 Nelson Trail	8	57011 Nelson Trail 297 32 Degeberga Sweden	55.83715057	14.08926392
+1030	1030	Reichert-Leuschke	Poland	Baborów	48-120	20 Coolidge Alley	5	20 Coolidge Alley 48-120 Baborów Poland	50.151759	17.973017
+1031	1031	Connelly-Cremin	Czech Republic	Dobřany	518 01	047 Village Green Crossing	5	047 Village Green Crossing 518 01 Dobřany Czech Republic	38.64471033	-121.42313531
+1032	1032	Rosenbaum LLC	Sweden	Göteborg	404 22	93453 Petterle Road	8	93453 Petterle Road 404 22 Göteborg Sweden	57.70947266	11.96612549
+1033	1033	Graham-Upton	Poland	Plewiska	62-056	387 Londonderry Hill	5	387 Londonderry Hill 62-056 Plewiska Poland	31.3897373	-92.66829194
+1034	1034	Gerlach-Sanford	France	Saint-Quentin-en-Yvelines	78061 CEDEX	95893 Ramsey Crossing	6	95893 Ramsey Crossing 78061 CEDEX Saint-Quentin-en-Yvelines France	48.75951767	2.03902531
+1035	1035	Quitzon-Hyatt	Sweden	Klippan	264 36	58 Pankratz Trail	8	58 Pankratz Trail 264 36 Klippan Sweden	56.132056	13.1633276
+1036	1036	Bogan-Emmerich	Sweden	Lidingö	181 85	54208 Lawn Court	8	54208 Lawn Court 181 85 Lidingö Sweden	59.3643837	18.13314247
+1037	1037	Paucek-Jast	Portugal	Vale de Figueira	2695-584	618 Orin Court	6	618 Orin Court 2695-584 Vale de Figueira Portugal	38.82002537	-9.10685938
+1038	1038	Walter-Herman	France	Balma	31139 CEDEX	61597 Lunder Court	6	61597 Lunder Court 31139 CEDEX Balma France	43.61042935	1.50803228
+1039	1039	Schinner-Lueilwitz	Poland	Milówka	34-360	104 Hansons Junction	5	104 Hansons Junction 34-360 Milówka Poland	44.265221	-69.998157
+1040	1040	Hauck, Nicolas and Bauch	Poland	Jelcz	91-864	29 Spenser Lane	5	29 Spenser Lane 91-864 Jelcz Poland	37.63848734	-121.01650471
+1041	1041	Ritchie-Bayer	Poland	Pokój	46-034	66599 Parkside Circle	5	66599 Parkside Circle 46-034 Pokój Poland	50.90375137	17.83750725
+1042	1042	Dietrich, Cummerata and O'Hara	Poland	Przybyszówka	36-047	66 Maryland Lane	5	66 Maryland Lane 36-047 Przybyszówka Poland	31.30287621	-92.47691026
+1043	1043	Halvorson, McKenzie and Powlowski	Poland	Lipka	77-420	0242 Dayton Circle	5	0242 Dayton Circle 77-420 Lipka Poland	53.4964447	17.2505455
+1044	1044	Goodwin, Goyette and Collier	Croatia	Sunja	44210	3 Hayes Point	6	3 Hayes Point 44210 Sunja Croatia	45.36679459	16.56606483
+1045	1045	Rogahn Group	Slovenia	Ljutomer	9240	5 Anhalt Park	6	5 Anhalt Park 9240 Ljutomer Slovenia	46.51799011	16.19647408
+1046	1046	Lebsack-Prosacco	Sweden	Göteborg	412 20	42 Pennsylvania Park	8	42 Pennsylvania Park 412 20 Göteborg Sweden	41.77230663	-78.01379887
+1047	1047	Marquardt, Johns and Metz	Finland	Hämeenkoski	16801	19 Mosinee Plaza	8	19 Mosinee Plaza 16801 Hämeenkoski Finland	61.02212524	25.15751076
+1048	1048	Kiehn-Rohan	Czech Republic	Telč	588 62	55843 6th Avenue	5	55843 6th Avenue 588 62 Telč Czech Republic	49.2262177	15.5354279
+1049	1049	Walker, Wintheiser and Harvey	Greece	Loutráki	NA	699 Summer Ridge Plaza	5	699 Summer Ridge Plaza  Loutráki Greece	40.63372909	-80.0558044
+1050	1050	McCullough, Hirthe and Carter	Norway	Askim	1814	1471 Dapin Road	8	1471 Dapin Road 1814 Askim Norway	59.57820511	11.19857788
+1051	1051	Macejkovic-Bergnaum	Finland	Särkisalo	25630	1280 Ridgeview Court	8	1280 Ridgeview Court 25630 Särkisalo Finland	39.74529901	-86.42595659
+1052	1052	Ernser, Hand and Stoltenberg	France	Orléans	45004 CEDEX 1	337 Michigan Court	6	337 Michigan Court 45004 CEDEX 1 Orléans France	47.76866384	2.47661454
+1053	1053	Fahey, Brakus and Runolfsson	Poland	Januszkowice	47-330	135 Fisk Parkway	5	135 Fisk Parkway 47-330 Januszkowice Poland	50.39160538	18.13574028
+1054	1054	Funk Group	France	Orsay	91851 CEDEX	644 Mariners Cove Parkway	6	644 Mariners Cove Parkway 91851 CEDEX Orsay France	48.69900894	2.18785906
+1055	1055	Reinger Inc	France	Lyon	69939 CEDEX 20	39 Vera Center	6	39 Vera Center 69939 CEDEX 20 Lyon France	45.76730728	4.83430672
+1056	1056	Sawayn Group	Sweden	Tomelilla	273 30	03 Anzinger Street	8	03 Anzinger Street 273 30 Tomelilla Sweden	55.54677	13.95434
+1057	1057	Nolan Inc	Poland	Pyskowice	44-120	55 Forster Park	5	55 Forster Park 44-120 Pyskowice Poland	51.931291	14.696608
+1058	1058	Kerluke Group	Poland	Kwidzyn	82-505	457 Mockingbird Parkway	5	457 Mockingbird Parkway 82-505 Kwidzyn Poland	26.94128915	-80.07898838
+1059	1059	Volkman-Abbott	Poland	Szczerców	97-420	32811 Straubel Hill	5	32811 Straubel Hill 97-420 Szczerców Poland	28.5124321	-81.4392395
+1060	1060	Stehr, McClure and Ferry	Lithuania	Pasvalys	39001	4549 Alpine Plaza	8	4549 Alpine Plaza 39001 Pasvalys Lithuania	56.06186676	24.39912033
+1061	1061	Franecki-Koelpin	Portugal	Marisol	2855-174	678 Warner Trail	6	678 Warner Trail 2855-174 Marisol Portugal	28.5520513	-81.85241676
+1062	1062	Howe, Baumbach and Jenkins	Croatia	Jagodnjak	31324	1 Holmberg Park	6	1 Holmberg Park 31324 Jagodnjak Croatia	45.941846	18.634412
+1063	1063	Cummings-Shanahan	Netherlands	Vlissingen	4384	367 Springs Center	4	367 Springs Center 4384 Vlissingen Netherlands	51.46593475	3.55633497
+1064	1064	Baumbach-Price	Sweden	Bromma	167 31	88 Hoard Junction	8	88 Hoard Junction 167 31 Bromma Sweden	59.3415908	17.9466026
+1065	1065	Fritsch Group	France	Saint-Denis	93209 CEDEX	114 Welch Alley	6	114 Welch Alley 93209 CEDEX Saint-Denis France	48.93604279	2.36500692
+1066	1066	Bergnaum, Bauch and Runolfsdottir	Norway	Oslo	286	73821 Summit Alley	8	73821 Summit Alley 286 Oslo Norway	38.40950131	-82.40062583
+1067	1067	Moore, Morar and Rippin	Poland	Kuźnia Raciborska	47-420	98 Armistice Point	5	98 Armistice Point 47-420 Kuźnia Raciborska Poland	50.192957	18.270452
+1068	1068	Raynor, Howe and Nader	Sweden	Stockholm	111 76	57304 Victoria Junction	8	57304 Victoria Junction 111 76 Stockholm Sweden	59.2691001	18.0890154
+1069	1069	Quitzon, Lubowitz and Conn	Czech Republic	Jeseník	790 01	20416 Macpherson Place	5	20416 Macpherson Place 790 01 Jeseník Czech Republic	38.88473129	-77.01519775
+1070	1070	Abbott-Hintz	France	Vallauris	06224 CEDEX	248 Warner Avenue	6	248 Warner Avenue 06224 CEDEX Vallauris France	43.57949829	7.0529542
+1071	1071	Parker-Murray	Czech Republic	Jablonec nad Jizerou	512 43	8 Melvin Lane	5	8 Melvin Lane 512 43 Jablonec nad Jizerou Czech Republic	50.7152551	15.4213355
+1072	1072	Kuhic-Hintz	Portugal	Banho e Carvalhosa	4635-005	3792 Karstens Alley	6	3792 Karstens Alley 4635-005 Banho e Carvalhosa Portugal	41.24861466	-8.14951944
+1073	1073	Will, Osinski and Schamberger	Czech Republic	Nová Cerekev	394 15	703 Karstens Plaza	5	703 Karstens Plaza 394 15 Nová Cerekev Czech Republic	49.4156509	15.1170529
+1074	1074	Bartoletti-Stehr	France	Montluçon	03104 CEDEX	4623 Vidon Center	6	4623 Vidon Center 03104 CEDEX Montluçon France	46.34238434	2.6073401
+1075	1075	Lemke and Sons	France	Saint-Marcellin	38164 CEDEX	98 Northport Street	6	98 Northport Street 38164 CEDEX Saint-Marcellin France	45.15442657	5.31929016
+1076	1076	Dietrich Group	Czech Republic	Brněnec	569 04	4 Huxley Trail	5	4 Huxley Trail 569 04 Brněnec Czech Republic	49.6111223	16.539899
+1077	1077	Padberg and Sons	France	Blois	41942 CEDEX 9	9721 Hauk Junction	6	9721 Hauk Junction 41942 CEDEX 9 Blois France	47.58595276	1.33002818
+1078	1078	Grant, Rosenbaum and Schuster	Czech Republic	Libušín	273 06	2829 Anderson Street	5	2829 Anderson Street 273 06 Libušín Czech Republic	37.9523383	-121.247395
+1079	1079	Osinski and Sons	Poland	Baligród	38-606	325 Bayside Street	5	325 Bayside Street 38-606 Baligród Poland	26.636953	-80.098133
+1080	1080	Lakin Inc	France	Carcassonne	11878 CEDEX 9	22425 Rutledge Court	6	22425 Rutledge Court 11878 CEDEX 9 Carcassonne France	43.21259689	2.35596538
+1081	1081	Kuhic Group	Greece	Xylókastro	NA	81 Golden Leaf Alley	5	81 Golden Leaf Alley  Xylókastro Greece	43.11879091	-77.75754891
+1082	1082	Grant-Kshlerin	Netherlands	Eindhoven	5619	4449 Starling Park	4	4449 Starling Park 5619 Eindhoven Netherlands	51.44259144	5.39703457
+1083	1083	Gulgowski Group	Czech Republic	Velké Němčice	691 63	5 Nancy Lane	5	5 Nancy Lane 691 63 Velké Němčice Czech Republic	48.9943559	16.6733288
+1084	1084	Rohan, Schneider and Harber	France	Paris 13	75638 CEDEX 13	843 Fairview Way	6	843 Fairview Way 75638 CEDEX 13 Paris 13 France	36.28195727	-88.30496508
+1085	1085	MacGyver-Lockman	France	Marseille	13348 CEDEX 20	5591 Fremont Lane	6	5591 Fremont Lane 13348 CEDEX 20 Marseille France	43.29502106	5.37448692
+1086	1086	Adams, Hyatt and Mayert	Portugal	Valejas	2730-077	49120 Mockingbird Parkway	6	49120 Mockingbird Parkway 2730-077 Valejas Portugal	38.73502731	-9.26355934
+1087	1087	Schulist, Prosacco and Schneider	Lithuania	Utena	28001	537 8th Junction	8	537 8th Junction 28001 Utena Lithuania	55.2510698	24.7659371
+1088	1088	Heidenreich, Gerhold and Padberg	Poland	Czchów	32-860	14 Melvin Alley	5	14 Melvin Alley 32-860 Czchów Poland	49.840266	20.681776
+1089	1089	Wyman-Hagenes	Portugal	Figueiró dos Vinhos	3260-400	3768 Trailsway Avenue	6	3768 Trailsway Avenue 3260-400 Figueiró dos Vinhos Portugal	41.1517618	-7.78424353
+1090	1090	Hills LLC	Slovenia	Bakovci	9241	28636 Fairfield Street	6	28636 Fairfield Street 9241 Bakovci Slovenia	46.62214661	16.14902687
+1091	1091	Kris-Langosh	Sweden	Ytterby	442 53	80 8th Terrace	8	80 8th Terrace 442 53 Ytterby Sweden	57.8554637	11.88604
+1092	1092	Dibbert, Hansen and Huel	Czech Republic	Velké Pavlovice	691 06	5 Eastwood Parkway	5	5 Eastwood Parkway 691 06 Velké Pavlovice Czech Republic	48.9045223	16.8105856
+1093	1093	King-Steuber	Portugal	Canhestros	7900-495	1 Iowa Hill	6	1 Iowa Hill 7900-495 Canhestros Portugal	47.639385	-122.128265
+1094	1094	Kiehn Inc	Croatia	Zagreb	10020	2499 Florence Place	6	2499 Florence Place 10020 Zagreb Croatia	45.73007202	15.97602558
+1095	1095	Blick, Frami and Schiller	Poland	Chocz	63-313	58012 Hagan Lane	5	58012 Hagan Lane 63-313 Chocz Poland	51.97490311	17.86954689
+1096	1096	Stoltenberg Inc	Portugal	Cruz	4605-431	58 Schlimgen Place	6	58 Schlimgen Place 4605-431 Cruz Portugal	41.2335027	-8.183433
+1097	1097	Heller Group	Portugal	Amorim	4495-103	4 Fieldstone Junction	6	4 Fieldstone Junction 4495-103 Amorim Portugal	41.40132523	-8.74364758
+1098	1098	Bartell, Shanahan and Jenkins	Czech Republic	Zlín	760 01	86991 Chive Way	5	86991 Chive Way 760 01 Zlín Czech Republic	47.639385	-122.128265
+1099	1099	Moen-Conn	Sweden	Stockholm	116 63	2902 Kinsman Parkway	8	2902 Kinsman Parkway 116 63 Stockholm Sweden	26.481339	-97.782111
+1100	1100	Ruecker-Klein	France	Hénin-Beaumont	62254 CEDEX	635 Melrose Place	6	635 Melrose Place 62254 CEDEX Hénin-Beaumont France	50.42045975	2.94785619
+1101	1101	Nikolaus, Carroll and Corkery	Sweden	Södertälje	151 44	31 Mayfield Junction	8	31 Mayfield Junction 151 44 Södertälje Sweden	59.1878403	17.611569
+1102	1102	O'Hara, McKenzie and Rutherford	Greece	Dióni	NA	81635 Redwing Parkway	5	81635 Redwing Parkway  Dióni Greece	39.43540573	-108.03713989
+1103	1103	West, Dickens and Quitzon	Sweden	Forshaga	667 91	4 Veith Terrace	8	4 Veith Terrace 667 91 Forshaga Sweden	59.5615156	13.5694078
+1104	1104	Dickens, Aufderhar and Graham	France	Fontenay-sous-Bois	94124 CEDEX	47 Rieder Road	6	47 Rieder Road 94124 CEDEX Fontenay-sous-Bois France	48.8511734	2.47430182
+1105	1105	Okuneva, Hane and Sauer	Poland	Białaczów	26-307	05594 Golf View Trail	5	05594 Golf View Trail 26-307 Białaczów Poland	26.49417485	-80.11664181
+1106	1106	Rutherford, Kuvalis and Nader	Sweden	Linköping	589 00	99 Pond Park	8	99 Pond Park 589 00 Linköping Sweden	43.977305	-70.567165
+1107	1107	Lowe, Schiller and Windler	France	Albi	81028 CEDEX 9	1493 Packers Circle	6	1493 Packers Circle 81028 CEDEX 9 Albi France	43.92747879	2.14797664
+1108	1108	Abbott, Hegmann and Stracke	Norway	Oslo	581	3365 Truax Plaza	8	3365 Truax Plaza 581 Oslo Norway	43.05366953	-89.52559937
+1109	1109	Ankunding-Waters	Portugal	Moscavide	1885-029	0 Declaration Terrace	6	0 Declaration Terrace 1885-029 Moscavide Portugal	38.77957535	-9.10272789
+1110	1110	Bergstrom-Wisoky	Sweden	Sandviken	811 40	40 Fairfield Plaza	8	40 Fairfield Plaza 811 40 Sandviken Sweden	60.622272	16.7755616
+1111	1111	Roberts Group	Poland	Mogilany	32-031	3 Maywood Hill	5	3 Maywood Hill 32-031 Mogilany Poland	41.055917	-80.6489765
+1112	1112	Rogahn, Wisoky and Larson	United Kingdom	Milton	NG22	199 Northfield Pass	7	199 Northfield Pass NG22 Milton United Kingdom	52.0441996	-0.7589376
+1113	1113	Collins Group	Poland	Dębowiec	43-426	946 Barnett Crossing	5	946 Barnett Crossing 43-426 Dębowiec Poland	49.66207895	21.47417884
+1114	1114	Bradtke-Purdy	France	Paris 08	75390 CEDEX 08	7792 Butternut Avenue	6	7792 Butternut Avenue 75390 CEDEX 08 Paris 08 France	35.14608646	-82.6904059
+1115	1115	Nienow-Simonis	France	Pantin	93504 CEDEX	0424 Coolidge Alley	6	0424 Coolidge Alley 93504 CEDEX Pantin France	35.12741089	-117.95988464
+1116	1116	Mraz and Sons	Czech Republic	Miřetice	539 55	45 Ryan Junction	5	45 Ryan Junction 539 55 Miřetice Czech Republic	49.8453864	15.8903707
+1117	1117	Swaniawski, Turcotte and Bernhard	Greece	Spétses	NA	965 Eastlawn Point	5	965 Eastlawn Point  Spétses Greece	37.26859665	23.15424538
+1118	1118	Walsh, O'Connell and Weber	Sweden	Vaxholm	185 31	5 Bellgrove Lane	8	5 Bellgrove Lane 185 31 Vaxholm Sweden	59.4026357	18.35189
+1119	1119	Heaney Group	Sweden	Nacka	131 83	78 Alpine Way	8	78 Alpine Way 131 83 Nacka Sweden	43.18311784	-111.03071347
+1120	1120	Runolfsson-Braun	Greece	Chalandrítsa	NA	25 Farmco Parkway	5	25 Farmco Parkway  Chalandrítsa Greece	38.10900497	21.78273392
+1121	1121	Parisian-Wiza	Greece	Armenokhórion	NA	895 Express Hill	5	895 Express Hill  Armenokhórion Greece	40.63285722	-79.73041813
+1122	1122	Farrell, Weimann and Predovic	Portugal	Guimarei	4825-171	53 Morrow Alley	6	53 Morrow Alley 4825-171 Guimarei Portugal	41.29542026	-8.47756319
+1123	1123	Schneider Inc	Czech Republic	Moravský Krumlov	672 01	9 Northridge Trail	5	9 Northridge Trail 672 01 Moravský Krumlov Czech Republic	49.0051021	16.2925516
+1124	1124	Abbott and Sons	Greece	Vamvakoú	NA	57945 Cottonwood Pass	5	57945 Cottonwood Pass  Vamvakoú Greece	37.24475098	22.55113029
+1125	1125	Berge, O'Reilly and Hayes	Slovenia	Velenje	3504	78198 Blaine Pass	6	78198 Blaine Pass 3504 Velenje Slovenia	46.35959244	15.11261463
+1126	1126	Kub Inc	France	Le Havre	76600	7 Schlimgen Trail	6	7 Schlimgen Trail 76600 Le Havre France	49.4954127	0.1217827
+1127	1127	Rippin, Boyer and Rutherford	Greece	Skála Oropoú	NA	29 West Hill	5	29 West Hill  Skála Oropoú Greece	38.32074356	23.79001236
+1128	1128	Bode, Ullrich and Gutmann	Czech Republic	Nedašov	763 32	26789 Pennsylvania Alley	5	26789 Pennsylvania Alley 763 32 Nedašov Czech Republic	49.11127472	18.06592369
+1129	1129	Ebert, Schuster and Ernser	Czech Republic	Čížkovice	411 12	1217 Randy Place	5	1217 Randy Place 411 12 Čížkovice Czech Republic	50.73082335	15.1650076
+1130	1130	Bayer-Kozey	Greece	Tríkala	NA	37 Hoard Plaza	5	37 Hoard Plaza  Tríkala Greece	39.5556221	21.76825333
+1131	1131	Price, Cruickshank and Hodkiewicz	Sweden	Kista	164 91	676 Sullivan Point	8	676 Sullivan Point 164 91 Kista Sweden	33.8128435	-84.6840075
+1132	1132	Ward-Rowe	Sweden	Frösön	832 47	2 Longview Avenue	8	2 Longview Avenue 832 47 Frösön Sweden	63.1714708	14.5963364
+1133	1133	Wuckert, Ferry and Reichel	Sweden	Örnsköldsvik	891 25	853 Washington Center	8	853 Washington Center 891 25 Örnsköldsvik Sweden	63.28886032	18.71602058
+1134	1134	Gulgowski-Hintz	Croatia	Semeljci	31402	91048 Truax Place	6	91048 Truax Place 31402 Semeljci Croatia	45.36055374	18.54219627
+1135	1135	Cassin-Reynolds	Greece	Pelópion	NA	6 Dorton Plaza	5	6 Dorton Plaza  Pelópion Greece	38.14803314	23.95284462
+1136	1136	Brekke, Simonis and Jerde	Norway	Haugesund	5518	6140 Sutteridge Drive	8	6140 Sutteridge Drive 5518 Haugesund Norway	59.43681717	5.30834389
+1137	1137	Lind-Wisozk	France	Lyon	69464 CEDEX 06	645 Ludington Drive	6	645 Ludington Drive 69464 CEDEX 06 Lyon France	45.76730728	4.83430672
+1138	1138	Casper-Durgan	Netherlands	Alkmaar	1814	122 Tennessee Plaza	4	122 Tennessee Plaza 1814 Alkmaar Netherlands	52.625138	4.7464753
+1139	1139	Brakus, Hintz and Deckow	Poland	Glinojeck	06-450	29 Sherman Junction	5	29 Sherman Junction 06-450 Glinojeck Poland	40.939145	-74.112902
+1140	1140	Murray-Stracke	Netherlands	Amsterdam Westpoort	1049	774 Mcbride Pass	4	774 Mcbride Pass 1049 Amsterdam Westpoort Netherlands	52.40583038	4.82110977
+1141	1141	Grady-Bernhard	Poland	Siedleczka	37-230	44925 Ronald Regan Place	5	44925 Ronald Regan Place 37-230 Siedleczka Poland	49.96009827	22.37923622
+1142	1142	Brown LLC	France	La Valette-du-Var	83164 CEDEX	13455 Gulseth Street	6	13455 Gulseth Street 83164 CEDEX La Valette-du-Var France	43.1380043	5.98378468
+1143	1143	Dickinson LLC	Sweden	Enskededalen	121 32	820 Vermont Alley	8	820 Vermont Alley 121 32 Enskededalen Sweden	36.7080577	-93.21782255
+1144	1144	Champlin Inc	Portugal	Sobral	2530-285	63754 Holmberg Drive	6	63754 Holmberg Drive 2530-285 Sobral Portugal	39.25154114	-9.25913811
+1145	1145	Grant Group	Sweden	Uddevalla	451 61	263 Mifflin Road	8	263 Mifflin Road 451 61 Uddevalla Sweden	58.36186981	11.92042637
+1146	1146	Graham-Waelchi	Portugal	Sete Cidades	9555-197	08904 Harbort Drive	6	08904 Harbort Drive 9555-197 Sete Cidades Portugal	40.49978256	-74.42601776
+1147	1147	Powlowski Group	Greece	Fotolívos	NA	611 Quincy Circle	5	611 Quincy Circle  Fotolívos Greece	40.63021575	-80.09931052
+1148	1148	Casper Group	Portugal	Quinta da Torre	4920-070	763 Cody Terrace	6	763 Cody Terrace 4920-070 Quinta da Torre Portugal	41.96888435	-8.69237597
+1149	1149	Okuneva Inc	Hungary	Budapest	1024	8 Porter Road	5	8 Porter Road 1024 Budapest Hungary	47.428577	19.0336881
+1150	1150	Marvin, Kemmer and Kling	Poland	Podwilk	34-722	940 Darwin Alley	5	940 Darwin Alley 34-722 Podwilk Poland	49.54265976	19.72640228
+1151	1151	Orn, Trantow and Bins	Sweden	Oxelösund	613 81	852 5th Parkway	8	852 5th Parkway 613 81 Oxelösund Sweden	58.6718734	17.0743242
+1152	1152	Kunze-Johns	Portugal	Torre	6320-475	668 Karstens Junction	6	668 Karstens Junction 6320-475 Torre Portugal	40.32196045	-7.61296272
+1153	1153	Pfannerstill Inc	Poland	Kalej	42-293	6 Briar Crest Street	5	6 Briar Crest Street 42-293 Kalej Poland	41.3008461	-75.8771292
+1154	1154	Crooks-Haley	Poland	Stryszów	34-146	5 Orin Lane	5	5 Orin Lane 34-146 Stryszów Poland	44.07852744	-70.32630951
+1155	1155	Zieme, Altenwerth and Nitzsche	France	Montpellier	34087 CEDEX 4	19308 Kenwood Point	6	19308 Kenwood Point 34087 CEDEX 4 Montpellier France	43.60829163	3.87960339
+1156	1156	O'Keefe, Rippin and Jakubowski	Portugal	Abelheira	2530-063	0 Menomonie Parkway	6	0 Menomonie Parkway 2530-063 Abelheira Portugal	39.28216553	-9.30366516
+1157	1157	Lowe-Ziemann	Portugal	Passagem	2430-632	5 Troy Avenue	6	5 Troy Avenue 2430-632 Passagem Portugal	39.8778241	-8.9228368
+1158	1158	Beier-Bogan	Portugal	Pego Longo	2605-150	65355 Kensington Point	6	65355 Kensington Point 2605-150 Pego Longo Portugal	38.24715042	-93.37019348
+1159	1159	Balistreri and Sons	Croatia	Novi Zagreb	10020	4795 Morning Junction	6	4795 Morning Junction 10020 Novi Zagreb Croatia	45.78332901	15.98332977
+1160	1160	Schmitt, Walter and Glover	Portugal	Luso	3050-225	84 Barnett Road	6	84 Barnett Road 3050-225 Luso Portugal	40.3841391	-8.3818535
+1161	1161	Abbott-Schmitt	France	Nantes	44004 CEDEX 1	1265 Gerald Drive	6	1265 Gerald Drive 44004 CEDEX 1 Nantes France	47.9355728	-1.2327147
+1162	1162	Bruen Inc	Poland	Maszewo Duże	09-412	0696 Rusk Street	5	0696 Rusk Street 09-412 Maszewo Duże Poland	52.58186722	19.62460709
+1163	1163	Kshlerin LLC	Poland	Wiśniewo	06-521	364 Northport Way	5	364 Northport Way 06-521 Wiśniewo Poland	53.06418991	20.34786606
+1164	1164	Bergnaum Inc	Czech Republic	Pacov	571 01	75 Basil Parkway	5	75 Basil Parkway 571 01 Pacov Czech Republic	49.70214081	16.68721771
+1165	1165	Schroeder and Sons	Greece	Ágios Vasíleios	NA	08 Morning Crossing	5	08 Morning Crossing  Ágios Vasíleios Greece	37.79333878	22.8012352
+1166	1166	Leuschke and Sons	Sweden	Kalmar	392 47	639 Hoffman Plaza	8	639 Hoffman Plaza 392 47 Kalmar Sweden	27.75630879	-97.39430373
+1167	1167	Effertz Group	Finland	Kronoby	1760	4340 Mallory Parkway	8	4340 Mallory Parkway 1760 Kronoby Finland	34.316785	-80.1918888
+1168	1168	Tremblay, Gusikowski and Morissette	Greece	Deskáti	NA	381 Acker Lane	5	381 Acker Lane  Deskáti Greece	39.92642212	21.80853653
+1169	1169	Langosh, Buckridge and Reynolds	Poland	Lubowidz	09-304	0171 Red Cloud Center	5	0171 Red Cloud Center 09-304 Lubowidz Poland	26.32490375	-80.26265066
+1170	1170	Considine-Kutch	Portugal	Tojal	4620-931	76 Gateway Trail	6	76 Gateway Trail 4620-931 Tojal Portugal	41.25185396	-8.31811219
+1171	1171	Hayes, Stamm and Kerluke	Spain	Ceuta	51005	465 Kenwood Trail	6	465 Kenwood Trail 51005 Ceuta Spain	36.50883834	-88.06968357
+1172	1172	Bailey and Sons	Poland	Stara Kornica	08-205	021 Gulseth Court	5	021 Gulseth Court 08-205 Stara Kornica Poland	52.18357468	22.93655777
+1173	1173	Haag-Greenfelder	Portugal	Paderne	8200-510	19963 Transport Street	6	19963 Transport Street 8200-510 Paderne Portugal	37.17625046	-8.2021637
+1174	1174	Bauch, Kautzer and Hackett	Portugal	Fradelos	4705-676	4 Harbort Road	6	4 Harbort Road 4705-676 Fradelos Portugal	41.5092295	-8.47510728
+1175	1175	Muller-Kautzer	Sweden	Skövde	541 45	4321 Little Fleur Terrace	8	4321 Little Fleur Terrace 541 45 Skövde Sweden	58.40343857	13.8560276
+1176	1176	Bashirian-Reinger	Poland	Nieborów	99-416	27661 Cody Alley	5	27661 Cody Alley 99-416 Nieborów Poland	52.06804666	20.07391564
+1177	1177	Schuppe-Upton	Norway	Bodø	8010	9082 Sugar Court	8	9082 Sugar Court 8010 Bodø Norway	41.25713828	-87.82453027
+1178	1178	Ledner Group	Poland	Nowy Dwór Mazowiecki	05-160	70896 Linden Junction	5	70896 Linden Junction 05-160 Nowy Dwór Mazowiecki Poland	30.44441032	-91.14356232
+1179	1179	Farrell-Roob	Latvia	Aizkraukle	NA	3010 Sutherland Circle	8	3010 Sutherland Circle  Aizkraukle Latvia	56.60137177	25.25351715
+1180	1180	Mayer and Sons	Sweden	Hässleholm	281 23	9 Moland Lane	8	9 Moland Lane 281 23 Hässleholm Sweden	56.1574707	13.76947021
+1181	1181	Funk, Hayes and Cassin	Greece	Marathókampos	NA	53 Farragut Junction	5	53 Farragut Junction  Marathókampos Greece	43.143906	-77.657191
+1182	1182	Wolf, Pfeffer and Sauer	Portugal	Albergaria	3040-555	7948 Briar Crest Drive	6	7948 Briar Crest Drive 3040-555 Albergaria Portugal	40.17156601	-8.48095608
+1183	1183	Johns Group	Poland	Nowy Korczyn	28-136	03 Kinsman Crossing	5	03 Kinsman Crossing 28-136 Nowy Korczyn Poland	50.29993057	20.80716705
+1184	1184	Jacobs-McGlynn	Portugal	Paranho	4785-266	05 Moose Junction	6	05 Moose Junction 4785-266 Paranho Portugal	40.61258316	-8.09968376
+1185	1185	Batz Inc	Finland	Jäppilä	77570	077 Bonner Parkway	8	077 Bonner Parkway 77570 Jäppilä Finland	33.45029523	-80.48330458
+1186	1186	Windler, Hirthe and Bayer	Sweden	Kalmar	391 21	5 Comanche Trail	8	5 Comanche Trail 391 21 Kalmar Sweden	34.16269869	-84.84424573
+1187	1187	Quigley-Harber	France	Beauvais	60022 CEDEX	0 Duke Crossing	6	0 Duke Crossing 60022 CEDEX Beauvais France	49.4292984	2.08105969
+1188	1188	Lehner Group	Poland	Laliki	04-358	1 Spenser Parkway	5	1 Spenser Parkway 04-358 Laliki Poland	49.5673632	19.0695127
+1189	1189	Wolf Inc	Portugal	Pinhal da Marquesa	2950-577	7507 Buhler Way	6	7507 Buhler Way 2950-577 Pinhal da Marquesa Portugal	38.59072275	-8.97883366
+1190	1190	Nolan, Marks and Hagenes	Italy	Mestre	30175	7945 Rieder Avenue	6	7945 Rieder Avenue 30175 Mestre Italy	45.49583817	12.24410725
+1191	1191	Gibson-Wisoky	Czech Republic	Uherský Brod	688 01	751 Dawn Plaza	5	751 Dawn Plaza 688 01 Uherský Brod Czech Republic	49.022406	17.6463757
+1192	1192	Schmitt-Hudson	France	Niort	79099 CEDEX 9	778 Golden Leaf Avenue	6	778 Golden Leaf Avenue 79099 CEDEX 9 Niort France	46.32385635	-0.45758361
+1193	1193	Bogisich and Sons	Portugal	Calvos	4810-804	913 Fuller Drive	6	913 Fuller Drive 4810-804 Calvos Portugal	41.59251785	-8.26495075
+1194	1194	Oberbrunner-Haag	Czech Republic	Rumburk	407 53	43 Esch Lane	5	43 Esch Lane 407 53 Rumburk Czech Republic	50.9858475	14.5685911
+1195	1195	Prohaska, Jones and Hilpert	Poland	Długosiodło	07-210	66 Knutson Plaza	5	66 Knutson Plaza 07-210 Długosiodło Poland	52.75996399	21.59612465
+1196	1196	Rempel and Sons	Portugal	Monte Redondo	2565-522	49 Hoepker Avenue	6	49 Hoepker Avenue 2565-522 Monte Redondo Portugal	39.1163341	-9.2014431
+1197	1197	Nicolas Inc	Portugal	Chãos	4690-805	6 Dorton Avenue	6	6 Dorton Avenue 4690-805 Chãos Portugal	39.4217245	-9.1810775
+1198	1198	Leannon, Mayert and Spencer	Italy	Firenze	50136	11297 Forest Run Alley	6	11297 Forest Run Alley 50136 Firenze Italy	41.47810004	-81.60605953
+1199	1199	Schinner Group	Poland	Dębno	74-400	5 Forest Run Place	5	5 Forest Run Place 74-400 Dębno Poland	41.0330974	-80.6165756
+1200	1200	Ernser Inc	Poland	Krasnystaw	22-300	6 Hoffman Circle	5	6 Hoffman Circle 22-300 Krasnystaw Poland	50.987665	23.153838
+1201	1201	Murphy-Metz	Poland	Praszka	46-320	92687 Ilene Crossing	5	92687 Ilene Crossing 46-320 Praszka Poland	39.31222902	-86.86575737
+1202	1202	Pfeffer Inc	Denmark	København	1656	168 Doe Crossing Place	8	168 Doe Crossing Place 1656 København Denmark	32.33624475	-81.6564098
+1203	1203	Schuster-Price	France	Paris 13	75706 CEDEX 13	78883 Summer Ridge Pass	6	78883 Summer Ridge Pass 75706 CEDEX 13 Paris 13 France	48.7900122	2.3252292
+1204	1204	Fay and Sons	Czech Republic	Sobotín	788 16	756 Ridgeway Drive	5	756 Ridgeway Drive 788 16 Sobotín Czech Republic	50.01037979	17.09126854
+1205	1205	Swaniawski, Larson and Hahn	Slovenia	Beltinci	9231	25 Crownhardt Alley	6	25 Crownhardt Alley 9231 Beltinci Slovenia	46.6248348	16.225313
+1206	1206	Sporer Group	Portugal	Casal de São João	3040-704	21029 Garrison Terrace	6	21029 Garrison Terrace 3040-704 Casal de São João Portugal	40.16266958	-8.42500014
+1207	1207	Funk, Rempel and Bernhard	Croatia	Baška Voda	21320	95336 Pankratz Junction	6	95336 Pankratz Junction 21320 Baška Voda Croatia	43.35845184	16.94779968
+1208	1208	Tillman LLC	Greece	Panórama	NA	870 Almo Park	5	870 Almo Park  Panórama Greece	43.18288008	-77.65296503
+1209	1209	Tremblay, Roob and Rolfson	Croatia	Krapina	49000	8379 Luster Pass	6	8379 Luster Pass 49000 Krapina Croatia	46.1640625	15.86998272
+1210	1210	Adams and Sons	Poland	Głogów Małopolski	36-060	71 Elmside Terrace	5	71 Elmside Terrace 36-060 Głogów Małopolski Poland	50.1540184	21.96360207
+1211	1211	Marks and Sons	Sweden	Bromma	168 37	8 Vermont Circle	8	8 Vermont Circle 168 37 Bromma Sweden	59.3300053	17.9425303
+1212	1212	Hermann, Abernathy and Champlin	Finland	Punkaharju	58501	99 Waubesa Center	8	99 Waubesa Center 58501 Punkaharju Finland	61.7849963	29.2916009
+1213	1213	Hahn, DuBuque and Lubowitz	Portugal	Quintãs	3505-556	0 Garrison Trail	6	0 Garrison Trail 3505-556 Quintãs Portugal	41.08144379	-7.90818071
+1214	1214	Lind, Pfeffer and Schultz	Spain	Palmas De Gran Canaria, Las	35005	76 Fuller Terrace	6	76 Fuller Terrace 35005 Palmas De Gran Canaria, Las Spain	28.112932	-15.4192998
+1215	1215	Dicki-Rice	Czech Republic	Bludov	789 61	342 Bultman Junction	5	342 Bultman Junction 789 61 Bludov Czech Republic	49.9408226	16.92752647
+1216	1216	Rice LLC	Czech Republic	Humpolec	342 01	92076 Warrior Court	5	92076 Warrior Court 342 01 Humpolec Czech Republic	49.18111038	13.55456066
+1217	1217	Mayert, Boehm and Bergstrom	France	Besançon	25024 CEDEX	39102 Myrtle Place	6	39102 Myrtle Place 25024 CEDEX Besançon France	47.24126816	6.02553082
+1218	1218	Boyer-Carroll	Norway	Sandnes	4396	3180 Morrow Pass	8	3180 Morrow Pass 4396 Sandnes Norway	44.60508895	-95.67433695
+1219	1219	Streich, Will and Von	Poland	Trzebinia	32-541	89 Sunnyside Junction	5	89 Sunnyside Junction 32-541 Trzebinia Poland	50.209942	19.469845
+1220	1220	McGlynn, Crooks and Runolfsdottir	Sweden	Farsta	123 57	1 Lighthouse Bay Point	8	1 Lighthouse Bay Point 123 57 Farsta Sweden	30.54471846	-98.35604491
+1221	1221	Legros and Sons	Portugal	Santo Amador	7875-254	25659 Weeping Birch Plaza	6	25659 Weeping Birch Plaza 7875-254 Santo Amador Portugal	38.13718796	-7.30903435
+1222	1222	Lehner LLC	Sweden	Eskilstuna	632 32	10 Parkside Crossing	8	10 Parkside Crossing 632 32 Eskilstuna Sweden	59.3568862	16.4834223
+1223	1223	Cummings-Schroeder	France	La Garde	83953 CEDEX	2738 Doe Crossing Junction	6	2738 Doe Crossing Junction 83953 CEDEX La Garde France	43.12490845	6.00997543
+1224	1224	Stoltenberg, Schaden and Grimes	Portugal	Alcabideche	2645-024	6285 Myrtle Plaza	6	6285 Myrtle Plaza 2645-024 Alcabideche Portugal	38.73741913	-9.3995924
+1225	1225	Hansen, Adams and Auer	Portugal	Duas Igrejas	3700-819	99851 Colorado Way	6	99851 Colorado Way 3700-819 Duas Igrejas Portugal	41.27724778	-8.40560901
+1226	1226	Pacocha, Powlowski and Runte	Portugal	Fojo	4650-071	1305 Butternut Court	6	1305 Butternut Court 4650-071 Fojo Portugal	41.85466003	-8.49945736
+1227	1227	Kunde LLC	Portugal	Lapa do Lobo	3525-606	66 Golden Leaf Center	6	66 Golden Leaf Center 3525-606 Lapa do Lobo Portugal	37.28744972	-121.94225091

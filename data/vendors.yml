@@ -1,0 +1,29 @@
+..generic:
+  git2rdata: 0.4.0
+  optimize: yes
+  NA string: NA
+  sorting: rownb
+  hash: 4d410a0a9a0406349d49fd35175cc41fd89f2d7e
+  data_hash: 36df7b7bd7889e4ceb971a736e55cf1da8cce26c
+rownb:
+  class: numeric
+vendorkey:
+  class: numeric
+vendor_tier:
+  class: character
+vendor_name:
+  class: character
+vendor_country:
+  class: character
+vendor_city:
+  class: character
+vendor_postal_code:
+  class: character
+vendor_street:
+  class: character
+full_address:
+  class: character
+latitude:
+  class: numeric
+longitude:
+  class: numeric

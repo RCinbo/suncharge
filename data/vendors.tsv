@@ -1,0 +1,10 @@
+rownb	vendorkey	vendor_tier	vendor_name	vendor_country	vendor_city	vendor_postal_code	vendor_street	full_address	latitude	longitude
+1	1001	T0	Antwerp Production	Belgium	Antwerp	2030	Scheldelaan	Scheldelaan 2030 Antwerp Belgium	51.29672595	4.3141291
+2	1002	T0	Wrocław Production	Poland	Wrocław	54-202	Legnicka	Legnicka 54-202 Wrocław Poland	51.12477773	16.98791662
+3	1003	T0	Lyon Production	France	Lyon	69160	Av. Mathieu Misery	Av. Mathieu Misery 69160 Lyon France	45.7541367	4.7674352
+4	1	T1	Fadel Group	China	Jiaxing	NA	Xiuzhou District	Xiuzhou District  Jiaxing China	30.76531982	120.70905304
+5	2	T1	Stiedemann	Germany	Dortmund	44135	27013, Talisman Park	27013, Talisman Park 44135 Dortmund Germany	51.55166003	7.3656041
+6	3	T1	Walker-Homenick	Poland	Poznan	60-001	99, Bluejay Pass	99, Bluejay Pass 60-001 Poznan Poland	52.4114819	16.8321731
+7	4	T1	Greenfelder and Sons	United States	Detroit	48127	99378, Dorton Point	99378, Dorton Point 48127 Detroit United States	44.80136527	-69.33625851
+8	5	T1	DragonCell Energy	China	Shanghai	NA	Hai Yang Lu	Hai Yang Lu  Shanghai China	31.23036957	121.47370148
+9	6	T1	JadePower Battery	Taiwan	Miaoli	NA	392-416, Zhonghua Rd	392-416, Zhonghua Rd  Miaoli Taiwan	24.581576	120.825001

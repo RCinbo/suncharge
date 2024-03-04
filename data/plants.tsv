@@ -1,0 +1,9 @@
+rownb	plantkey	plant	plant_type	plant_name	plant_city	plant_postal_code	plant_street	full_address	latitude	longitude
+1	1	ANT1	Production	Antwerp Production	Antwerp	2030	Scheldelaan	Scheldelaan 2030 Antwerp	51.29672595	4.3141291
+2	2	WRO1	Production	Wrocław Production	Wrocław	54-202	Legnicka	Legnicka 54-202 Wrocław	51.12477773	16.98791662
+3	3	LYO1	Production	Lyon Production	Lyon	69160	Av. Mathieu Misery	Av. Mathieu Misery 69160 Lyon	45.75694786	4.76651959
+4	4	ANT2	Distribution Center	Antwerp DC	Antwerp	2030	Scheldelaan	Scheldelaan 2030 Antwerp	51.29672595	4.3141291
+5	5	WRO2	Distribution Center	Wrocław DC	Wrocław	54-202	Legnicka	Legnicka 54-202 Wrocław	51.12477773	16.98791662
+6	6	LYO2	Distribution Center	Lyon DC	Lyon	69160	Av. Mathieu Misery	Av. Mathieu Misery 69160 Lyon	45.75694786	4.76651959
+7	7	BIR2	Distribution Center	Birmingham DC	Birmingham	B14 7PQ	Howard Rd	Howard Rd B14 7PQ Birmingham	52.42858772	-1.89852285
+8	8	GOT2	Distribution Center	Göteborg DC	Göteborg	418 78	Assar Gabrielssons väg	Assar Gabrielssons väg 418 78 Göteborg	57.72345832	11.84999262
